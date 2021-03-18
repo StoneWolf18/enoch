@@ -570,6 +570,7 @@ b.whiteBold {
   border-right: 3px solid #a0467b;
   background-color: rgba(160, 70, 123, .2);
   color: rgba(160, 70, 123, 1);
+  margin-top: 20px;
 }
 
 .yourAttentionPleaseWhite {
@@ -578,6 +579,7 @@ b.whiteBold {
   border-right: 3px solid white;
   background-color: rgba(255, 255, 255, .2);
   color: white;
+  margin-top: 20px;
 }
 
 .fa-circle {
@@ -585,6 +587,13 @@ b.whiteBold {
   color: #a0467b;
 
 }
+
+.fa-angle-double-up {
+
+  color: white;
+
+}
+
 
 .markdown-section th.white {
   background-color: white;
@@ -603,7 +612,7 @@ th.white {
   height: 50px;
   padding: 12px 32px;
   font-size: 20px;
-  margin-top: 80px;
+  margin-top: 25px;
   color: white;
   transition-duration: 0.4s;
   border-width: 0px;
@@ -611,6 +620,25 @@ th.white {
 
 .discordJoin:hover {
   background-color: #8ea1e1;
+  cursor: pointer;
+}
+
+.toTop {
+  background-color: #a0467b;
+  border-radius: 28px;
+  border-color: #a0467b;
+  width: 35px;
+  height: 35px;
+  font-size: 20px;
+  position: fixed;
+  left: 97%;
+  color: white;
+  transition-duration: 0.4s;
+  border-width: 0px;
+}
+
+.toTop:hover {
+  background-color: #c171a0;
   cursor: pointer;
 }
 
@@ -647,6 +675,125 @@ summary.sideBar::-webkit-details-marker {
 ul.indentRegular{
   text-indent: 0px;
 }
+
+th.blue {
+  color: #384b7e;
+}
+
+.subHeader{
+  font-style: italic;
+  font-size: 0.6em;
+  color: #384b7e;
+  font-weight: normal;
+  font-family: 'Noto Sans', sans-serif;
+  text-indent: 0px;
+}
+
+summary.accordion {
+  list-style-type: none;
+  font-size: 1.5em;
+  color: #a0467b;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  text-indent: -26px;
+  margin-bottom: 10px;
+  height: 50px;
+}
+
+summary.accordion::-webkit-details-marker {
+  visibility: hidden;
+}
+
+summary.toc {
+  list-style-type: none;
+  text-indent: 0px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+summary.toc::-webkit-details-marker {
+  visibility: hidden;
+}
+
+details.toc {
+  border-left: 3px solid #a0467b;
+  padding: 10px;
+}
+
+input.toc {
+  display: none;
+  visibility: hidden;
+}
+label.toc {
+  display: block;
+  padding: 0.5em;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  border-left: 3px solid #a0467b;
+  cursor: pointer;
+}
+
+label.toc::before {
+  vertical-align: text-top;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 3px;
+}
+#expand {
+  height: 0px;
+  overflow: hidden;
+  transition: height 0.3s;
+  border-left: 3px solid #a0467b;
+  color: #384b7e;
+  margin-bottom: 10px;
+}
+
+ul.toc {
+ margin-top: 0px;
+ margin-left: -5px;
+ list-style: none;
+}
+
+#toggle:checked ~ #expand {
+  height: 835px;
+}
+
+.scroll-to-top
+{
+   display: block;
+   overflow: hidden;
+   position: fixed;
+   right: 15px;
+   bottom: 15px;
+   width: 35px!important;
+   height: 35px!important;
+   background: #a0467b!important;
+   color: transparent!important;
+   border: 1px solid #a0467b!important;
+   border-radius: 28px!important;
+   font-size: 20px!important;
+   text-align: center;
+   cursor: pointer;
+   padding-left: 10px;
+   line-height: 1.7em!important;
+   transition-duration: 0.4s!important;
+   box-shadow: none!important;
+}
+
+.scroll-to-top:before{
+  font-family: "Font Awesome 5 Free";
+  content: "\f102";
+  font-weight: 900;
+  color: white;
+}
+
+.scroll-to-top:hover {
+  border: 1px solid #c171a0!important;
+  background-color: #c171a0!important;
+}
+
 
 @media screen and (max-width:990px) {
 .container {padding: 1em;}

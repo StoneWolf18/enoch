@@ -34,12 +34,30 @@ These are our Approved resources. The character sheet linked below must be used 
 * <a href="http://bit.ly/Ghoul-Sheet-2021">Ghoul</a>
 * <a href="http://bit.ly/Human-Sheet-2021">Human</a>
 
-<div class="swatchHeader" style="color: #100c0d;">
+<div class="yourAttentionPleaseWhite">
+
+<b>Important</b>
+
+There's a colored key above the title on each of the sheets. This should be used when applying dots so it's easier to tell at a glance how they got what.
+
+* <span style="color: orange;">Free</span> should only be used for the first dot in Drive and Computer. Base dots (the ones you distribute) should remain black.
+* <span style="color: #4a86e8">Freebies</span> mean any dots bought with freebies
+* <span style="color: red;">Experience</span> are any dots bought with experience
+* <span style ="color:#9900ff;">Earned</span> are any dots earned in character. Normally, this will only apply to backgrounds, as they can't be purchased with experience directly.
+
+<a href="https://docs.google.com/document/d/1MYGJTFqLD41o-daD-GCoixAMZmmxCs3eak_Qld0rhd4/edit?usp=sharing">This</a> is an example of a sheet that's been filled out properly and has been used in play for some time.
+
+<em><b>Please</b></em> follow this key. We won't review a sheet until it's been marked properly.
+
+</div>
+
+<div class="swatchHeader" style="color: #100c0d; margin-top: 10px;">
 House Rules and Restrictions
 </div>
-Before you begin, please familiarize yourself with our <a href="rules.md#house-rules">House Rules</a>.
+Before you begin, please familiarize yourself with our House Rules.
 
 Other restrictions include:
+* All characters must be <b>at least</b> 18 years old. For vampires, this means they must have been at least 18 at the time of their embrace.
 * Revenants are not available for play at this time
 * All combination disciplines are banned
 * Any 5 dot trait <b class="whiteBold">must</b> be purchased with experience

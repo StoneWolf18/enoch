@@ -14,11 +14,25 @@
   Foreward
   </div>
 
-  LA in Anarchy is set in 2026 Los Angeles, though with days advancing as close to real time as possible. Because of this, we are both moving away from the metaplot detailed in <a href="https://whitewolf.fandom.com/wiki/Los_Angeles_by_Night">Los Angeles by Night (1994)</a> and <a href="https://whitewolf.fandom.com/wiki/Vampire:_The_Masquerade_5th_Edition">Vampire: the Masquerade 5th Edition (2018)</a> to create an experience unique to our setting.
+  LA in Anarchy is set in 2029 Los Angeles, though with days advancing as close to real time as possible. Because of this, we are both moving away from the metaplot detailed in <a href="https://whitewolf.fandom.com/wiki/Los_Angeles_by_Night">Los Angeles by Night (1994)</a> and <a href="https://whitewolf.fandom.com/wiki/Vampire:_The_Masquerade_5th_Edition">Vampire: the Masquerade 5th Edition (2018)</a> to create an experience unique to our setting.
 
   It's important to note that we consider our setting to be in Modern Nights as opposed to Final Nights. Aside from the Week of Nightmares, no other Final Nights events (wars, political changes, etc) are recognized. However, this is from a meta point of view, and characters are able to believe the end-times are upon them if they wish.
 
-  Below is the timeline of events. This is a build up of important happenings since 2018, so please take a moment to read through before making your character.
+  Below is the timeline of events. This is a build up of important happenings since the server's opening in 2018, so please take a moment to read through before making your character.
+
+  <div class="yourAttentionPleaseWhite">
+
+  <b>Wait, 2029? How Sci-fi is the setting?</b>
+
+  The short answer is: not very.
+
+  More specifically, following the trend of predictions versus actual technological outcomes, we were pretty off the mark. It was assumed we might have colonized Mars by 2020, and all we got were slightly bigger smart phones and semi-autonomous cars in a legal grey area. Apple first released their smart watch in 2015 and it was only mid to late 2020 that the concept really started to take off. While there can be some logical assumptions made about how tech has advanced, the setting is by no means Cyberpunk.
+
+  <b>What about COVID?</b>
+
+  We've chosen to ignore it for the setting. Any biographies should be written as if it hadn't occurred.
+
+  </div>
 
   <div class="leftHeader" style="color: white;">
   Pre-chronicle Events

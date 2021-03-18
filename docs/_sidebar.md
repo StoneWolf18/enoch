@@ -4,6 +4,8 @@
   * [Standard Guide](standard-guide.md)
   * [New Player Guide](new-player-guide.md)
   * [NPC Guidelines](npc-guidelines.md)
+  * [Reworks](reworks.md)
+  * [Bloodlines](bloodlines.md)
 * Resources
 
 <details class="sideBar">

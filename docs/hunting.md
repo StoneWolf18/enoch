@@ -33,7 +33,9 @@ Process
 * Calculate the difficulty
 * Roll your pool of dice against the difficulty
 
-<div class="yourAttentionPlease" style="margin-top: 20px;">
+You can take as many blood points from a hunt as you get successes, which can be from different vessels.
+
+<div class="yourAttentionPlease">
 
 <b>Please inform the Storyteller or an Assistant before rolling if:</b>
 * This is your first hunting roll on the server
@@ -124,6 +126,14 @@ A botch isn't a failure — it's considerably worse. Because the outcome of the 
  <div class="leftHeader">
  Locations
  </div>
+<div class ="secondHeader">Vitae Dealer</div>
+
+Purchasing blood bags will always require a vitae dealer roll (Manipulation + Subterfuge) in the chosen location at the difficulty dictated by the charts below. Additionally:
+
+* You can only get as many blood bags as you have resources dots, even if the number of successes is higher
+  * If you don't have any resource dots, you can't attempt this method.
+* Vitae dealer can only be rolled once per night.
+* Mark any acquired blood bags on your character sheet.
 
 <div class="secondHeader">
 Downtown
@@ -345,7 +355,7 @@ One of the hotspots of LA, there are always tourists who make exceptional seduct
 Outskirts
 </div>
 
-One of the hotspots of LA, there are always tourists who make exceptional seduction targets.
+Beyond the city are prime locations for catching animals, or the unfortunate mortal who took a wrong turn.
 
 * <b>Default Difficulty:</b> 6
 * <b>Recommended Roll:</b> Feral Hunter— Stamina + Survival
