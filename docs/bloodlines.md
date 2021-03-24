@@ -10,7 +10,7 @@
 </div>
 
 <div class = "container">
-All Bloodlines (any clan/bloodline that isn't of the 10 allowed clans) are restricted. There are special conditions that must be met before a Bloodline character can be considered for approval:
+All Bloodlines (any clan/bloodline that isn't of the 12 allowed clans) are restricted. There are special conditions that must be met before a Bloodline character can be considered for approval:
 
 * The player must have at least two characters that are played regularly.
 * Five nonrefundable freebies must be spent on the chosen bloodline.
@@ -27,7 +27,7 @@ To make it a commitment, much like buying an expensive merit.
 
 <b>Important</b>
 
-Please do your research! If you can't give a viable reason as to why an Old Clan Timzisce or Kiasyd would be in LA in the Modern Nights, it might be best to consider playing something else.
+Please do your research! If you can't give a viable reason as to why a Harbinger or Kiasyd would be in LA in the Modern Nights, it might be best to consider playing something else.
 
 </div>
 
@@ -77,11 +77,6 @@ Please do your research! If you can't give a viable reason as to why an Old Clan
     <td>Maeghar</td>
     <td>Can't be loyal to the Tal'Mahe'Rah</td>
   </tr>
-  <tr>
-    <td>Old Clan Tzimisce</td>
-    <td>Can't be a Koludnic Sorcerer</td>
-  </tr>
-  <tr>
     <td>Salubri</td>
     <td>None</td>
   </tr>

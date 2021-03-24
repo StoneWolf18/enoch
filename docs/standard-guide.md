@@ -113,13 +113,12 @@ Vampires
 
 * <b>Generation:</b> 8th-15th generations
 * <b>Age:</b> Freshly embraced to 500 years old with torpor included
-* <b>Bloodlines:</b> If you are interested in playing a bloodline please see the <a href="bloodlines.md">specific page</a> for more information.
+* <b>Bloodlines:</b> If you are interested in playing a bloodline please see the <a href="#bloodlines">specific page</a> for more information.
 
 </div>
 
-<div class="yourAttentionPlease">
-
-<b>So you want to play a 15th generation thinblood...</b>
+<details>
+<summary><b>So you want to play a 15th generation thinblood... (Click me!)</b></summary>
 
 The V20 flaw will still:
 * Limit their blood pool to 6 useable out of 10
@@ -138,9 +137,7 @@ However, the following modifications have been made:
 * Need to breathe, sleep, and consume food alongside vitae
 
 Other details (such a whether or not they have fangs or are affected by daysleep) are left to the player's discretion.
-
-</div>
-
+</details>
   <!-- tabs:start -->
 
   #### ** Assamites **
@@ -264,6 +261,29 @@ The Seers found themselves divided as the Camarilla waned and crumbled around th
   * <b>Weakness:</b> Tremere dependency on blood is even more pronounced than that of other Kindred. It takes only two draughts of another vampire’s blood for a Tremere to become blood bound instead of the normal three — the first drink counts as if the Tremere had taken two drinks.
   * <b>Ghoul Weakness:</b> Tremere ghouls are extremely susceptible to the blood bond. Their difficulty to break the blood bond is twice that of other ghouls.
 
+  #### ** Tzimisce Antitirbu **
+
+  <div class="secondHeader">Tzimisce Antitirbu</div>
+  <em>"Why on earth would you think I wanted you to stop screaming? I find the results so much more melodious when you indulge your fear."</em>
+
+  While many Fiends are ever more committed to the Sword's cause since the Regression, there was still some turmoil amongst them. Metamorphosis requires change, and the Regression caused one previously thought impossible: making Cainites into Kine once more. This sentiments were only reinforced once the static undead began to birth living, mortal life. Not long after, many of the clan, young and old, went to seek refuge elsewhere.
+
+  <div class ="yourAttentionPlease">
+
+  <b>Yes, Sabbat are still banned.</b>
+
+   This isn't a way to circumvent that rule, but rather allow players to still have access to a clan that would otherwise be unavailable due to that limitation. Tzimisce Antitirbu in play don't need to be humane, but they <b>cannot</b> be aligned with the Sword any longer. Characters who go about this in scenes regardless of the ban will be removed from play.
+
+   </div>
+
+  <ul>
+  * <b>Sect:</b> Anarch (Younger Antitirbu), Independent (Older Antitirbu)
+  * <b>Disciplines:</b>  Animalism, Auspex, Vicissitude
+  * <b>Weakness:</b> The Tzimisce are inextricably tied to their domains of origin, and must rest in the proximity of at least two handfuls of “native soil” — earth from a place important to her as a mortal, such as the soil from her birthplace or the graveyard where she underwent her Embrace. Each night spent without this physical connection to her land limits all of the Tzimisce’s dice pools to one-half, cumulatively, until she has only a single die in her pool. The penalty remains until she rests for a full day amid her earth once more.
+  * <b>Ghoul Weakness:</b> While Tzimisce ghouls are not undead, the vitae that flows through their veins causes mortals to be wary and uneasy around them. Because of this, difficulties of all rolls related to social interaction with mortals untainted by vitae are increased by two.
+  </ul>
+
+  <b>Additional Note:</b> to keep Vicissitude from getting too out of hand, all Tzimsice Antitirbu are limited to a <b>maximum of 2 Retainer dots.</b> This means both during character creation and during play; in other words, no additional dots can be earned, either.
 
   #### ** Ventrue **
 
@@ -294,6 +314,14 @@ The Seers found themselves divided as the Camarilla waned and crumbled around th
   </ul>
 
   <!-- tabs:end -->
+
+  <div class="yourAttentionPlease">
+
+  <b>What about Lasombra?</b>
+
+  Because of how strong Obtenebration is, Lasombra Antitirbu are playable as a bloodline only. You can read about how to play a bloodline <a href="#bloodlines">here</a>.
+
+  </div>
 
   <div class="leftHeader"">
   Traits
@@ -685,7 +713,7 @@ Can take 1 Experience Point for every active year (not in torpor) as a Vampire. 
   </tr>
   <tr>
     <td>Other Discipline</td>
-    <td>Current rating x 5</td>
+    <td>Current rating x 7</td>
   </tr>
   <tr>
     <td>Thaumaturgy/Necromancy Path</td>

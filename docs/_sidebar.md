@@ -1,11 +1,11 @@
-* [Rules](rules.md)
-* [Setting](setting.md)
+* [Rules](rules.md "LAiA - Rules")
+* [Setting](setting.md "LAiA - Setting")
 * Character Creation
-  * [Standard Guide](standard-guide.md)
-  * [New Player Guide](new-player-guide.md)
-  * [NPC Guidelines](npc-guidelines.md)
-  * [Reworks](reworks.md)
-  * [Bloodlines](bloodlines.md)
+  * [Standard Guide](standard-guide.md "LAiA - Standard Guide")
+  * [New Player Guide](new-player-guide.md "LAiA - New Player Guide")
+  * [NPC Guidelines](npc-guidelines.md "LAiA - NPC Guidelines")
+  * [Reworks](reworks.md "LAiA - Character Reworks")
+  * [Bloodlines](bloodlines.md "LAiA - Bloodlines")
 * Resources
 
 <details class="sideBar">
@@ -15,12 +15,12 @@ Traits
 
 <ul class="sideBar">
 
-* [Archetypes](archetypes.md)
-* [Attributes](attributes.md)
-* [Abilities](abilities.md)
-* [Backgrounds](backgrounds.md)
-* [Willpower](willpower.md)
-* [Disciplines](disciplines.md)
+* [Archetypes](archetypes.md "LAiA - Archetypes")
+* [Attributes](attributes.md "LAiA - Attributes")
+* [Abilities](abilities.md "LAiA - Abilities")
+* [Backgrounds](backgrounds.md "LAiA - Backgrounds")
+* [Willpower](willpower.md "LAiA - Willpower")
+* [Disciplines](disciplines.md "LAiA - Disciplines")
 
 </ul>
 

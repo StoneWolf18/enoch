@@ -11,7 +11,17 @@
 <div class="blueWrapper" style="background-color: #0e0a0b; margin-top: -10px; padding-top: 2em;">
 <div class="container">
 
-Here in Los Angeles in Anarchy, there are three different tiers of NPCs that are available for players to utilize. It is worth while to note that any time an NPC is to be played, the PC they are connected to must have an active part in the scene. If you wish to play an NPC alone in a scene without the PC connection, they must be made into a legitimate PC.
+Here in LA in Anarchy, there are three different tiers of NPCs that are available for players to utilize. It is worth while to note that any time an NPC is to be played, the PC they are connected to must have an active part in the scene. If you wish to play an NPC alone in a scene without the PC connection, they must be made into a legitimate PC.
+
+<div class="yourAttentionPleaseWhite" style="margin-bottom: 20px;">
+
+<b>Important</b>
+
+Because of the volume of players on the server, Storytellers will not normally play personal NPCs. This includes: allies, contacts, mentors, and retainers.
+
+Some circumstances do arise where an ST will pilot such an NPC, such as a contact having been earned in-character, but this isn't the norm. Please only take dots in those backgrounds if you're willing to play these NPCs yourself.
+
+</div>
 
 <div class="swatchHeader" style="color: #100c0d; margin-top: 10px;">
 One-Offs
@@ -36,6 +46,8 @@ Staple
 <em><b>Backgrounds Encompassed:</b> Retainers, Mentor</em>
 
 Anyone intended to be used in a mechanical fashion or that has a considerable effect upon your character is considered a staple NPC and requires a sheet before they are playable. They do not need to be as fleshed out as a PC, but mechanically the sheet should be finished and submitted to Caine with a note that they are an NPC.
+
+<b>Note:</b> All NPCs must follow character creation rules, so, for example, a PC's 7th generation sire wouldn't be able to come into play.
 </div>
 </div>
 <div class= "blueWrapper" style="margin-top: -20px;">

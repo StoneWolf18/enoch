@@ -23,7 +23,7 @@ LA in Anarchy at a Glance
     <div class="secondHeader">
       Creation Options
     </div>
-    Players familiar with Vampire can start with characters from 10 different clans, with a maximum age of 500, and 100 potential bonus experience upon creation. Once the requirements are met, one of the many bloodlines we have available can be applied for as well.
+    Players familiar with Vampire can start with characters from 12 different clans, with a maximum age of 500, and 100 potential bonus experience upon creation. Once the requirements are met, one of the many <a href="#bloodlines">bloodlines</a> we have available can be applied for as well.
   </div>
   <div class="gridChild">
     <div class="secondHeader">
@@ -41,7 +41,7 @@ LA in Anarchy at a Glance
     <div class="secondHeader">
     Sect Coherency
     </div>
-  The only allegiance allowed in play are to the Camarilla, Anarch Movement, and any Independent organization (House Carna, Giovanni, Setite Cults). Characters can have been active in the Sabbat in the past, but in order to be approved must no longer be aligned with them.
+  The only allegiance allowed in play are to the Camarilla, Anarch Movement, and any Independent organization (Giovanni, Setite Cults, etc). Characters can have been active in the Sabbat in the past, but in order to be approved must no longer be aligned with them.
   </div>
   <div class="gridChild">
     <div class="secondHeader">

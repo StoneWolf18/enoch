@@ -96,7 +96,7 @@
 </div>
 
 <div class="container">
-  <div class="leftHeader">
+  <div class="leftHeader" id="house-rules">
   House Rules
   </div>
 
@@ -125,9 +125,29 @@
     </div>
     <div class="gridChild">
       <div class="thirdHeader">
+      Ghoul Embraces
+    </div>
+    Any disciplines had are kept, though only the disciplines their clan has will be considered in-clan. Missing attribute and ability points are not applied.
+    </div>
+    <div class="gridChild">
+      <div class="thirdHeader">
+      Learning Rituals
+    </div>
+      To learn rituals, you must work towards learning it in-character. This process may last several weeks, even months, as determined by a Storyteller. You must spend XP equivalent to 3x the Ritual Level in order to learn it. In order for time to be counted, a post must be made at least once every five days demonstrating the player character is studying and practicing the Ritual. This may only be done one at a time.
+    </div>
+    <div class="gridChild">
+      <div class="thirdHeader">
       Sect Alignment
     </div>
-      The only available sects are Camarilla, Anarch, and Independent. Sabbat-Aligned Lasombra, Tzimisce, and Tzimisce antitribu are banned. Tremere are assumed to be aligned with House Carna unless it is specified that they are loyal to House Tremere. Characters still aligning with the Sabbat regardless of this rule will be removed from play.
+      The only available sects are Camarilla, Anarch, and Independent. Sabbat-Aligned Lasombra and Tzimisce are banned, as well as any other loyal Antitirbu or Sabbat-loyal bloodlines. Characters still aligning with the Sabbat regardless of this rule will be removed from play.
+
+  Tremere are assumed to be aligned with House Carna unless it is specified that they are loyal to House Tremere.
+    </div>
+    <div class="gridChild">
+      <div class="thirdHeader">
+      Torpor Length
+    </div>
+    As long as the torpor is not voluntary, a Vampire can be woken up by being fed a point of blood, even if the torpor was induced by damage.
     </div>
   </div>
 </div>

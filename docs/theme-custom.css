@@ -582,6 +582,16 @@ b.whiteBold {
   margin-top: 20px;
 }
 
+.yourAttentionPleaseSide {
+  padding: 20px;
+  color: white;
+  background: #384b7e;
+  float: right;
+  width: 400px;
+  margin-left: 10px;
+}
+
+
 .fa-circle {
 
   color: #a0467b;
@@ -687,6 +697,7 @@ th.blue {
   font-weight: normal;
   font-family: 'Noto Sans', sans-serif;
   text-indent: 0px;
+  margin-bottom: 10px;
 }
 
 summary.accordion {
@@ -697,7 +708,6 @@ summary.accordion {
   font-weight: bold;
   text-indent: -26px;
   margin-bottom: 10px;
-  height: 50px;
 }
 
 summary.accordion::-webkit-details-marker {
@@ -736,18 +746,25 @@ label.toc {
 
 label.toc::before {
   vertical-align: text-top;
-  display: inline-block;
+  display: block;
   width: 20px;
   height: 20px;
   margin-right: 3px;
 }
+
+
+@keyframes slideOut {
+   from {height: 0%;}
+   to {height: 100%;}
+}
+
 #expand {
-  height: 0px;
+  max-height: 0px;
   overflow: hidden;
-  transition: height 0.3s;
   border-left: 3px solid #a0467b;
   color: #384b7e;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+  transition: 0.3s;
 }
 
 ul.toc {
@@ -757,8 +774,10 @@ ul.toc {
 }
 
 #toggle:checked ~ #expand {
-  height: 835px;
+  max-height: 1000px;
 }
+
+
 
 .scroll-to-top
 {
@@ -794,6 +813,17 @@ ul.toc {
   background-color: #c171a0!important;
 }
 
+.sideToc {
+  display: block;
+  padding: 0.5em;
+  font-family: 'Oswald', sans-serif;
+  border-left: 3px solid #a0467b;
+  width: 150px;
+  height: min-content;
+  float: right;
+  margin-right: 15px;
+
+}
 
 @media screen and (max-width:990px) {
 .container {padding: 1em;}
@@ -802,4 +832,6 @@ ul.toc {
 .docsify-tabs--material .docsify-tabs__tab {width:100%;}
 .docsify-tabs--material .docsify-tabs__tab--active {border-top: 3px solid #a0467b;}
 .wideImageOtherNudge {background-position: -500px;}
+.yourAttentionPleaseSide{width: 100%; margin-bottom: 20px;}
+.yourAttentionPlease{width: auto!important;}
 }
