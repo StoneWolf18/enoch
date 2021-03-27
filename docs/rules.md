@@ -8,6 +8,19 @@
   </div>
 </div>
 <div class="container">
+
+<input class ="toc" id="toggle" type="checkbox">
+ <label class ="toc" for="toggle">Table of Contents</label>
+ <div id="expand">
+   <section class ="toc">
+   <ul class="toc">
+   <li><a class="toc" href="#rules#server-rules">Server Rules</a></li>
+   <li><a class="toc" href="#rules#roleplay-rules">Roleplay Rules</a></li>
+   <li><a class="toc" href="#rules#house-rules">House Rules</a></li>
+   </ul>
+   </section>
+ </div>
+
   <div class="leftHeader" id="server-rules">
   Server Rules
   </div>
@@ -49,7 +62,7 @@
 <div class="blueWrapper">
   <div class="whiteBlueBreak"> </div>
   <div class="container">
-  <div class="leftHeader" style="color: white;">
+  <div class="leftHeader" style="color: white;" id="roleplay-rules">
   Roleplay Rules
   </div>
 

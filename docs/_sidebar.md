@@ -19,7 +19,6 @@ Traits
 * [Attributes](attributes.md "LAiA - Attributes")
 * [Abilities](abilities.md "LAiA - Abilities")
 * [Backgrounds](backgrounds.md "LAiA - Backgrounds")
-* [Willpower](willpower.md "LAiA - Willpower")
 * [Disciplines](disciplines.md "LAiA - Disciplines")
 
 </ul>
@@ -28,9 +27,9 @@ Traits
 
 <ul>
 
-* [Morality](morality.md)
-* [Frenzy](frenzy.md)
-* [Merits & Flaws](merits-flaws.md)
+* [System Reference](system-reference.md "LAiA - System Reference")
+* <span style="margin-top: -15px; border: none; text-indent: 5px;">[Merits & Flaws](https://tinyurl.com/meritsandflaws)</span>
+
 
 </ul>
 

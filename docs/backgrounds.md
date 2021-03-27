@@ -121,7 +121,7 @@ You enjoy widespread recognition in mortal society, perhaps as an entertainer, w
 This Background represents your Generation: the purity of your blood, and your proximity to the First Vampire. A high Generation rating may represent a powerful sire or a decidedly dangerous taste for diablerie. If you don’t take any dots in this Trait, you begin play as a Thirteenth Generation vampire. See p. 270 for further information.
 
 <i class="fas fa-circle fa-sm"></i> Twelfth Generation: 11 blood pool, can spend 1 blood point per turn <br>
-<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Twelfth Generation: 11 blood pool, can spend 1 blood point per turn <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Eleventh Generation: 12 blood pool, can spend 1 blood point per turn <br>
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Tenth Generation: 13 blood pool, can spend 1 blood point per turn <br>
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Ninth Generation: 14 blood pool, can spend 2 blood points per turn <br>
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Eighth Generation: 15 blood pool, can spend 3 blood points per turn

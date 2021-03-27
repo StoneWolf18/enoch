@@ -10,12 +10,78 @@
 
 <div class="blueWrapper" style="background-color: #0e0a0b; margin-top: -10px; padding-top: 2em;">
 <div class="container">
-<div class="leftHeader" style="color: white;">
+<input class ="toc" id="toggle" type="checkbox">
+ <label class ="toc" for="toggle">Table of Contents</label>
+ <div id="expand">
+   <section class ="toc">
+   <ul class="toc" style="color: white;">
+   <li><a class="toc" href="#standard-guide#welcome-to-la">Welcome to LA in Anarchy</a></li>
+   <ul class="toc" style="color: white;">
+    <li><a class="toc" href="#standard-guide#materials">Materials</a></li>
+    <li><a class="toc" href="#standard-guide#rules-and-restrictions">House Rules and Restrictions</a></li>
+   </ul>
+   <li><a class="toc" href="#standard-guide#getting-started">Getting Started</a></li>
+   <ul class="toc" style="color: white;">
+    <li><a class="toc" href="#standard-guide#human-concept">Human Concept</a></li>
+    <li><a class="toc" href="#standard-guide#archetype">Archetype</a></li>
+   </ul>
+   <li><a class="toc" href="#standard-guide#clan">Clan</a></li>
+   <ul class="toc" style="color: white;">
+    <li><a class="toc" href="#standard-guide#clan-vampires">Vampires</a></li>
+    <li><a class="toc" href="#standard-guide#clan-ghouls">Ghouls</a></li>
+   </ul>
+   <li><a class="toc" href="#standard-guide#traits">Traits</a></li>
+   <ul class="toc" style="color: white;">
+    <li><a class="toc" href="#standard-guide#attributes">Attributes</a></li>
+    <li><a class="toc" href="#standard-guide#abilities">Abilities</a></li>
+   </ul>
+   <li><a class="toc" href="#standard-guide#advantages">Advantages</a></li>
+   <ul class="toc" style="color: white;">
+    <li><a class="toc" href="#standard-guide#disciplines">Disciplines</a></li>
+    <ul class="toc" style="color: white;">
+      <li><a class="toc" href="#standard-guide#disciplines-vampires">Vampires</a></li>
+      <li><a class="toc" href="#standard-guide#disciplines-ghouls">Ghouls</a></li>
+    </ul>
+    <li><a class="toc" href="#standard-guide#disciplines">Backgrounds</a></li>
+    <ul class="toc" style="color: white;">
+      <li><a class="toc" href="#standard-guide#backgrounds-humans">Humans</a></li>
+    </ul>
+    <li><a class="toc" href="#standard-guide#virtues">Virtues</a></li>
+   </ul>
+   <li><a class="toc" href="#standard-guide#finishing-touches">Finishing Touches</a></li>
+   <ul class="toc" style="color: white;">
+    <li><a class="toc" href="#standard-guide#humanity">Humanity</a></li>
+    <ul class="toc" style="color: white;">
+      <li><a class="toc" href="#standard-guide#paths-of-enlightenment">Paths of Enlightenment</a></li>
+      </ul>
+      <li><a class="toc" href="#standard-guide#willpower">Willpower</a></li>
+      <li><a class="toc" href="#standard-guide#starting-bp">Starting Blood Pool</a></li>
+      <ul class="toc" style="color: white;">
+        <li><a class="toc" href="#standard-guide#disciplines-vampires">Vampires</a></li>
+        <li><a class="toc" href="#standard-guide#disciplines-ghouls">Ghouls</a></li>
+      </ul>
+      <li><a class="toc" href="#standard-guide#freebies">Freebies</a></li>
+      <ul class="toc" style="color: white;">
+       <li><a class="toc" href="#standard-guide#freebies-vampires">Vampires</a></li>
+       <li><a class="toc" href="#standard-guide#freebies-mortals">Ghouls & Humans</a></li>
+    </ul>
+    <li><a class="toc" href="#standard-guide#experience">Experience</a></li>
+    <ul class="toc" style="color: white;">
+     <li><a class="toc" href="#standard-guide#xp-vampires">Vampires</a></li>
+     <li><a class="toc" href="#standard-guide#xp-ghouls">Ghouls</a></li>
+     <li><a class="toc" href="#standard-guide#xp-huamans">Humans</a></li>
+    </ul>
+    <li><a class="toc" href="#standard-guide#other-requirements">Other Requirements</a></li>
+    <li><a class="toc" href="#standard-guide#finished">Finished?</a></li>
+   </ul>
+   </section>
+ </div>
+<div class="leftHeader" style="color: white;" id="welcome-to-la">
 Welcome to LA in Anarchy
 </div>
 The information below clarifies how to create a vampire, ghoul, and mortal character for the specific LA in Anarchy setting. If you are completely brand new to V20 or Vampire in general, please refer to our <a href="new-player-guide.md">New Player Guide</a> instead, as the rules are slightly different to assist with easing new players into the game.
 
-<div class="swatchHeader" style="color: #100c0d; margin-top: 10px;">
+<div class="swatchHeader" style="color: #100c0d; margin-top: 10px;" id="materials">
 Materials
 </div>
 These are our Approved resources. The character sheet linked below must be used in order to submit a character.
@@ -51,7 +117,7 @@ There's a colored key above the title on each of the sheets. This should be used
 
 </div>
 
-<div class="swatchHeader" style="color: #100c0d; margin-top: 10px;">
+<div class="swatchHeader" style="color: #100c0d; margin-top: 10px;" id="rules-and-restrictions">
 House Rules and Restrictions
 </div>
 Before you begin, please familiarize yourself with our House Rules.
@@ -71,10 +137,10 @@ Other restrictions include:
   <div class="blackBreak"> </div>
   <div class="container">
 
-  <div class="leftHeader" style="color: white; margin-top: -80px;">
+  <div class="leftHeader" style="color: white; margin-top: -80px;" id="getting-started">
   Getting Started
   </div>
-  <div class="swatchHeader" style="color: #384b7e;">
+  <div class="swatchHeader" style="color: #384b7e;" id="human-concept">
   Human Concept
   </div>
 
@@ -88,7 +154,7 @@ No one starts undead. Consider the follow questions to form this character when 
 * What habits do they have? Not just smoking, drinking, but also do they read the paper every morning, have a routine, etc.?
 * What matters to them?
 
-<div class="swatchHeader" style="color: #384b7e;">
+<div class="swatchHeader" style="color: #384b7e;" id="archetype">
 Archetype
 </div>
 People have two ways they present themselves. The first is how they act in public and how they’re commonly viewed on a shallow level. This is your character’s Demeanor. It has no mechanical effect, but it should be accurately portrayed in-play.
@@ -97,15 +163,15 @@ The other side to this is how the character acts behind closed doors, with those
 
 Your nature and your demeanor cannot be the same.
 
-A full list of available archetypes and what they mean can be found <a href="archetypes.md">here</a>. Keep in mind that unless the character is older, they're still human in mindset while picking these out, so options like Monster as a Nature wouldn’t make sense unless they were an utterly awful human being.
+A full list of available archetypes and what they mean can be found <a href="#archetypes">here</a>. Keep in mind that unless the character is older, they're still human in mindset while picking these out, so options like Monster as a Nature wouldn’t make sense unless they were an utterly awful human being.
 </div>
 </div>
 <div class="wideImageOther" style="background-image: url('assets/guideSinner.png'); min-width: 1500px;"> </div>
 <div class="container">
-<div class="leftHeader"">
+<div class="leftHeader" id="clan">
 Clan
 </div>
-<div class="secondHeader">
+<div class="secondHeader" id="clan-vampires">
 Vampires
 </div>
 
@@ -138,6 +204,49 @@ However, the following modifications have been made:
 
 Other details (such a whether or not they have fangs or are affected by daysleep) are left to the player's discretion.
 </details>
+
+<div class="secondHeader" id="clan-ghouls">
+Ghouls
+</div>
+
+<div style="line-height: 1.5">
+
+* <b>Revised Discipline Limits:</b> We use the revised limits for domitors, as seen in the chart below
+* <b>Bloodlines:</b> Ghouls cannot have domitors of bloodlines unless they are a PC.
+
+</div>
+
+<table>
+<thead>
+  <tr>
+    <th class="blue">Sponsor’s Generation</th>
+    <th class="blue">Maximum Discipline Level</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Thirteenth to Eleventh</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Tenth or Ninth</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Eighth or Seventh</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Sixth or Fifth</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Fourth</td>
+    <td>5</td>
+  </tr>
+</tbody>
+</table>
+
   <!-- tabs:start -->
 
   #### ** Assamites **
@@ -323,10 +432,10 @@ The Seers found themselves divided as the Camarilla waned and crumbled around th
 
   </div>
 
-  <div class="leftHeader"">
+  <div class="leftHeader" id="traits">
   Traits
   </div>
-  <div class="secondHeader">
+  <div class="secondHeader" id="attributes">
   Attributes
   </div>
   Prioritize the three categories (Physical, Social, and Mental) for your character. Make sure to keep what each dot means in general in mind when allotting them.
@@ -347,7 +456,7 @@ The Seers found themselves divided as the Camarilla waned and crumbled around th
 
   </div>
 
-  For ease of reference, this is roughly what each of the dot levels mean for attributes. For specific levels at each stage, please see the <a href="traits.md">traits</a> page.
+  For ease of reference, this is roughly what each of the dot levels mean for attributes. For specific levels at each stage, please see the <a href="#attributes">attributes</a> page.
 
 <i class="fas fa-circle fa-sm"></i> <b>Poor:</b> Unexercised, unpracticed, or inept. <br>
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Average:</b> The result of occasional effort or application. <br>
@@ -355,7 +464,7 @@ The Seers found themselves divided as the Camarilla waned and crumbled around th
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Exceptional:</b> Frequently applied, tested, and honed. <br>
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Outstanding:</b> The peak of normal human capacity, continually exercised.
 
-<div class="secondHeader">
+<div class="secondHeader" id="abilities">
 Abilities
 </div>
 Prioritize the three categories (Talents, Skills, and Knowledges) for your character. All characters start with the first dot of Drive and Computers for free unless they are too old to have gained them.
@@ -368,11 +477,11 @@ Prioritize the three categories (Talents, Skills, and Knowledges) for your chara
 <b>Important</b>
 
 
-At this stage in character creation, nothing can be over three dots. Any abilities at three dots must be well justified.
+At this stage in character creation, nothing can be over three dots. Any abilities at three dots must be well reasoned.
 
 </div>
 
-For ease of reference, this is roughly what each of the dot levels mean for abilities. For specific levels at each stage, please see the <a href="traits.md">traits</a> page.
+For ease of reference, this is roughly what each of the dot levels mean for abilities. For specific levels at each stage, please see the <a href="#abilities">abilities</a> page.
 
 <i class="fas fa-circle fa-sm"></i> <b>Novice:</b> Basic knowledge and/or techniques. <br>
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Practitioner:</b> Solid working knowledge and/or techniques. <br>
@@ -396,13 +505,13 @@ There are abilities that require you to select specialties early:
 
 <div class="blueWrapper" style="margin-top: -20px; margin-bottom: -20px;">
   <div class="container">
-    <div class="leftHeader"">
+    <div class="leftHeader" id="advantages">
     Advantages
     </div>
-    <div class="swatchHeader" style="color: #384b7e;">
+    <div class="swatchHeader" style="color: #384b7e;" id="disciplines">
     Disciplines
     </div>
-    <div class="thirdHeader">
+    <div class="thirdHeader" id="disciplines-vampires">
     Vampires
     </div>
   You get 3 dots to spread across the three Disciplines your character's clan starts with. You could put one in each, all three in one, or any other combination that suits them as a character. Keep in mind that if any are left at 0 dots, it will cost 10 XP to get the first dot, in-Clan or not.
@@ -410,7 +519,7 @@ There are abilities that require you to select specialties early:
   * <b>Blood Magic:</b> If you are taking a casting base Discipline and get Rituals, you can take any combination of Rituals with levels equal to those dots. (ie: If you have 5 dots in Thaumaturgy, you can either start with one level 5 Ritual, 5 level 1 Rituals, or any combination thereof.) You may learn more Rituals later on by following the process outlined in our <a href="rules.md#house-rules">House Rules</a>.
   * <b>Caitiff:</b> It needs to be specified what clan spawned them (what clan their sire was) and then take 1-2 disciplines from that clan and then the rest common disciplines (Animalism, Auspex, Celerity, Dominate, Presence, Potence, Fortitude, and Obfuscate.) Caitiff cannot take any type of blood sorcery, and any caitiff spawned by a caitiff can only have common disciplines.
 
-  <div class="thirdHeader">
+  <div class="thirdHeader" id-"disciplines-ghouls">
   Ghouls
   </div>
 You get 1 dot of Potence and 1 dot into an in-clan discipline of your domitor.
@@ -418,10 +527,10 @@ You get 1 dot of Potence and 1 dot into an in-clan discipline of your domitor.
 * <b>Blood Magic:</b> Ghouls cannot take blood magic disciplines at this time.
 * <b>Caitiff:</b> Take one of the disciplines they started with.
 
-<div class="swatchHeader" style="color: #384b7e;">
+<div class="swatchHeader" style="color: #384b7e;" id="backgrounds">
 Backgrounds
 </div>
-You get 5 Background dots to spend. All backgrounds should be explained on the given page of the character sheet and justified within the character's backstory.
+You get 5 Background dots to spend. All backgrounds should be explained on the given page of the character sheet and identifiable within the character's backstory.
 
 * Generation can go up to 5 without pre-approval
 * Allies, Alternate Identity, Contacts, Fame, Herd, Influence, Mentor, Resources, and Retainers must be pre-approved past 3 dots
@@ -438,14 +547,14 @@ Havens are counted under resources, domain is different.
 
 You get 5 Background dots to spend. All backgrounds should be explained on the given page of the character sheet and justified within the character's backstory.
 
-Read on the available backgrounds here.
+Read on the available backgrounds <a href="#backgrounds">here</a>.
 
-<div class="thirdHeader">
+<div class="thirdHeader" id="backgrounds-humans">
 Humans
 </div>
 Background dots can be saved for use when they are embraced during play.
 
-<div class="swatchHeader" style="color: #384b7e; margin-top: 20px;">
+<div class="swatchHeader" style="color: #384b7e; margin-top: 20px;" id="virtues">
 Virtues
 </div>
 You get 7 dots of virtues to spread throughout the 3.
@@ -464,17 +573,17 @@ Each virtue starts with one dot.  Those <b>aren't</b> counted when distributing 
 </div>
 <div class="blueWrapper" style="background-color: black; margin-top: -10px; padding-top: 2em;">
   <div class="container">
-    <div class="leftHeader"">
+    <div class="leftHeader" id="finishing-touches">
     Finishing Touches
     </div>
-  <div class="secondHeader">
+  <div class="secondHeader" id="humanity">
   Humanity
   </div>
   Humanity is equal to Conscience + Self-Control. You are welcome to lower the achieved humanity rating if you feel it is too high, but this will be without compensation.
 
   Please see this page for more on Humanity.
 
-<div class="thirdHeader">
+<div class="thirdHeader" id="paths-of-enlightenment">
 Paths of Enlightenment
 </div>
 We allow the following paths of enlightenment in play. To play a character on a path, 3 freebies must be spent with ample justification given in the character's biography.
@@ -499,21 +608,21 @@ There should be a clear reason as to why the character is on a path. If you are 
 
 </div>
 
-<div class="secondHeader">
+<div class="secondHeader" id="willpower">
 Willpower
 </div>
 Willpower is equal to Courage.
 
-<div class="secondHeader" style="margin-top: 5px;">
+<div class="secondHeader" style="margin-top: 5px;" id="starting-bp">
 Starting Blood Pool
 </div>
 
-<div class="thirdHeader">
+<div class="thirdHeader" id="bp-vampires">
 Vampires
 </div>
 Equal to 8.
 
-<div class="thirdHeader" style="margin-top: 5px;">
+<div class="thirdHeader" style="margin-top: 5px;" id="bp-ghouls">
 Ghouls
 </div>
 Equal to 1.
@@ -521,7 +630,7 @@ Equal to 1.
 </div>
 <div class="wideImageOtherNudge" style="background-image: url('assets/guideFirst.png'); min-width: 1500px; height: 600px;"> </div>
 <div class="container">
-<div class="leftHeader">
+<div class="leftHeader" id="freebies">
 Freebies
 </div>
 Finally, you may spend Freebie points in order to round out your character. An additional 7 may be gained from taking flaws. View our merits and flaws list here.
@@ -541,7 +650,7 @@ Virtues increased with freebie points or experience does not increase Traits bas
 
 </div>
 
-<div class="secondHeader">
+<div class="secondHeader" id="freebies-vampires">
 Vampires
 </div>
 
@@ -595,7 +704,7 @@ Vampires
 </tbody>
 </table>
 
-<div class="secondHeader">
+<div class="secondHeader" id="freebies-mortals">
 Ghouls & Humans
 </div>
 
@@ -660,7 +769,7 @@ Ghouls & Humans
 
 <em>*Ghouls only</em>
 
-<div class="leftHeader">
+<div class="leftHeader" id="experience">
 Experience
 </div>
 
@@ -673,7 +782,7 @@ Experience does <b>not</b> need to be taken to be on par with the other characte
 
 </div>
 
-<div class="secondHeader">
+<div class="secondHeader" id="xp-vampires">
 Vampires
 </div>
 
@@ -734,7 +843,7 @@ Can take 1 Experience Point for every active year (not in torpor) as a Vampire. 
 </tbody>
 </table>
 
-<div class="secondHeader">
+<div class="secondHeader" id="xp-ghouls">
 Ghouls
 </div>
 
@@ -787,12 +896,12 @@ Can take 1 Experience per every consecutive year of being a ghoul. This can go t
 </tbody>
 </table>
 
-<div class="secondHeader">
+<div class="secondHeader" id="xp-humans">
 Humans
 </div>
 Humans can't take starting experience at this time.
 
-<div class="leftHeader">
+<div class="leftHeader" id="other-requirements">
 Other Requirements
 </div>
 All characters submitted need a biography. The goal of it is to inform storytellers, not to write a narrative masterpiece. As such, it should have answers to questions your character might not, such as why their sire embraced them, and provide ample justification for how they are the way they are.
@@ -800,7 +909,7 @@ All characters submitted need a biography. The goal of it is to inform storytell
 * It should be a minimum of 500 words. If your biography reaches more than 1500 words, we request that important bullet points or a summary of important events are also included for ease of reference
 * Third person <b>only</b>.
 
-<div class="leftHeader">
+<div class="leftHeader" id="finished">
 Finished?
 </div>
 Please submit the link to your google doc to our bot Caine. Please see #getting-started or Caine's documentation for how.

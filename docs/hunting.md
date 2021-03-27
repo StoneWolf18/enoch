@@ -10,7 +10,32 @@
 </div>
 
 <div class = "container">
-<div class="leftHeader">
+
+<input class ="toc" id="toggle" type="checkbox">
+ <label class ="toc" for="toggle">Table of Contents</label>
+ <div id="expand">
+   <section class ="toc">
+   <ul class="toc">
+   <li><a class="toc" href="#hunting#rolling-to-hunt">Rolling to Hunt</a></li>
+    <ul class="toc">
+     <li><a class="toc" href="#hunting#process">Process</a></li>
+     <li><a class="toc" href="#hunting#backgrounds">Backgrounds</a></li>
+     <li><a class="toc" href="#hunting#backgrounds">Backgrounds</a></li>
+    </ul>
+    <li><a class="toc" href="#hunting#risks">Risks</a></li>
+    <li><a class="toc" href="#hunting#locations">Locations</a></li>
+    <ul class="toc">
+     <li><a class="toc" href="#hunting#vitae-dealer">Vitae Dealer</a></li>
+     <li><a class="toc" href="#hunting#downtown">Downtown</a></li>
+     <li><a class="toc" href="#hunting#inner-city">Inner City</a></li>
+     <li><a class="toc" href="#hunting#hollywood">Hollywood</a></li>
+     <li><a class="toc" href="#hunting#outskirts">Outskirts</a></li>
+    </ul>
+   </ul>
+   </section>
+ </div>
+
+<div class="leftHeader" id="rolling-to-hunt">
 Rolling to Hunting
 </div>
 Hunting is a vital part of Vampire: the Masquerade. Unfortunately, because of the amount of players, Storytellers aren't able to narrate every single hunt that happens on the server. To keep things running smoothly players are able to construct a roll from tables below and hunt with relative autonomy.
@@ -23,7 +48,7 @@ The minimum hunting difficulty is 4, even if backgrounds, location, and other fa
 
 </div>
 
-<div class="secondHeader">
+<div class="secondHeader" id="process">
 Process
 </div>
 
@@ -45,17 +70,17 @@ You can take as many blood points from a hunt as you get successes, which can be
 * You plan on taking more than 2 BP from a single vessel
 </div>
 
-<div class="secondHeader">
+<div class="secondHeader" id="backgrounds">
 Backgrounds
 </div>
 
 Only the following backgrounds can be applied to hunting rolls:
 
-* <b>Domain:</b> Reduces the difficulty of the roll by one per dot to a minimum of 4 as long as the character is hunting inside of their domain
+* <b>Domain:</b> Reduces the difficulty of the roll by one per dot as long as the character is hunting inside of their domain
 * <b>Herd:</b> Adds one die to all pools per dot as long as they are attempting to feed from their herd specifically
-* <b>Fame:</b> Reduces the difficulty of the roll by one per dot to a minimum of 3 as long as their fans would realistically be within the area they are hunting.
+* <b>Fame:</b> Reduces the difficulty of the roll by one per dot as long as their fans would realistically be within the area they are hunting.
 
-<div class="secondHeader">
+<div class="secondHeader" id="disciplines">
 Disciplines
 </div>
 
@@ -72,7 +97,7 @@ When using disciplines:
 <div class= blueWrapper>
   <div class=whiteBlueBreak> </div>
   <div class="container">
-    <div class="leftHeader">
+    <div class="leftHeader" id="risks">
       Risks
       </div>
     <div class="swatchHeader">
@@ -123,10 +148,10 @@ A botch isn't a failure — it's considerably worse. Because the outcome of the 
 <div class="whiteBlueBreak" style="transform: rotate(180deg);"> </div>
 </div>
 <div class="container">
- <div class="leftHeader">
+ <div class="leftHeader" id="locations">
  Locations
  </div>
-<div class ="secondHeader">Vitae Dealer</div>
+<div class ="secondHeader" id="vitae-dealer">Vitae Dealer</div>
 
 Purchasing blood bags will always require a vitae dealer roll (Manipulation + Subterfuge) in the chosen location at the difficulty dictated by the charts below. Additionally:
 
@@ -135,7 +160,7 @@ Purchasing blood bags will always require a vitae dealer roll (Manipulation + Su
 * Vitae dealer can only be rolled once per night.
 * Mark any acquired blood bags on your character sheet.
 
-<div class="secondHeader">
+<div class="secondHeader" id="downtown">
 Downtown
 </div>
 
@@ -190,7 +215,7 @@ The downtown streets of Los Angeles seem to never be empty, making it ideal to l
   </tr>
   <tr>
     <td><b>Discplines</b></td>
-    <td><b>Additonal Dice</b></td>
+    <td><b>Additional Dice</b></td>
   </tr>
   <tr>
     <td>Auspex, Protean</td>
@@ -207,7 +232,7 @@ The downtown streets of Los Angeles seem to never be empty, making it ideal to l
 </tbody>
 </table>
 
-<div class="secondHeader">
+<div class="secondHeader" id="inner-city">
 Inner City
 </div>
 
@@ -262,7 +287,7 @@ The greater Los Angeles area isn't normally crowded, allowing opportunities to s
   </tr>
   <tr>
     <td><b>Discplines</b></td>
-    <td><b>Additonal Dice</b></td>
+    <td><b>Additional Dice</b></td>
   </tr>
   <tr>
     <td>Protean</td>
@@ -279,7 +304,7 @@ The greater Los Angeles area isn't normally crowded, allowing opportunities to s
 </tbody>
 </table>
 
-<div class="secondHeader">
+<div class="secondHeader" id="hollywood">
 Hollywood
 </div>
 
@@ -334,7 +359,7 @@ One of the hotspots of LA, there are always tourists who make exceptional seduct
     </tr>
     <tr>
       <td><b>Discplines</b></td>
-      <td><b>Additonal Dice</b></td>
+      <td><b>Additional Dice</b></td>
     </tr>
     <tr>
       <td>Auspex, Protean, Obfuscate</td>
@@ -351,7 +376,7 @@ One of the hotspots of LA, there are always tourists who make exceptional seduct
   </tbody>
 </table>
 
-<div class="secondHeader">
+<div class="secondHeader" id="outskirts">
 Outskirts
 </div>
 
@@ -406,7 +431,7 @@ Beyond the city are prime locations for catching animals, or the unfortunate mor
 </tr>
 <tr>
   <td><b>Discplines</b></td>
-  <td><b>Additonal Dice</b></td>
+  <td><b>Additional Dice</b></td>
 </tr>
 <tr>
   <td>Serpentis</td>

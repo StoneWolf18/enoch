@@ -10,8 +10,31 @@
 
 <div class="blueWrapper" style="margin-top: -10px;">
   <div class="container">
-  <div class="leftHeader" style="color: white;">
-  Foreward
+
+  <input class ="toc" id="toggle" type="checkbox">
+   <label class ="toc" for="toggle">Table of Contents</label>
+   <div id="expand">
+     <section class ="toc">
+     <ul class="toc" style="color: white;">
+     <li><a class="toc" href="#setting#foreward">Foreward</a></li>
+     <li><a class="toc" href="#setting#pre-chronicle">Pre-chronicle Events</a></li>
+     <li><a class="toc" href="#setting#chronicle-events">Chronicle Events</a></li>
+       <section class ="toc">
+       <ul class="toc" style="color: white;">
+       <li><a class="toc" href="#setting#vampire-murders">Vampire Murders</a></li>
+       <li><a class="toc" href="#setting#waa">Wildlife Assurance Agency</a></li>
+       <li><a class="toc" href="#setting#a-new-prince">A New Prince Reigns</a></li>
+       <li><a class="toc" href="#setting#epidemic">Epidemic</a></li>
+       <li><a class="toc" href="#setting#the-reversion">The Reversion</a></li>
+       </ul>
+      <li><a class="toc" href="#setting#the-third-revolt">The Third Anarch Revolt</a></li>
+      <li><a class="toc" href="#setting#current-situation">Current Situation</a></li>
+     </ul>
+     </section>
+   </div>
+
+  <div class="leftHeader" style="color: white;" id="foreword">
+  Foreword
   </div>
 
   LA in Anarchy is set in 2029 Los Angeles, though with days advancing as close to real time as possible. Because of this, we are both moving away from the metaplot detailed in <a href="https://whitewolf.fandom.com/wiki/Los_Angeles_by_Night">Los Angeles by Night (1994)</a> and <a href="https://whitewolf.fandom.com/wiki/Vampire:_The_Masquerade_5th_Edition">Vampire: the Masquerade 5th Edition (2018)</a> to create an experience unique to our setting.
@@ -24,7 +47,7 @@
 
   <b>Wait, 2029? How Sci-fi is the setting?</b>
 
-  The short answer is: not very.
+  The short answer is: it's not.
 
   More specifically, following the trend of predictions versus actual technological outcomes, we were pretty off the mark. It was assumed we might have colonized Mars by 2020, and all we got were slightly bigger smart phones and semi-autonomous cars in a legal grey area. Apple first released their smart watch in 2015 and it was only mid to late 2020 that the concept really started to take off. While there can be some logical assumptions made about how tech has advanced, the setting is by no means Cyberpunk.
 
@@ -34,7 +57,7 @@
 
   </div>
 
-  <div class="leftHeader" style="color: white;">
+  <div class="leftHeader" style="color: white;" id="pre-chronicle">
   Pre-chronicle Events
   </div>
   <div class="swatchHeader" style="color: #384b7e;">
@@ -51,10 +74,10 @@
 </div>
 
 <div class="container">
-  <div class="leftHeader">
+  <div class="leftHeader" id="chronicle-events">
   Chronicle Events
   </div>
-  <div class="secondHeader">
+  <div class="secondHeader" id="vampire-murders">
   Vampire Murders
   </div>
   A vampire-themed convention was in LA from August 13th to August 15th, 2018. The conclusion of the event on the 15th was an in-universe LARP which mortals had organized. Kindred in attendance were soon faced with various fledglings in their first hungry frenzy, as a Sabbat shovel party was set off not long after the event had begun. When the shovelheads had been taken care of, the Ductus that had organized the attack monolouged before the Kindred finally escaped, human police rushing to the scene.
@@ -63,23 +86,23 @@
 
   Murders began to spike all around Los Angeles with corpses victim of exsanguination being found as well as piles of ash and individuals with stakes embedded into their chests. Kindred deduced this to be the work of both irresponsible Kindred, mortals trying to copy-cat, and both amateur and experienced hunters.
 
-  <div class="secondHeader">
+  <div class="secondHeader" id="waa">
   Wildlife Assurance Agency
   </div>
   Not long after the murders had begun to die down did something else catch the attention of local Kindred. Quite a few of them were going missing, either to reappear days later or disappear entirely. After some time, it was pieced together that some type of organization was kidnapping Kindred for scientific study: a government agency known as the WAA, or Wildlife Assurance Agency.
 
-  There isn't much known about them at this time, aside from the organization's head being a man by the name of Winthrop Abram Luigi (commonly referred to as W. A. Luigi.) Their methods for taking Kindred normally include the use of large windowless vans with paramilitary squadrons containing their "subjects" for transport. Experimentation has included interrogation, exposure to various elements and other species, starvation, conscious vivisection, and more all recorded with surveillance cameras.
+  There isn't much known about them at this time, aside from the organization's head being a man by the name of Winthrop Abram Luigi (commonly referred to as W. A. Luigi.) Their methods for taking Kindred normally include the use of large windowless vans with paramilitary squadrons containing the 'blankbodies' for transport. Experimentation has included interrogation, exposure to various elements and other species, starvation, conscious vivisection, and more all recorded with surveillance cameras.
 
   There have been a total of 3 raids on their local facilities with the location of a fourth revealed during the most recent.
 
-  <div class="secondHeader">
+  <div class="secondHeader" id="a-new-prince">
   A New Prince Reigns
   </div>
   A Ventrue neonate by the name of Jacob Barrett established himself as prince of the merger Camarilla presence within the city. He was uncontested until his incompetence came to light with the failed diablerie attempt of an elder. Elder Ventrue Viktoria von Andeches quickly declared praxis with the majority of the local Camarilla supporting her.
 
   Baron Baldwin was willing to allow her to declare domain over the Tower downtown as long as she was only going to police her own subjects so he didn't have to.
 
-  <div class="secondHeader">
+  <div class="secondHeader" id="epidemic">
   Epidemic
   </div>
   On 9/22/2019, it was suddenly brought to the attention of the Kindred of LA that there was a strange disease going around that only impacted them. After feeding on an infected mortal, they would begin to feel slow and weak, before finally their bite became painful and they struggled to keep any type of blood that wasn't Kindred Vitae down.
@@ -88,10 +111,10 @@
 
   With flu shot season past and a method of treatment developed, no one has succumbed to what was dubbed the Plague in some months. However, that doesn't keep local Kindred from being a bit too careful when hunting.
 
-  <div class="secondHeader">
+  <div class="secondHeader" id="the-reversion">
   The Reversion
   </div>
-  All Kindred woke at 6 AM on October 23rd, 2019 as human beings. This lasted until November 1st, everyone finding it impossible to fall asleep that morning until daysleep took them. Details on how this impacted Kindred more specifically can be found on the event's page: <a href="road-of-mercy.md">Road of Mercy</a>.
+  All Kindred woke at 6 AM on October 23rd, 2019 as human beings. This lasted until November 1st, everyone finding it impossible to fall asleep that morning until daysleep took them. Details on how this impacted Kindred more specifically can be found on the event's page: <a href="#road-of-mercy.md">Road of Mercy</a>.
 
   The sects responded differently to this, with the Sabbat viewing it as The Regression (regressing from their vampiric state to the lesser one of humanity), with the Anarchs and Camarilla viewing it as The Reversion (reverting to being human.) Many both left and joined their sects because of this, whether they saw it as proof of God's existence and wished to repent, or a sign of the end times.
 
@@ -104,7 +127,7 @@
 <div class="blueWrapper";">
   <div class="whiteBreakAlt"> </div>
   <div class="container" style="margin-top: -80px;">
-  <div class="leftHeader" style="color: white;">
+  <div class="leftHeader" style="color: white;" id="the-third-revolt">
   The Third Anarch Revolt
   </div>
   The fuse was lit. Over the next few nights, utter chaos erupted among Kindred society.
@@ -122,7 +145,7 @@
 </div>
 
 <div class="container">
-  <div class="leftHeader">
+  <div class="leftHeader" id="current-situation">
   Current Situation
   </div>
   The Camarilla is a shadow of its former self, with only the Ventrue, Tremere, and Malkavian as officially represented clans. They have tried to appeal to Caitiff, which goes to show how desperate they are for numbers. Openly declaring support with the Camarilla is a sure way to put a target on your back, and a molotov in your haven.

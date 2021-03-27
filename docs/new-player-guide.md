@@ -8,20 +8,71 @@
   </div>
 </div>
 <div class="container">
+<input class ="toc" id="toggle" type="checkbox">
+ <label class ="toc" for="toggle">Table of Contents</label>
+ <div id="expand">
+   <section class ="toc">
+   <ul class="toc">
+   <li><a class="toc" href="#new-player-guide#welcome-to-vampire">Welcome to Vampire</a></li>
+   <ul class="toc">
+    <li><a class="toc" href="#new-player-guide#materials">Materials</a></li>
+    <li><a class="toc" href="#new-player-guide#content-warning">Mature Content Warning</a></li>
+   </ul>
+   <li><a class="toc" href="#new-player-guide#which-to-play">Which to Play: Human or Vampire?</a></li>
+   <li><a class="toc" href="#new-player-guide#getting-started">Getting Started</a></li>
+   <ul class="toc">
+    <li><a class="toc" href="#new-player-guide#human-concept">Human Concept</a></li>
+    <li><a class="toc" href="#new-player-guide#archetype">Archetype</a></li>
+   </ul>
+   <li><a class="toc" href="#new-player-guide#traits">Traits</a></li>
+   <ul class="toc">
+    <li><a class="toc" href="#new-player-guide#attributes">Attributes</a></li>
+    <li><a class="toc" href="#new-player-guide#abilities">Abilities</a></li>
+   </ul>
+   <li><a class="toc" href="#new-player-guide#clan">Clan</a></li>
+   <ul class="toc">
+    <li><a class="toc" href="#new-player-guide#brujah">Brujah</a></li>
+    <li><a class="toc" href="#new-player-guide#toreador">Toreador</a></li>
+    <li><a class="toc" href="#new-player-guide#gangrel">Gangrel</a></li>
+    <li><a class="toc" href="#new-player-guide#nosferatu">Nosferatu</a></li>
+    <li><a class="toc" href="#new-player-guide#ventrue">Ventrue</a></li>
+   </ul>
+   <li><a class="toc" href="#new-player-guide#sire">Sire</a></li>
+   <li><a class="toc" href="#new-player-guide#disciplines">Disciplines</a></li>
+   <li><a class="toc" href="#new-player-guide#backgrounds">Backgrounds</a></li>
+   <li><a class="toc" href="#new-player-guide#humanity">Humanity</a></li>
+   <li><a class="toc" href="#new-player-guide#blood-pool">Blood Pool</a></li>
+   <li><a class="toc" href="#new-player-guide#freebies">Freebies</a></li>
+   <ul class="toc">
+    <li><a class="toc" href="#new-player-guide#what-can-i-buy">What can I buy with freebies?</a></li>
+    <ul class="toc">
+     <li><a class="toc" href="#new-player-guide#recommendations">Recommendations</a></li>
+    </ul>
+    <li><a class="toc" href="#new-player-guide#merits-flaws">Merits and Flaws</a></li>
+    <li><a class="toc" href="#new-player-guide#freebies-human">What if I'm playing a human?</a></li>
+   </ul>
+   <li><a class="toc" href="#new-player-guide#experience">Experience</a></li>
+   <li><a class="toc" href="#new-player-guide#other-requirements">Other Requirements</a></li>
+    <li><a class="toc" href="#new-player-guide#submission">Submission</a></li>
+    <li><a class="toc" href="#new-player-guide#questions">Questions?</a></li>
+   </ul>
+   </section>
+ </div>
+
 <div class="yourAttentionPlease" style="margin-top: 20px;">
 
 <b>Important</b>
 
 
-The information below walks you through creating your first Vampire: the Masquerade character, whether Kindred or mortal, for the specific LA in Anarchy setting. If you are not completely brand new to V20, please refer to our [standard character creation page](standard-guide.md) instead, as these rules are different to help introduce new players to Vampire.
+The information below walks you through creating your first Vampire: the Masquerade character, whether Kindred or mortal, for the specific LA in Anarchy setting. If you are not completely brand new to V20, please refer to our [standard character creation page](new-player-guide.md) instead, as these rules are different to help introduce new players to Vampire.
 
 </div>
-<div class="leftHeader">
+<div class="leftHeader" id="welcome-to-vampire">
 Welcome to Vampire
 </div>
 Welcome to Vampire: the Masquerade! We’re thrilled your first attempt at playing Vampire is here with us at LA in Anarchy. Our goal with this guide is to make the process of constructing your first character as easy and painless as possible.
 
-<div class="secondHeader" style="margin-top: 10px;">
+<div class="secondHeader" style="margin-top: 10px;" id="materials">
 Materials
 </div>
 This is what you'll need to make your first character. To use the character sheets, please select file > make a copy and save it into your drive. You're welcome to download it and use it as a Word document instead, but it isn't preferred, as we'll still need a google share link to it.
@@ -42,7 +93,7 @@ You should see a colored key at the top of the character sheet. The base dots (m
 
 </div>
 
-<div class="secondHeader">
+<div class="secondHeader" id="content-warning">
 Mature Content Warning
 </div>
 While it's anticipated that a game centered around vampires wouldn't be for the feint of heart, I'd still advise you read the official warning released by White Wolf before continuing.
@@ -65,7 +116,7 @@ Don’t use it as an excuse to be a monster yourself."</em>
 
 </div>
 
-<div class="leftHeader">
+<div class="leftHeader" id="which-to-play">
 Which to Play: Human or Vampire?
 </div>
 You are able to choose whether you would like to play as a human or vampire initially. This guide covers both, as they both have their own pros and cons, so feel free to play whichever you prefer.
@@ -79,10 +130,10 @@ You are able to choose whether you would like to play as a human or vampire init
 <div class="whiteBlueBreak"> </div>
 <div class="container">
 
-<div class="leftHeader">
+<div class="leftHeader" id="getting-started">
 Getting Started
 </div>
-<div class="swatchHeader">
+<div class="swatchHeader" id="human-concept">
 Making a Human Concept
 </div>
 Whether or not you decide on making a human or vampire is currently irrelevant as both of them start in the same place: mortal. Consider the following questions to get you started:
@@ -98,7 +149,7 @@ Whether or not you decide on making a human or vampire is currently irrelevant a
 
 This might seem like a lot, so take your time! Our goal is to create people, not character sheets. With that in mind, try and keep the person more average than not, as playing a super famous celebrity or the best mathematician of the 21st century has the potential to overshadow others playing in the setting.
 
-<div class="swatchHeader">
+<div class="swatchHeader" id="archetype">
 Archetype
 </div>
 
@@ -121,17 +172,17 @@ Each character has two archetypes, their Nature and their Demeanor. This is wher
 If you have absolutely no idea where to begin, try to take this <a href="http://www.humanmetrics.com/cgi-win/jtypes2.asp">personality test</a> from their perspective. Don’t just make a perfect representation of the result, however. Instead use it as a base to modify and build from!
 
 
-You can find a full list of the archetypes you’re able to pick from here.
+You can find a full list of the archetypes you’re able to pick from <a href="#archetypes>here</a>.
 
 </div>
 <div class="whiteBlueBreak" style="transform: rotate(180deg);"> </div>
 </div>
 <div class="container">
- <div class="leftHeader">
+ <div class="leftHeader" id="traits">
  Traits
  </div>
 
-<div class="secondHeader">
+<div class="secondHeader" id="attributes">
 Attributes
 </div>
 This is where you’re going to begin the actual mechanical aspect of your character. Unlike in other TTRPGs, you aren’t going to be rolling dice at all during this process. Instead, you have a number of dots to assign depending on if you’re playing a human or vampire.
@@ -167,7 +218,7 @@ Each attribute will have 1 dot in each. These don't count towards the totals you
 
 Anything at 4 dots should be well reasoned, like I did above, as they should be using that trait <b><em>constantly</em></b>. Nothing can be at five dots for right now, we’ll get there eventually!
 
-<div class="secondHeader">
+<div class="secondHeader" id="abilities">
 Abilities
 </div>
 
@@ -208,18 +259,18 @@ Anything at 3 dots should be something they are doing all the time. Our boxer ca
 <div class="blueWrapper">
   <div class="whiteBlueBreak"> </div>
     <div class="container">
-      <div class="leftHeader">
+      <div class="leftHeader" id="clan">
         Clan
       </div>
       Now that we have a rough outline of a character, we can now consider what clan they are going to be. If you’re making a human, you can skip this step! They are broken down like this:
 
 * <b>Difficulty:</b> How easy the clan is to portray, both narratively and mechanically managing their weakness
-* <b>Disciplines:</b> The supernatural powers the clan has innate access to. This should not have a big impact on your decision!
+* <b>Disciplines:</b> The supernatural powers the clan has innate access to.
 * <b>Weakness:</b> The weakness that ties them to their clan
 
 The clans that you have access to, being a new player, are as follows:
 
-<div class="swatchHeader">Brujah</div>
+<div class="swatchHeader" id="brujah">Brujah</div>
 <em>"I’ll give you a head start. You’re the tortoise and I’m the hare — a pissed-off, fuck-the-world hare with a score to settle and a thirst like the devil’s own."</em>
 
 Brujah still feel the flames of the passions that once inspired them as mortals. Clan Brujah loves a cause and is quick to act on a stirring speech, accusation of injustice, or a call to arms. This connection to passion can be a blessing, but inspiration can also yield to the madness and hunger of the Beast. While commonly drawn to mortals with violent or ungovernable personalities that share similar outlook or enthusiasm for a cause as the prospective sire, they often Embrace without really thinking much about it, and their childer are from anywhere and everywhere one can think.
@@ -228,7 +279,7 @@ Brujah still feel the flames of the passions that once inspired them as mortals.
 * <b>Disciplines:</b> Celerity, Potence, Presence
 * <b>Weakness:</b> The difficulties of rolls to resist or guide frenzy are two higher than normal. Additionally, a Brujah may never spend Willpower to avoid frenzy, though they may spend a point of Willpower to end a frenzy that has already begun.
 
-<div class="swatchHeader">Toreador</div>
+<div class="swatchHeader" id="toreador">Toreador</div>
 <em>"Long after you die, I will still be young, beautiful, and adored by everyone whose life I touch."</em>
 
 The Kindred of Clan Toreador often involve themselves greatly in the world of mortals. They have any number of reasons, whether enjoying proximity to the blush of life, cultivating veritable cults of doting followers, or influencing and following the trends that their own kind simultaneously mock and venerate. To hear the Toreador tell it, they are the Muses of a desperate mortal world, inspiring through their beauty or patronage. Because of this, many Toreador hail from high-society or “bohemian” backgrounds. Indeed, many are themselves artists or influential among local art scenes or other subcultures. Actors, singers, musicians, sculptors, poets, playwrights, authors, and creative folk of any stripe may well find a home in the Clan.
@@ -237,7 +288,7 @@ The Kindred of Clan Toreador often involve themselves greatly in the world of mo
 * <b>Disciplines:</b>  Auspex, Celerity, Presence
 * <b>Weakness:</b> When a Toreador experiences something truly remarkable — a person, an objet d’art, a lovely sunrise — the player must make a Self-Control or Instincts roll (difficulty 6). Failure means that the Kindred finds herself enthralled by the experience. The dazzled Toreador cannot act for the duration of the scene aside from commenting on or continuing their involvement with whatever has captured their attention. If the experience no longer affects her (whether by moving, being destroyed, or whatever is appropriate to the situation), the captivation ends. Enraptured Toreador may not even defend themselves if attacked, though being wounded allows them to make another Self-Control or Instincts roll.
 
-<div class="swatchHeader">Gangrel</div>
+<div class="swatchHeader" id="gangrel">Gangrel</div>
 <em>"This is not a place for you, and it is too late to turn back. <b>Run</b>, little man."</em>
 
 More than any other Clan, the Gangrel resemble the beasts associated with the legends of vampires: bats, wolves, and other creatures of darkness. Many shun the elaborate social constructs of both Kindred and kine, preferring to move alone or as a member of small coteries. As a Clan, the Gangrel are wary and aloof. Most would prefer to spend their nights stalking prey or wilding on the rooftops than minding Princely edicts or lobbying for recognition of domain. Gangrel sire childer like they seek prey: after long hunts during which the prospective childe doesn’t even know they're being followed. Creating a fledgling means sharing limited resources, so each sire childe relationship is unique and significant. Outlanders Embrace because they choose an individual, not out of whim or recklessness. Those who earn their attention are hardy, whether physically or emotionally.
@@ -247,7 +298,7 @@ More than any other Clan, the Gangrel resemble the beasts associated with the le
 * <b>Weakness:</b> Every time a Gangrel frenzies, they acquire a temporary animal characteristic (which may replace an existing temporary one). Players should work with the Storyteller to determine what new animal trait is acquired (whether the frenzy involved the fight-or-flight impulse may be relevant). Over time, or in an exceptional situation, a particular animal feature may become permanent, with the next frenzy adding a new feature. A good guideline is to require each frenzy-gained trait to have some effect grounded in system terms (such as the temporary reduction of Social Attribute dots or a permanent loss of Humanity), though Storytellers may allow narrative-only traits that can shape the story
 
 
-<div class="swatchHeader">Nosferatu</div>
+<div class="swatchHeader" id="nosferatu">Nosferatu</div>
 <em>"Nobody down here but us boogeymen. Hey, whose head is this?"</em>
 
 Twisted by the mark of Caine, members of Clan Nosferatu are warped by the Embrace into hideous monsters. As such, they skulk and keep to the shadows, and they often rouse the ire and mockery of other Kindred for their nightmarish appearances. Still others are so terrified or revolted by the Nosferatu that these warped Kindred have little social interaction at all. Because of this, some Nosferatu Embrace the damaged, flawed, outcast, or vile, feeling some degree of kinship with them. Other Embrace spitefully, dragging the beautiful or privileged into an immortal hell of disfigurement and monstrosity.
@@ -256,7 +307,7 @@ Twisted by the mark of Caine, members of Clan Nosferatu are warped by the Embrac
 * <b>Disciplines:</b> Animalism, Obfuscate, Potence
 * <b>Weakness:</b> All Nosferatu have an Appearance score of zero, and they may never improve it. Cross it off the character sheet. Dice pools that use the Appearance Trait are inherently difficult for these hideous Kindred.
 
-<div class="swatchHeader">Ventrue</div>
+<div class="swatchHeader" id="ventrue">Ventrue</div>
 <em>"There is no shame to bending the knee to one such as myself, so pay your fucking tribute before I lose my temper."</em>
 
 Throughout history, while the other Clans have skulked about their petty intrigues, the Ventrue have curried favor with Caesar, whispered into the ear of Charlemagne, bankrolled the Age of Exploration, and even swayed policy in the Holy See. Theirs is a legacy of rulership, from Ventrue fledglings starting their climb to the top to the mightiest elders whose influence spans the world. Long have they played kingmaker in the shadows in the mortal world, and long have they been the Clan of Kings among the Kindred. Anyone who has “made something of herself” may attract the attention of the Ventrue, who judge their childer based on their prominence and success even before they start to groom them for the Embrace. Socialites, moneyed family, corporate wunderkinds, military leaders, and even untested newcomers who show great promise are keenly valued among the Blue Bloods.
@@ -267,7 +318,7 @@ Throughout history, while the other Clans have skulked about their petty intrigu
 
 Once you decide on a clan, make sure to read their entry in the core rulebook, and then their section in Lore of the Clans. This should give you a great idea of the clan you are going to portray.
 
-<div class="leftHeader">
+<div class="leftHeader" id="sire">
 Sire
 </div>
 I decided our boxer was Embraced by a Brujah. But, someone doesn’t just spontaneously become a Brujah, they had to be turned into one by another vampire. This is called the Embrace.
@@ -316,7 +367,7 @@ Once you create a rough outline of who their sire is, you need to decide their g
 For our boxer, let’s say his Sire had been boxing in his prime, but an injury left him unable to continue at a young age. He attended the same gym as our boxer every night, slowly growing more impressed with not only his skill in the ring, but also his passion for others. After growing to be decent friends over the nights they were able to meet, he was embraced after accepting a job offer from him.
 </details>
 
-<div class="leftHeader">
+<div class="leftHeader" id="disciplines">
 Disciplines
 </div>
 Each vampire starts with the three disciplines that are innate to their clan, which are listed above. You get three dots to distribute however you like, whether that’s three all in one, one in each, and so on.
@@ -407,7 +458,7 @@ The Gangrel Clan is well known for their mastery of Protean, although other Kind
 <div class="whiteBlueBreak" style="transform: rotate(180deg);"> </div>
 </div>
 <div class="container">
- <div class="leftHeader">
+ <div class="leftHeader" id="backgrounds">
  Backgrounds
  </div>
 
@@ -419,6 +470,14 @@ You get 5 dots to spend however you like, although we have some restrictions:
 Allies, Alternate Identity, Contacts, Fame, Herd, Influence, Mentor, Resources, and Retainers must be pre-approved past 3 dots
 * NPCs might need character sheets, refer to our NPC guide for more
 * Status and Domain (official territory granted by an NPC Baron) must be pre-approved regardless of dots
+
+<div class="yourAttentionPlease">
+
+<b>Important</b>
+
+Please note that Storytellers will not play your PC's mentor, retainers, or other personal NPCs.
+
+</div>
 
 <details>
 <summary>
@@ -575,7 +634,8 @@ How they acquired a mentor, who the mentor is, and their relationship must be de
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i>Mentor has a great deal of power over the city: a Prince or Archbishop, for example.
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Mentor is extraordinarily powerful, perhaps even a Justicar or Cardinal.
 
-Retainers
+<div class="thirdHeader>Retainers</div>
+
 Not precisely Allies or Contacts, your retainers are servants, assistants, or other people who are your loyal and steadfast companions. Many vampires’ servants are ghouls
 (p. 496) — their supernatural powers and blood bond-enforced loyalty make them the servants of choice. Retainers may also be people whom you’ve repeatedly Dominated until they have no free will left, or followers so enthralled with your Presence that their loyalty borders on blind fanaticism. Some vampires, particularly those with the Animalism Discipline, use animal ghouls as retainers.
 
@@ -585,22 +645,23 @@ Retainers may be useful, but they should never be flawless. A physically powerfu
 
 Who the retainers are, how they were acquired, and how they are kept under control all need to be detailed in the character's backstory. Sheets must be made if they are to be used as frequent NPCs.
 
-• One retainer
-•• Two retainers
-••• Three retainers
-•••• Four retainers
-••••• Five retainers
+<i class="fas fa-circle fa-sm"></i> One retainer
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Two retainers
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Three retainers
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Four retainers
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Five retainers
 
-Status
+<div clas="leftHeader">Status</div>
+
 You have something of a reputation and standing (earned or unearned) within the local community of Kindred. Status among Camarilla society is as often derived from your sire’s status and the respect due your particular bloodline as it is by personal achievement. Among the Sabbat, status is more likely to stem from the reputation of your pack or the zeal of your outlook. Elders are known for having little respect for their juniors; this Background can mitigate that somewhat.
 
 High status within the Camarilla does not transfer to Sabbat society (and will most likely make you a notorious target for your Sect’s rivals), and vice versa. Similarly, Autarkis generally have zero Status, unless they have somehow garnered so much power and attention that they are considered forces to be reckoned with. You may have occasion to roll your Status in conjunction with a Social Trait; this reflects the positive effects of your prestige.
 
-• Known: a neonate/Pack Priest
-•• Respected: an ancilla/respected Ductus
-••• Influential: an elder/Templar
-•••• Powerful: a member of the Primogen/ a Bishop
-••••• Luminary: a Prince/Archbishop
+<i class="fas fa-circle fa-sm"></i> Known: a neonate/Pack Priest
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Respected: an ancilla/respected Ductus
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i>Influential: an elder/Templar
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Powerful: a member of the Primogen/ a Bishop
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Luminary: a Prince/Archbishop
 
 </details>
 
@@ -615,7 +676,7 @@ For our boxer, I went with the following:
 <b>Generation</b> was to lower him to 11th. His sire is still around and is teaching him about Kindred society, making him a low-tier <b>Mentor</b>. The <b>Resources</b> comes from his small boxing career in amateur venues, and a mediocre job he was able to keep since his Embrace.
 </details>
 
-<div class="leftHeader">
+<div class="leftHeader" id="virtues">
 Virtues
 </div>
 
@@ -633,7 +694,7 @@ Each character starts with one in each Virtue automatically, and has 7 dots to d
 Above, our boxer has high <b>Conscience</b> because of his strong beliefs in right and wrong, and high <b>Courage</b> because of his boxing career. His <b>Self-Control</b> is average, though he can be a little impulsive at times.
 </details>
 
-<div class="leftHeader">
+<div class="leftHeader" id="humanity">
 Humanity
 </div>
 
@@ -655,9 +716,9 @@ Humans are normally considered to be at 7 for an ‘average’ score, and this i
 
 Since our boxer had 4 in Conscience and 3 in Self-Control, that would put his humanity at 6. We can justify this by saying that since he had grown up in a rough neighborhood, he was desensitized to a lot of the grimier parts of life, such as death and destruction.
 
-To learn about the effects of Humanity, what each level means, and what happens when you reach 0, please check out the Morality page.
+To learn about the effects of Humanity, what each level means, and what happens when you reach 0, more information can be found starting on page 309 of the Core Rulebook.
 
-<div class="leftHeader">
+<div class="leftHeader" id="willpower">
 Willpower
 </div>
 
@@ -677,7 +738,7 @@ The character’s initial Willpower is based on their Courage rating. Humans nor
 
 With 4 Courage, our Boxer is going to start with 4 Willpower.
 
-<div class="leftHeader">
+<div class="leftHeader" id="blood-pool">
 Blood Pool
 </div>
 
@@ -685,7 +746,7 @@ Vampires need blood to sustain themselves, that’s a focal point of the curse t
 
 To see how blood can be spent, please read “Using Blood Pool” on page 268 of the core.
 
-<div class="leftHeader">
+<div class="leftHeader" id="freebies">
 Freebies
 </div>
 
@@ -693,18 +754,18 @@ Congratulations! You’ve finished the bulk of character creation. As-is, this s
 
 Vampires get 15 freebie points, and Humans get 21 (as compensation for their lack of dots elsewhere.) This can be increased by 7 for each by taking Flaws to maximums of 22 and 28 respectively. Think of these points as supercharged experience points. They’re to help round out a character.
 
-<div class="secondHeader">What can I spend Freebie Points on?</div>
+<div class="secondHeader" id="what-can-i-buy">What can I spend Freebie Points on?</div>
 
 You can spend them according to the following table. Note that if you’re playing a Human, you won’t be able to purchase disciplines and background dots might be hard to justify. <b>Remember to keep a receipt of what you spend them on in the space on the sheet, and to mark any dots bought in <span style="color: #4a86e8;">blue</span>.</b>
 
-<div class ="thirdHeader">Recomendations</div>
+<div class ="thirdHeader" id="recommendations">Recomendations</div>
 
 * <b>Willpower:</b> Humans should be around 3-4 and vampires 4-5.
 * <b>Humanity:</b> Humans should be at 7, and vampires at 6-7.
 * <b>Attributes:</b> Any attributes at 1 dot that they shouldn't be below-average in should be increased to 2.
 * <b>Abilities:</b> If there's anything the character is exceptional at, you can increase it from 3 to 4. Remember to apply a specialty if you do.
 
-<div class = "secondHeader">Merits and Flaws</div>
+<div class = "secondHeader" id="merits-flaws">Merits and Flaws</div>
 
 <div class = "yourAttentionPlease">
 
@@ -716,7 +777,7 @@ You can spend them according to the following table. Note that if you’re playi
 
 Merits and Flaws should be taken with the goal of adding depth to a character, not to buff them in a purely mechanical sense. If you imagined that your character would’ve been wearing glasses from the start, give them Bad Sight, and if you think that your character has never been in a fight before, they should have Combat Novice.
 
-Read more about the merits and flaws we allow here.
+Read more about the merits and flaws we allow <a href="#merits-and-flaws">here</a>.
 
 <b>Remember:</b>
 
@@ -729,7 +790,7 @@ Read more about the merits and flaws we allow here.
 
 <div class = "thirdHeader"> What if I'm playing a human?</div>
 
-You're allowed to asave as many freebies as you would like to spend on merits after being Embraced or ghouled in-character, just make sure you note that you're saving them on your sheet.
+You're allowed to save as many freebies as you would like to spend on merits after being Embraced or ghouled in-character, just make sure you note that you're saving them on your sheet.
 
 <table>
 <thead>
@@ -773,9 +834,9 @@ You're allowed to asave as many freebies as you would like to spend on merits af
 
 <div class = "leftHeader">Experience</div>
 
-Humans can't start with bonus experience. Vampire characters over a year of age can have 1 point per year of unlife to a maximum of 10. If you have any, add them to your sheet, as you'll be able to spend it at a later time.
+Humans can't start with bonus experience. Vampire characters over a year of age can have 1 point per year of unlife to a maximum of 10 for the purposes of keeping your character young. If you have any, add them to your sheet, as you'll be able to spend it at a later time.
 
-<div class = "leftHeader">Additional Requirements</div>
+<div class = "leftHeader" id="additional-requirement">Additional Requirements</div>
 
 Aside from the character sheet, we require a backstory with a 500 word minimum. If you don't have an idea of how to start this, or you're unsure of how to structure it, use this as a guide:
 
@@ -824,11 +885,11 @@ Aside from the character sheet, we require a backstory with a 500 word minimum. 
 * Current relationships or ones that have advanced still since the last paragraphs
 </details>
 
-<div class="leftHeader">Submisison</div>
+<div class="leftHeader" id="submission ">Submission </div>
 
 All character sheets are submitted directly through our bot, Caine. Please visit his documentation here and refer to #getting-started for more information.
 
-<div class="leftHeader">Questions?</div>
+<div class="leftHeader" id="questions">Questions?</div>
 
 If you have further questions, please message the Storyteller, an Assistant Storyteller, or post in #roleplay-discussion. Thank you!
 
