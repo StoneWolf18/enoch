@@ -322,7 +322,7 @@ One of the hotspots of LA, there are always tourists who make exceptional seduct
 </thead>
 <tbody>
   <tr>
-  <td>Charisma, Manipulation, Appearance</td>
+  <td>Strength, Dexterity, Stamina</td>
       <td>+1</td>
     </tr>
     <tr>

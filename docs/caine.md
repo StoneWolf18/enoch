@@ -74,6 +74,48 @@
    </section>
  </div>
 
+ <div class="leftHeader" id="important-notes">Important Notes</div>
+
+ <div class="leftHeader" id="utility">Utility</div>
+
+ <div class="secondHeader" id="embrace">Embrace</div>
+
+ <div class="leftHeader" id="profiles">Profiles</div>
+
+ <div class="secondHeader" id="profile-create">Create</div>
+
+ <div class="secondHeader" id="profile-show">Show</div>
+
+ <div class="secondHeader" id="profile-delete">Delete</div>
+
+ <div class="secondHeader" id="profile-edit">Edit</div>
+
+ <div class="leftHeader" id="profile-type">Profile Type Change</div>
+
+ <div class="secondHeader" id="profile-ghoul">Ghoul</div>
+
+ <div class="secondHeader" id="profile-embrace">Embrace</div>
+
+ <div class="leftHeader" id="resource-gain">Resource Gain</div>
+
+ <div class="secondHeader" id="hunt">Hunt</div>
+
+ <div class="secondHeader" id="earn">Earn</div>
+
+ <div class="secondHeader" id="rest">Rest</div>
+
+ <div class="leftHeader" id="resource-spend">Resource Spend</div>
+
+ <div class="leftHeader" id="damage-tracking">Damage Tracking</div>
+
+ <div class="leftHeader" id="dice">Dice</div>
+
+ <div class="leftHeader" id="scene-management">Scene Management</div>
+
+ <div class="leftHeader" id="mod-mail">Mod Mail</div>
+
+ <div class="leftHeader" id="search">Search</div>
+
 </div>
 
 <div class= blueWrapper>

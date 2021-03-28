@@ -671,6 +671,18 @@ ul.sideBar {
 
 }
 
+.sidebarExternal {
+  margin-top: -15px;
+  border: none;
+  text-indent: 5px;
+}
+
+.sidebarExternal:hover {
+ color: white;
+ font-weight: bold;
+
+}
+
 summary.sideBar:hover {
   list-style-image: none;
   text-indent: 0px;
