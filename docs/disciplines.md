@@ -62,7 +62,7 @@ These are the disciplines that the bloodlines we allow have access to.
 * <a href="#disciplines/flight">Flight</a> — The supernatural discipline by which heavy Gargoyles fly. (V20 Core - 447)
 * <a href="#disciplines/melpominee">Melpominee</a> - Named for Melpomene, the Greek Muse of tragedy, the unique Discipline is one of speech and song. (V20 Core - 453)
 * <a href="#disciplines/mytherceria">Mytherceria</a> - A collection of powers which is believed to mimic the abilities of faeries (V20 - 455)
-* <a href="#disciplines/auspex">Obeah</a> — The ability to heal and cleanse at the expense of a third, enlightened, eye. (V20 Core - 457)
+* <a href="#disciplines/obeah">Obeah</a> — The ability to heal and cleanse at the expense of a third, enlightened, eye. (V20 Core - 457)
 * <a href="#disciplines/thanatosis">Thanatosis</a> — The necromantic ability to control the effects of death and decomposition. (V20 Core - 440)
 * <a href="#disciplines/valeren">Valeren</a> — The power of heaven allows foes to be struck down. (V20 Core - 474)
 * <a href="#disciplines/visceratika">Visceratika</a> — Defense through the power of earth and stone. (V20 Core - 475)
