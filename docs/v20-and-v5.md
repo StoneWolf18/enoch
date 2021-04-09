@@ -94,6 +94,20 @@ V5 condensed and nerfed a lot of the disciplines from V20. Some of the bigger di
 <div class="secondHeader" id="morality">Morality</div>
 V20 uses a much more rigid morality system than V5. Instead of setting tenants for your chronicle, all characters are on Humanity by default. Degeneration happens when <a href="#system-reference#hierarchy-of-sins">a sin of equal or lesser value</a> to a character's current rating is committed. This normally takes the form of a roll (Conscience difficulty 8), though particularly horrific actions can warrant a dot being taken outright.
 
+<div class="secondHeader" id="damage">Damage Types</div>
+There are three types of damage in V20: bashing, lethal, and aggravated.
+
+* <b>Bashing</b> is blunt force trauma, with the exception of firearms. All characters can soak bashing damage, though because a Kindred's undead body doesn't bruise easily, any bashing they receive is halved after soaking. A single level of bashing can be healed with 1 blood point.
+* <b>Lethal</b> is, as it's name implies, damage with the intent of being lethal. While a punch would bruise, a sword can do considerably more harm. Lethal is the highest form of damage a mortal can receive, with medical attention required in order to heal. Kindred can attempt to soak lethal damage, but this value isn't halved. A single level of lethal can be healed with 1 blood point.
+* <b>Aggravated</b> is the biggest threat to Kindred. It's sources are always supernatural in nature: fire, sunlight, a lupine's claws, etc. The only way Kindred can attempt to soak aggravated damage is through their fortitude dots only. Conversely, any damage that would be considered aggravated for Kindred is taken as lethal by mortals (with the exception of sunlight, as they remain unaffected). Healing aggravated damage is taxing, requiring 5 blood points and a full day of rest to heal a single level. More levels can be healed, though that would require spending an additional 5 blood points and 1 willpower per additional level healed.
+
+Its important to remember that a full health track of bashing or lethal damage will only send a character into torpor, while a full track of aggravated will cause Final Death.
+
+Willpower damage is a another mechanic exclusive to V5 with no representation in V20.
+
+<div class="secondHeader" id="social-combat">Social Combat</div>
+Social encounters are roleplayed accordingly, with social rolls made should they be necessary. Actively 'damaging' someone with a witty retort isn't possible in V20.
+
 <div class="secondHeader" id="merits-flaws">Merits and Flaws</div>
 Merits and Flaws have a point scale rather than one made of dots because they impact freebie points: points given at character creation to round out a sheet mechanically. Merits are bought with freebie points, and flaws can be taken to have more points, up to a maximum of 7 additional freebie points in flaws. Note that merits and flaws are entirely optional, but highly recommended.
 
@@ -107,7 +121,7 @@ The goal was to advance our setting in a similar direction to V5, but in a diffe
 * The Sabbat is still in North America, with their idle radicalism further deteriorating their strongholds (notably Montreal, Mexico City, Detroit, and now Washington DC).
 * The Lasombra and Tzimzisce remain aligned with the Sabbat.
 * House Tremere was fractured, though their bonds to the pyramid weren't broken. Instead, those who decided to join the Anarch-aligned House Carna participate in a ritual that bears suspicious resemblance to the vaulderie to break their old ties.
-* The Giovanni, Harbinger of Skulls, and remaining Cappadocians continue to be separated rather than form the Hecata.
+* The Giovanni, Harbinger of Skulls, Samedi, and remaining Cappadocians continue to be separated rather than form the Hecata.
 * Thin-bloods (those of the 14th and 15th generations) are considered Caitiff rather than a different category
 * The Beckoning isn't a thing; elders aren't being forced anywhere
 
