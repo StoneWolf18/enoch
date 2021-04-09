@@ -35,7 +35,7 @@ LA in Anarchy at a Glance
     <div class="secondHeader">
     Social Mobility
     </div>
-  The Free State is a turbulent place, with Kindred gangs roaming the streets looking for each and every chance to grab a piece for their own. With our custom background <b>Territory</b>, you can start making an name for yourself, provided you have the following to do so.
+  The Free State is a turbulent place, with Kindred gangs roaming the streets looking for each and every chance to grab a piece for their own. With our custom background <a href="#backgrounds#territory"><b>Territory</b></a>, you can start making an name for yourself, provided you have the following to do so.
   </div>
   <div class="gridChild">
     <div class="secondHeader">
@@ -47,17 +47,9 @@ LA in Anarchy at a Glance
     <div class="secondHeader">
     Custom Bot Functions
     </div>
-    Our custom bot Caine handles everything from dice rolls, character profiles, a merits and flaws directory, and more.
+    Our custom bot <a href="#caine">Caine</a> handles everything from dice rolls, character profiles, scenes, and more.
   </div>
 </div>
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et odio eros. Aliquam sapien nisl, vehicula eget rhoncus tempor, gravida a massa. Duis tortor nunc, dapibus in vestibulum dignissim, volutpat ut mi. Nullam dapibus diam ante. Phasellus facilisis tortor augue, quis lacinia odio ornare eget. Cras ac tortor ut nisi rhoncus ultrices. Nunc sollicitudin neque purus, non hendrerit orci ultricies a. Vestibulum sed turpis vel justo ultricies tempor. Quisque nulla ligula, sollicitudin ac sapien aliquet, posuere egestas velit. Mauris eget mi elit. Donec rhoncus, neque id tincidunt congue, diam quam sodales turpis, sollicitudin mattis elit arcu a odio. Nulla a diam ultrices, pharetra ligula non, imperdiet est. Cras condimentum accumsan mi, a tincidunt ipsum ornare fringilla. Maecenas facilisis rhoncus ex et volutpat. Maecenas at rhoncus eros.
-
-Sed maximus sapien nibh, ut aliquam nunc iaculis id. Fusce tristique, nunc at venenatis fringilla, nibh erat euismod nisi, at finibus lacus tortor tincidunt sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas at turpis turpis. Pellentesque ac tincidunt lectus. Aenean facilisis, sem vel ornare condimentum, mi nibh fermentum lacus, nec vestibulum dolor nisl quis tortor. Fusce tempus enim eget ligula vulputate finibus. Nulla facilisi. Integer gravida enim id diam semper, a iaculis diam congue. Proin arcu justo, fermentum nec venenatis vestibulum, scelerisque eget quam. Aenean molestie maximus nibh eget euismod. Vestibulum tempus posuere pellentesque. Ut semper porttitor venenatis. Ut a massa ultrices, tempus velit sit amet, vestibulum neque. Proin ac semper nisi, vel maximus purus. Suspendisse purus elit, dictum eu elit in, varius sollicitudin enim.
-
-Proin sagittis elit mauris, in imperdiet sem mollis sed. Aenean et nisi et tellus ultrices molestie. Nullam ante ante, blandit non elementum eget, commodo quis purus. Pellentesque in orci in ex hendrerit porttitor at a est. Quisque convallis leo quis dui egestas, ut efficitur neque fermentum. Suspendisse tincidunt porta laoreet. Fusce tempus posuere tortor, sed ultrices felis mattis in. Vivamus vestibulum nibh vel condimentum iaculis. Aliquam porttitor et turpis sed dapibus. Donec lobortis, enim eu consectetur ultrices, est elit iaculis urna, in placerat massa enim eu nunc. Donec ac scelerisque sapien. Nam sit amet erat facilisis lacus suscipit eleifend vel quis enim.
-
 </div>
 
 <div class= blueWrapper>

@@ -244,6 +244,7 @@ Click the different dot levels for more information.
 <b>Requirements:</b>
 
 * 2 Kindred followers
+* Resources 1
 * A location to act as the hub of your Territory
 * 10 cumulative claim successes
 
@@ -270,7 +271,7 @@ Click the different dot levels for more information.
 
 * 1 dot of Territory for at least 4 consecutive weeks
 * 4 Kindred followers
-* Resources 1
+* Resources 2
 * 20 Cumulative claim successes
 
 <b>Gains:</b>
@@ -297,7 +298,7 @@ Click the different dot levels for more information.
 
 * 2 dots of Territory for at least 4 consecutive weeks
 * 8 Kindred followers
-* Resources 2
+* Resources 3
 * 40 Cumulative claim successes
 
 <b>Gains:</b>

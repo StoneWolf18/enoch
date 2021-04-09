@@ -172,7 +172,7 @@ Each character has two archetypes, their Nature and their Demeanor. This is wher
 If you have absolutely no idea where to begin, try to take this <a href="http://www.humanmetrics.com/cgi-win/jtypes2.asp">personality test</a> from their perspective. Don’t just make a perfect representation of the result, however. Instead use it as a base to modify and build from!
 
 
-You can find a full list of the archetypes you’re able to pick from <a href="#archetypes>here</a>.
+You can find a full list of the archetypes you’re able to pick from <a href="#archetypes">here</a>.
 
 </div>
 <div class="whiteBlueBreak" style="transform: rotate(180deg);"> </div>
@@ -606,7 +606,7 @@ This Background represents your Generation: the purity of your blood, and your p
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Ninth Generation: 14 blood pool, can spend 2 blood points per turn <br>
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Eighth Generation: 15 blood pool, can spend 3 blood points per turn
 
-<dv class="thirdHeader>Herd</div>
+<dv class="thirdHeader">Herd</div>
 
 You have built a group of mortals from whom you can feed without fear. A herd may take many forms, from circles of kinky clubgoers to actual cults built around you as a god-figure. In addition to providing nourishment, your herd might come in handy for minor tasks, though they are typically not very controllable, closely connected to you, or particularly skilled (for more effective pawns, purchase Allies or Retainers). Your Herd rating adds dice to your rolls for hunting; see p. 259 for further details.
 
@@ -618,7 +618,7 @@ The nature of their herd must be described within the character's backstory.
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> 30 vessels
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> 60 vessels
 
-<dv class="thirdHeader>Mentor</div>
+<dv class="thirdHeader">Mentor</div>
 
 This Trait represents a Kindred or group of Kindred who looks out for you, offering guidance or aid once in a while. A mentor may be powerful, but his power need not be direct. Depending on the number of dots in this Background, your mentor might be nothing more than a vampire with a remarkable information network, or might be a centuries-old creature with tremendous influence and supernatural power. He may offer advice, speak to the Prince or Archbishop on your behalf, steer other elders clear of you, or warn you when you’re walking into situations you don’t understand.
 
@@ -634,7 +634,7 @@ How they acquired a mentor, who the mentor is, and their relationship must be de
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i>Mentor has a great deal of power over the city: a Prince or Archbishop, for example.
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Mentor is extraordinarily powerful, perhaps even a Justicar or Cardinal.
 
-<div class="thirdHeader>Retainers</div>
+<div class="thirdHeader">Retainers</div>
 
 Not precisely Allies or Contacts, your retainers are servants, assistants, or other people who are your loyal and steadfast companions. Many vampires’ servants are ghouls
 (p. 496) — their supernatural powers and blood bond-enforced loyalty make them the servants of choice. Retainers may also be people whom you’ve repeatedly Dominated until they have no free will left, or followers so enthralled with your Presence that their loyalty borders on blind fanaticism. Some vampires, particularly those with the Animalism Discipline, use animal ghouls as retainers.
@@ -765,33 +765,6 @@ You can spend them according to the following table. Note that if you’re playi
 * <b>Attributes:</b> Any attributes at 1 dot that they shouldn't be below-average in should be increased to 2.
 * <b>Abilities:</b> If there's anything the character is exceptional at, you can increase it from 3 to 4. Remember to apply a specialty if you do.
 
-<div class = "secondHeader" id="merits-flaws">Merits and Flaws</div>
-
-<div class = "yourAttentionPlease">
-
-<em>"Properly used, Merits and Flaws help players create and individualize their characters. Merits are special abilities or advantages that are rare or unique in the general Kindred population, while Flaws are liabilities or disadvantages that pose challenges to a character’s nightly existence. These Traits can provide player characters with added depth and personality, but Storytellers should be careful to ensure that any Traits chosen will not adversely influence the course of the chronicle or give one character an unfair advantage over the rest."</em>
-
-~ V20, 479
-
-</div>
-
-Merits and Flaws should be taken with the goal of adding depth to a character, not to buff them in a purely mechanical sense. If you imagined that your character would’ve been wearing glasses from the start, give them Bad Sight, and if you think that your character has never been in a fight before, they should have Combat Novice.
-
-Read more about the merits and flaws we allow <a href="#merits-and-flaws">here</a>.
-
-<b>Remember:</b>
-
-* Merits and Flaws are earned and cannot be purchased with experience as long as it says they’re learnable. Flaws earned this way seldom provide compensation.
-* Check to make sure what you would like to take isn’t restricted based on your character type or clan
-* Banned Merits and Flaws will not be allowed in play
-* Anything restricted will require approval before it can be taken
-* You can take more Flaws past the 7 points without compensation
-* Flaws can be "bought" away with experience later if it seems the character has worked past it (such as someone with Incomplete Understanding being taught about Kindred society and gaining a mentor.) This won’t remove the Freebies you gained from having the flaw.
-
-<div class = "thirdHeader"> What if I'm playing a human?</div>
-
-You're allowed to save as many freebies as you would like to spend on merits after being Embraced or ghouled in-character, just make sure you note that you're saving them on your sheet.
-
 <table>
 <thead>
   <tr>
@@ -830,6 +803,33 @@ You're allowed to save as many freebies as you would like to spend on merits aft
   </tr>
 </tbody>
 </table>
+
+<div class = "secondHeader" id="merits-flaws">Merits and Flaws</div>
+
+<div class = "yourAttentionPlease">
+
+<em>"Properly used, Merits and Flaws help players create and individualize their characters. Merits are special abilities or advantages that are rare or unique in the general Kindred population, while Flaws are liabilities or disadvantages that pose challenges to a character’s nightly existence. These Traits can provide player characters with added depth and personality, but Storytellers should be careful to ensure that any Traits chosen will not adversely influence the course of the chronicle or give one character an unfair advantage over the rest."</em>
+
+~ V20, 479
+
+</div>
+
+Merits and Flaws should be taken with the goal of adding depth to a character, not to buff them in a purely mechanical sense. If you imagined that your character would’ve been wearing glasses from the start, give them Bad Sight, and if you think that your character has never been in a fight before, they should have Combat Novice.
+
+Read more about the merits and flaws we allow <a href="https://tinyurl.com/meritsandflaws">here</a>.
+
+<b>Remember:</b>
+
+* Merits and Flaws are earned and cannot be purchased with experience as long as it says they’re learnable. Flaws earned this way seldom provide compensation.
+* Check to make sure what you would like to take isn’t restricted based on your character type or clan
+* Banned Merits and Flaws will not be allowed in play
+* Anything restricted will require approval before it can be taken
+* You can take more Flaws past the 7 points without compensation
+* Flaws can be "bought" away with experience later if it seems the character has worked past it (such as someone with Incomplete Understanding being taught about Kindred society and gaining a mentor.) This won’t remove the Freebies you gained from having the flaw.
+
+<div class = "thirdHeader"> What if I'm playing a human?</div>
+
+You're allowed to save as many freebies as you would like to spend on merits after being Embraced or ghouled in-character, just make sure you note that you're saving them on your sheet.
 
 
 <div class = "leftHeader">Experience</div>

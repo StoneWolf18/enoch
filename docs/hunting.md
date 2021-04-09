@@ -426,7 +426,7 @@ Beyond the city are prime locations for catching animals, or the unfortunate mor
   <td>0</td>
 </tr>
 <tr>
-  <td>Animal Ken, Brawl, Survial</td>
+  <td>Animal Ken, Brawl, Stealth, Survial</td>
   <td>-1</td>
 </tr>
 <tr>

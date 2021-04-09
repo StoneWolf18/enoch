@@ -38,5 +38,6 @@ Traits
   * [Caine](caine.md)
   * [Hunting](hunting.md)
   * [Combat](combat.md)
+  * [V20 and V5](v20-and-v5.md "LAiA - V20 and V5 Differences")
 
 <button onclick="location.href='https://discord.gg/eP69fNm'" class="button discordJoin">Join Server</button>

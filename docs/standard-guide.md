@@ -340,6 +340,20 @@ The Seers found themselves divided as the Camarilla waned and crumbled around th
   * <b>Ghoul Weakness:</b> Nosferatu ghouls are often shocked to discover their appearance degrades over time, much like their domitors. Mechanically, the ghoul loses one to two points of Appearance over time, although their total Appearance may not drop below 1.
   </ul>
 
+  #### ** Ravnos **
+
+  <div class="secondHeader">Ravnos</div>
+  <em>"What? Those aren’t bones. They’re wind chimes. Everything is going to be fine. Relax."</em>
+
+For the already scattered remnants of the clan, not much as changed for the Ravnos. They tend to stick to Anarch territories when need-be with how strict the Camarilla is now operating, if they weren't already a Rogue among a nomadic Sabbat pack.
+
+  <ul>
+  * <b>Sect:</b> Independent
+  * <b>Disciplines:</b> Animalism, Chimerstry, Fortitude
+  * <b>Weakness:</b> A turbulent history makes the Ravnos slaves to their vices. Each Ravnos has a penchant for some sort of vice — lying, cruelty, or theft, for example. When presented with the opportunity to engage in that vice, the Ravnos must indulge it unless her player succeeds on a Self-Control or Instincts roll (difficulty 6).
+  * <b>Ghoul Weakness:</b> Ravnos ghouls suffer from a lesser form of the Clan weakness. The Blood ignites a ghoul’s inclination to indulge in their natural vice such as avarice, hedonism, etc. After a year of subsequent feedings, the Ravnos ghoul will feel compelled to indulge in that vice whenever the opportunity presents itself. To resist, the ghoul must make a Self-Control or Instinct roll (difficulty 5). The difficulty for this roll may increase or decrease depending upon the circumstances, at the Storyteller’s discretion.
+  </ul>
+
   #### ** Toreador **
 
   <div class="secondHeader">Toreador</div>
