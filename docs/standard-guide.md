@@ -106,7 +106,8 @@ These are our Approved resources. The character sheet linked below must be used 
 
 There's a colored key above the title on each of the sheets. This should be used when applying dots so it's easier to tell at a glance how they got what.
 
-* <span style="color: orange;">Free</span> should only be used for the first dot in Drive and Computer. Base dots (the ones you distribute) should remain black.
+* <b>Base dots should remain black.</b> They're the dots you distribute though character creation (such as the 7/5/3 attribute dots).
+* <span style="color: orange;">Free</span> should only be used for the first dot in Drive and Computer.
 * <span style="color: #4a86e8">Freebies</span> mean any dots bought with freebies
 * <span style="color: red;">Experience</span> are any dots bought with experience
 * <span style ="color:#9900ff;">Earned</span> are any dots earned in character. Normally, this will only apply to backgrounds, as they can't be purchased with experience directly.
@@ -347,12 +348,10 @@ The Seers found themselves divided as the Camarilla waned and crumbled around th
 
 For the already scattered remnants of the clan, not much as changed for the Ravnos. They tend to stick to Anarch territories when need-be with how strict the Camarilla is now operating, if they weren't already a Rogue among a nomadic Sabbat pack.
 
-  <ul>
-  * <b>Sect:</b> Independent
-  * <b>Disciplines:</b> Animalism, Chimerstry, Fortitude
-  * <b>Weakness:</b> A turbulent history makes the Ravnos slaves to their vices. Each Ravnos has a penchant for some sort of vice — lying, cruelty, or theft, for example. When presented with the opportunity to engage in that vice, the Ravnos must indulge it unless her player succeeds on a Self-Control or Instincts roll (difficulty 6).
-  * <b>Ghoul Weakness:</b> Ravnos ghouls suffer from a lesser form of the Clan weakness. The Blood ignites a ghoul’s inclination to indulge in their natural vice such as avarice, hedonism, etc. After a year of subsequent feedings, the Ravnos ghoul will feel compelled to indulge in that vice whenever the opportunity presents itself. To resist, the ghoul must make a Self-Control or Instinct roll (difficulty 5). The difficulty for this roll may increase or decrease depending upon the circumstances, at the Storyteller’s discretion.
-  </ul>
+* <b>Sect:</b> Independent
+* <b>Disciplines:</b> Animalism, Chimerstry, Fortitude
+* <b>Weakness:</b> A turbulent history makes the Ravnos slaves to their vices. Each Ravnos has a penchant for some sort of vice — lying, cruelty, or theft, for example. When presented with the opportunity to engage in that vice, the Ravnos must indulge it unless her player succeeds on a Self-Control or Instincts roll (difficulty 6).
+* <b>Ghoul Weakness:</b> Ravnos ghouls suffer from a lesser form of the Clan weakness. The Blood ignites a ghoul’s inclination to indulge in their natural vice such as avarice, hedonism, etc. After a year of subsequent feedings, the Ravnos ghoul will feel compelled to indulge in that vice whenever the opportunity presents itself. To resist, the ghoul must make a Self-Control or Instinct roll (difficulty 5). The difficulty for this roll may increase or decrease depending upon the circumstances, at the Storyteller’s discretion.
 
   #### ** Toreador **
 
@@ -362,10 +361,10 @@ For the already scattered remnants of the clan, not much as changed for the Ravn
   The Roses of Los Angeles answer to a Methuselah of their kind, and for many of them, the Camarilla’s civil dispute affected them little. Melisande has put her roots down in Hollywood, and has developed a cult of personality among her lesser clanmates. She is protective of her domain and is willing to bring other roses into her garden. On an international level many of the Clan’s elders have chosen to remain within the Ivory Tower, albeit reluctantly, while the younger and less cynical have found themselves entrenched in the Anarchs.
 
   <ul>
-  * <b>Sect:</b> Anarch (Younger), Camarilla (Older)
-  * <b>Disciplines:</b>  Auspex, Celerity, Presence
-  * <b>Weakness:</b> When a Toreador experiences something truly remarkable — a person, an objet d’art, a lovely sunrise — the player must make a Self-Control or Instincts roll (difficulty 6). Failure means that the Kindred finds herself enthralled by the experience. The dazzled Toreador cannot act for the duration of the scene aside from commenting on or continuing their involvement with whatever has captured their attention. If the experience no longer affects her (whether by moving, being destroyed, or whatever is appropriate to the situation), the captivation ends. Enraptured Toreador may not even defend themselves if attacked, though being wounded allows them to make another Self-Control or Instincts roll.
-  * <b>Ghoul Weakness:</b> Toreador ghouls suffer from a tendency to overprotect their masters. Often, Toreador ghouls might perceive a threat where there is none, and lash out believing that the safety of their domitors is at risk. At the Storyteller’s discretion, when a Toreador ghoul leaps to the conclusion that her domitor may be harmed, she must make a Self-Control or Instinct roll. The difficulty is 6.
+* <b>Sect:</b> Anarch (Younger), Camarilla (Older)
+* <b>Disciplines:</b>  Auspex, Celerity, Presence
+* <b>Weakness:</b> When a Toreador experiences something truly remarkable — a person, an objet d’art, a lovely sunrise — the player must make a Self-Control or Instincts roll (difficulty 6). Failure means that the Kindred finds herself enthralled by the experience. The dazzled Toreador cannot act for the duration of the scene aside from commenting on or continuing their involvement with whatever has captured their attention. If the experience no longer affects her (whether by moving, being destroyed, or whatever is appropriate to the situation), the captivation ends. Enraptured Toreador may not even defend themselves if attacked, though being wounded allows them to make another Self-Control or Instincts roll.
+* <b>Ghoul Weakness:</b> Toreador ghouls suffer from a tendency to overprotect their masters. Often, Toreador ghouls might perceive a threat where there is none, and lash out believing that the safety of their domitors is at risk. At the Storyteller’s discretion, when a Toreador ghoul leaps to the conclusion that her domitor may be harmed, she must make a Self-Control or Instinct roll. The difficulty is 6.
   </ul>
 
   #### ** Tremere **
@@ -647,7 +646,7 @@ Equal to 1.
 <div class="leftHeader" id="freebies">
 Freebies
 </div>
-Finally, you may spend Freebie points in order to round out your character. An additional 7 may be gained from taking flaws. View our merits and flaws list here.
+Finally, you may spend Freebie points in order to round out your character. An additional 7 may be gained from taking flaws. View our merits and flaws list <a href="https://tinyurl.com/meritsandflaws">here</a>.
 
 * Additional flaws may be taken past the 7 points for flavor only, they do not award further freebie points
 * If you are interested in taking a Path of Enlightenment or play a Bloodline, both require "merits" custom to LA in Anarchy at the cost of 3 freebies for a path, and 5 for a Bloodline, in addition to the other requirements.

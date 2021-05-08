@@ -156,7 +156,7 @@ Drawing a blade or reloading a magazine can be accomplished without issue if not
 
 <div class="secondHeader" id="discipline">Using a Discipline</div>
 
-Any discipline that requires a dice roll is considered an action. Those that don't (such as Feral Claws or Baal's Caress) can be done for free.
+Any discipline that requires a dice roll is considered an action, as are any that state they require an action to use in their description (such as Feral Claws). Those that don't can be done for free.
 
 <div class="secondHeader" id="action-combat">Combat Maneuvers</div>
 
