@@ -98,7 +98,7 @@ These are our Approved resources. The character sheet linked below must be used 
 <b class="whiteBold">Character Sheets</b>
 * <a href="http://bit.ly/Vampire-Sheet-2021">Vampire</a>
 * <a href="http://bit.ly/Ghoul-Sheet-2021">Ghoul</a>
-* <a href="http://bit.ly/Human-Sheet-2021">Human</a>
+* <a href="http://bit.ly/human-sheet-2021">Human</a>
 
 <div class="yourAttentionPleaseWhite">
 

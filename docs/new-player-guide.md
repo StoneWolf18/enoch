@@ -83,7 +83,7 @@ This is what you'll need to make your first character. To use the character shee
 
 <b class="thirdHeader">Character Sheets</b>
 * <a href="http://bit.ly/Vampire-Sheet-2021">Vampire</a>
-* <a href="http://bit.ly/Human-Sheet-2021">Human</a>
+* <a href="http://bit.ly/human-sheet-2021">Human</a>
 
 <div class="yourAttentionPlease">
 
