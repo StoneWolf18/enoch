@@ -43,8 +43,6 @@ Don't open the sheet in Microsoft Word. The formatting won't transfer, and the w
 
 <img src="assets/sheetTraits.png">
 
-<span style="color: green; font-weight: bold;">Trait ratings/dots</span> are marked with an x in the space to the right of the line.
-
 <div class="yourAttentionPlease">
 
 <b>Important</b>
@@ -53,7 +51,23 @@ When you first open the sheet, it'll have a dot (x) in every ability. <b>This is
 
 </div>
 
-<span style="color: orange; font-weight: bold;">Specialites</span> are recorded on the line in between the trait's name and dot rating, much like on the traditional Vampire character sheet.
+<span style="color: green; font-weight: bold;">Trait ratings/dots</span> are marked with an x in the space to the right of the line.
+
+<span style="color: orange; font-weight: bold;">Specialties</span> are recorded on the line in between the trait's name and dot rating, much like on the traditional Vampire character sheet.
+
+<img src="assets/sheetAdv.png">
+
+<span style="color: #8000FF; font-weight: bold;">Advantage Labels</span> are the name of disciplines/backgrounds respectively. There will be an example on the top line indication where it goes, but that can be removed if desired.
+
+<span style="color: #FF0080; font-weight: bold;">Advantage Dots</span> are the dots of the disciplines/backgrounds. Along with the labels, the example indicating where they go can be removed.
+
+<span style="color: #00FF40; font-weight: bold;">Humanity/Willpower Tracks</span> should have the base values should be recorded in grey. Anything bought with freebies or xp should be marked according to the key (such as the two willpower bought with freebies.)
+
+<img src="assets/sheetCharts.png">
+
+<span style="color: #00FFFF; font-weight: bold;">Chart Label</span> are the names for merits/flaws, freebie buys, and experience purchases.
+
+<span style="color: #FFFF00; font-weight: bold;">Chart Values</span> are the cost/bonus for merits/flaws, freebie buys, and experience purchases.
 
 </div>
 

@@ -6,6 +6,7 @@
   * [NPC Guidelines](npc-guidelines.md "LAiA - NPC Guidelines")
   * [Reworks](reworks.md "LAiA - Character Reworks")
   * [Bloodlines](bloodlines.md "LAiA - Bloodlines")
+  * [Using the Sheet](using-the-sheet.md "LAiA - Character Sheet")
 * Resources
 
 <details class="sideBar">

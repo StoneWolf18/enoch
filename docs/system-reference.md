@@ -33,6 +33,7 @@
        </ul>
      <li><a class="toc" href="#system-reference#frenzy-ghouls">Ghouls</a></li>
      </ul>
+   <li><a class="toc" href="#system-reference#health-chart">Heath Chart</a></li>
    <li><a class="toc" href="#system-reference#hierarchy-of-sins">Hierarchy of Sins</a></li>
    <li><a class="toc" href="#system-reference#multiple-actions">Multiple Actions</a></li>
    <li><a class="toc" href="#system-reference#vitae-withdrawl">Vitae Withdrawl</a></li>
@@ -431,6 +432,69 @@ Rötschreck (a fear frenzy) is resisted by everyone with Courage.
   <tr>
     <td>Abandonment</td>
     <td>6</td>
+  </tr>
+</tbody>
+</table>
+
+<div class="leftHeader" id="health-chart">Health Chart</div>
+<table>
+<thead>
+  <tr>
+    <th class="blue">Health Level</th>
+    <th class="blue">Dice Pool Penalty</th>
+    <th class="blue">Movement Penalty</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Brusied</td>
+    <td>0</td>
+    <td>Character is only bruised and suffers no dice pool penalties due to damage.</td>
+  </tr>
+  <tr>
+    <td>Hurt</td>
+    <td>-1</td>
+    <td>Character is superficially hurt and suffers no movement hindrance.</td>
+  </tr>
+  <tr>
+    <td>Injured</td>
+    <td>-1</td>
+    <td>Character suffers minor injuries and movement is mildly inhibited (halve maximum running speed.)</td>
+  </tr>
+  <tr>
+    <td>Wounded</td>
+    <td>-2</td>
+    <td>Character suffers significant damage and may not run (though he may still walk). At this level, a character may only move or attack; he always loses dice when moving and attacking in the same turn.</td>
+  </tr>
+  <tr>
+    <td>Mauled</td>
+    <td>-2</td>
+    <td>Character is badly injured and may only hobble about (three yards/meters per turn).</td>
+  </tr>
+  <tr>
+    <td>Crippled</td>
+    <td>-5</td>
+    <td>Character is catastrophically injured and may only crawl (one yard/meter per turn).</td>
+  </tr>
+  <tr>
+    <td>Incapacitated</td>
+    <td> </td>
+    <td>Character is incapable of movement and is likely unconscious. Incapacitated vampires with no blood in their bodies enter torpor.</td>
+  </tr>
+  <tr>
+    <td>Torpor</td>
+    <td> </td>
+    <td>Character enters a deathlike trance. He may do nothing, not even spend blood, until a period of time has passed.</td>
+  </tr>
+  <tr>
+    <td>Final Death</td>
+    <td> </td>
+    <td>Character is killed permanently.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>

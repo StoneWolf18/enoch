@@ -140,6 +140,18 @@ You understand the emotions of others, and can sympathize with, feign sympathy f
 <b>Posessed by:</b> Social Workers, Parents, Actors, Psychologists, Detectives, Seducers, Mediums, Best Friends <br>
 <b>Specialties:</b> Emotions, Insight, Motives, Gaining Trust
 
+<div class="secondHeader" id="expression">Expression</div>
+This is your ability to get your point across clearly, whether through conversation, poetry, or even in 140 characters or fewer. Characters with high Expression can phrase their opinions or beliefs in a manner that cannot be ignored (even if their opinions are misinformed or worthless). They might also be talented actors, skilled at conveying moods or communicating emotion with every gesture. Additionally, this Talent represents your ability for poetry, creative writing, or other literary art forms. For many elders, Expression is the subtle art of crafting a satirical epigram capable of socially crippling one’s longtime rival. For younger Kindred, Expression may well be the key to convincing thirty stake-wielding Anarchs to converge on the Sheriff’s private hunting ground with the right text message. You can choose a specialty in Expression, even at less than 4 dots.
+
+<i class="fas fa-circle fa-sm"></i> <b>Novice:</b> Your talent has matured past crude poetry on notebook paper. <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> <b>Practiced:</b> You could lead a college debate team. <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> <b>Competent:</b> You could be a successful writer. <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> <b>Expert:</b> Your work is Pulitzer material. <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> <b>Master:</b> Steve Jobs asks you for input on his next mobile device.
+
+<b>Posessed by:</b> Actors, Writers, Poets, Politicians, Journalists, Web Personalities, Rabble-Rousers <br>
+<b>Specialties:</b> Acting, Poetry, Fiction, Impromptu, Conversation, Social Media
+
 <div class="secondHeader" id="intimidation">Intimidation</div>
 Intimidation takes many forms, from outright threats and physical violence to mere force of personality. It needn’t be course or callous, and a well-placed intimidating word under the right circumstances might well be called “diplomacy” in certain circles. You know the right method for each occasion, and can be very… persuasive.
 

@@ -19,7 +19,7 @@ A rework is giving a character a mechanical blank slate, creating a brand new sh
 Technically, the only thing that can't change is the character's name, though we advise not making changes that would be too big to retcon (such as their clan.)
 
 <div class="secondHeader">Do I keep my XP and earned merits/backgrounds?</div>
-Any spent XP is refunded, but other traits (such as merits and backgrounds) earned in-character will not transfer. You are only able to spend bonus experience at character creation, <b>not</b> any earned during play.
+Any spent XP is refunded, but other traits (such as merits and backgrounds) earned in-character are subject to approval for transfer. Any XP earned up until the point of the rework submission can be spent with justification through an appended biography.
 
 <div class="secondHeader">How many times can I rework a character?</div>
 Every approved character gets <b>one</b> rework.

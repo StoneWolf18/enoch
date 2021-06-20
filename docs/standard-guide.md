@@ -383,29 +383,29 @@ For the already scattered remnants of the clan, not much as changed for the Ravn
   * <b>Weakness:</b> Tremere dependency on blood is even more pronounced than that of other Kindred. It takes only two draughts of another vampire’s blood for a Tremere to become blood bound instead of the normal three — the first drink counts as if the Tremere had taken two drinks.
   * <b>Ghoul Weakness:</b> Tremere ghouls are extremely susceptible to the blood bond. Their difficulty to break the blood bond is twice that of other ghouls.
 
-  #### ** Tzimisce Antitirbu **
+  #### ** Tzimisce Antitribu **
 
-  <div class="secondHeader">Tzimisce Antitirbu</div>
+  <div class="secondHeader">Tzimisce Antitribu</div>
   <em>"Why on earth would you think I wanted you to stop screaming? I find the results so much more melodious when you indulge your fear."</em>
 
-  While many Fiends are ever more committed to the Sword's cause since the Regression, there was still some turmoil amongst them. Metamorphosis requires change, and the Regression caused one previously thought impossible: making Cainites into Kine once more. This sentiments were only reinforced once the static undead began to birth living, mortal life. Not long after, many of the clan, young and old, went to seek refuge elsewhere.
+  While many Fiends are ever more committed to the Sword's cause since the Regression, there was still some turmoil amongst them. Metamorphosis requires change, and the Regression caused one previously thought impossible: making Cainites into Kine once more. This sentiments were only reinforced once the static undead began to birth mortal life. Not long after, many of the clan, young and old, went to seek refuge elsewhere.
 
   <div class ="yourAttentionPlease">
 
   <b>Yes, Sabbat are still banned.</b>
 
-   This isn't a way to circumvent that rule, but rather allow players to still have access to a clan that would otherwise be unavailable due to that limitation. Tzimisce Antitirbu in play don't need to be humane, but they <b>cannot</b> be aligned with the Sword any longer. Characters who go about this in scenes regardless of the ban will be removed from play.
+   This isn't a way to circumvent that rule, but rather allow players to still have access to a clan that would otherwise be unavailable due to that limitation. Tzimisce Antitribu in play don't need to be humane, but they <b>cannot</b> be aligned with the Sabbat any longer. Characters who go about this in scenes regardless of the ban will be removed from play.
 
    </div>
 
   <ul>
-  * <b>Sect:</b> Anarch (Younger Antitirbu), Independent (Older Antitirbu)
+  * <b>Sect:</b> Anarch (Younger Antitribu), Independent (Older Antitribu)
   * <b>Disciplines:</b>  Animalism, Auspex, Vicissitude
   * <b>Weakness:</b> The Tzimisce are inextricably tied to their domains of origin, and must rest in the proximity of at least two handfuls of “native soil” — earth from a place important to her as a mortal, such as the soil from her birthplace or the graveyard where she underwent her Embrace. Each night spent without this physical connection to her land limits all of the Tzimisce’s dice pools to one-half, cumulatively, until she has only a single die in her pool. The penalty remains until she rests for a full day amid her earth once more.
   * <b>Ghoul Weakness:</b> While Tzimisce ghouls are not undead, the vitae that flows through their veins causes mortals to be wary and uneasy around them. Because of this, difficulties of all rolls related to social interaction with mortals untainted by vitae are increased by two.
   </ul>
 
-  <b>Additional Note:</b> to keep Vicissitude from getting too out of hand, all Tzimsice Antitirbu are limited to a <b>maximum of 2 Retainer dots.</b> This means both during character creation and during play; in other words, no additional dots can be earned, either.
+  <b>Additional Note:</b> to keep Vicissitude from getting too out of hand, all Tzimsice Antitribu are limited to a <b>maximum of 2 Retainer dots.</b> This means both during character creation and during play; in other words, no additional dots can be earned should both be purchased at character creation.
 
   #### ** Ventrue **
 
@@ -441,7 +441,7 @@ For the already scattered remnants of the clan, not much as changed for the Ravn
 
   <b>What about Lasombra?</b>
 
-  Because of how strong Obtenebration is, Lasombra Antitirbu are playable as a bloodline only. You can read about how to play a bloodline <a href="#bloodlines">here</a>.
+  Because of how strong Obtenebration is, Lasombra Antitribu are playable as a bloodline only. You can read about how to play a bloodline <a href="#bloodlines">here</a>.
 
   </div>
 
@@ -464,7 +464,7 @@ For the already scattered remnants of the clan, not much as changed for the Ravn
   * All attributes start with a single dot which <b>aren't</b> counted. The only exception to this are Nosferatu, as their appearance would be 0.
   * Anything at 4 dots or higher should be justified within the character's biography and personality, considering they would have to be using it frequently to be at that level.
   * For any attributes that are at 4 dots or more, make sure to apply a specialty.
-  * Specific information on what all of the attributes mean in Vampire can be found <a href="traits.md">here</a>.
+  * Specific information on what all of the attributes mean in Vampire can be found <a href="#attributes.md">here</a>.
 
 
   </div>
@@ -529,8 +529,8 @@ There are abilities that require you to select specialties early:
     </div>
   You get 3 dots to spread across the three Disciplines your character's clan starts with. You could put one in each, all three in one, or any other combination that suits them as a character. Keep in mind that if any are left at 0 dots, it will cost 10 XP to get the first dot, in-Clan or not.
 
-  * <b>Blood Magic:</b> If you are taking a casting base Discipline and get Rituals, you can take any combination of Rituals with levels equal to those dots. (ie: If you have 5 dots in Thaumaturgy, you can either start with one level 5 Ritual, 5 level 1 Rituals, or any combination thereof.) You may learn more Rituals later on by following the process outlined in our <a href="rules.md#house-rules">House Rules</a>.
-  * <b>Caitiff:</b> It needs to be specified what clan spawned them (what clan their sire was) and then take 1-2 disciplines from that clan and then the rest common disciplines (Animalism, Auspex, Celerity, Dominate, Presence, Potence, Fortitude, and Obfuscate.) Caitiff cannot take any type of blood sorcery, and any caitiff spawned by a caitiff can only have common disciplines.
+  * <b>Blood Magic:</b> If you are taking a blood sorcery, you can take any combination of rituals with levels equal to those dots. (ie: If you have 5 dots in Thaumaturgy, you can either start with one level 5 Ritual, 5 level 1 Rituals, or any combination thereof.) You may learn more Rituals later on by following the process outlined in our <a href="rules.md#house-rules">House Rules</a>.
+  * <b>Caitiff:</b> It needs to be specified what clan spawned them (what clan their sire was) and then take 1-2 disciplines from that clan and then the rest in common disciplines (Animalism, Auspex, Celerity, Dominate, Presence, Potence, Fortitude, and Obfuscate.) Caitiff cannot take any type of blood sorcery, and any caitiff spawned by a caitiff can only have common disciplines.
 
   <div class="thirdHeader" id-"disciplines-ghouls">
   Ghouls
@@ -538,7 +538,7 @@ There are abilities that require you to select specialties early:
 You get 1 dot of Potence and 1 dot into an in-clan discipline of your domitor.
 
 * <b>Blood Magic:</b> Ghouls cannot take blood magic disciplines at this time.
-* <b>Caitiff:</b> Take one of the disciplines they started with.
+* <b>Caitiff:</b> Take one of the disciplines their domitor started with.
 
 <div class="swatchHeader" style="color: #384b7e;" id="backgrounds">
 Backgrounds
@@ -547,7 +547,7 @@ You get 5 Background dots to spend. All backgrounds should be explained on the g
 
 * Generation can go up to 5 without pre-approval
 * Allies, Alternate Identity, Contacts, Fame, Herd, Influence, Mentor, Resources, and Retainers must be pre-approved past 3 dots
-* Status and Domain (official territory granted by the Baron) must be pre-approved regardless of dots
+* Status and Domain (official territory granted by a Baron) must be pre-approved regardless of dots
 
 <div class="yourAttentionPleaseWhite">
 
@@ -617,7 +617,7 @@ If it isn't listed above, the path is currently not available for play.
 <b>Important</b>
 
 
-There should be a clear reason as to why the character is on a path. If you are unable to come up with a reason as to how they were able to switch their morality or why, they should remain on humanity.
+Alternate Virtues begin at zero. The character still has 7 points to distribute, but inhumane virtues (Conviction and Instinct) don't get the free first dot that Conscience, Self-Control, and Courage do.
 
 </div>
 
@@ -791,7 +791,7 @@ Experience
 <b>Important</b>
 
 
-Experience does <b>not</b> need to be taken to be on par with the other characters on the server. Experience gain is rather quick, and rarely do stats come in to play when dealing with other players.
+Experience does <b>not</b> need to be taken to be on par with the other characters on the server. Character progression is rather quick, provided said character is active and working on what they wish to improve.
 
 </div>
 
