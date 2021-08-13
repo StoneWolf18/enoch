@@ -116,6 +116,8 @@ There's a colored key above the title on each of the sheets. This should be used
 
 <em><b>Please</b></em> follow this key. We won't review a sheet until it's been marked properly.
 
+For information on how to use the character, please see: <a href="#using-the-sheet">Using the Sheet</a>
+
 </div>
 
 <div class="swatchHeader" style="color: #100c0d; margin-top: 10px;" id="rules-and-restrictions">
@@ -125,10 +127,10 @@ Before you begin, please familiarize yourself with our House Rules.
 
 Other restrictions include:
 * All characters must be <b>at least</b> 18 years old. For vampires, this means they must have been at least 18 at the time of their embrace.
-* Revenants are not available for play at this time
-* All combination disciplines are banned
-* Any 5 dot trait <b class="whiteBold">must</b> be purchased with experience
-* Characters cannot identify as Autarkis, as it's defined as being too powerful for someone to be forced to conform to the wishes of a specific sect, which no PCs would be able to accomplish
+* Revenants are not available for play at this time.
+* All combination disciplines are banned.
+* Any 5 dot trait <b class="whiteBold">must</b> be purchased with experience.
+* Characters cannot identify as Autarkis, as it's defined as being too powerful for someone to be forced to conform to the wishes of a specific sect, which no PCs would be able to accomplish.
 * Characters must be submitted two weeks apart from approval. If a new sheet is submitted before the two week wait is up, it'll be automatically rejected.
 
 </div>
@@ -625,6 +627,14 @@ Alternate Virtues begin at zero. The character still has 7 points to distribute,
 Willpower
 </div>
 Willpower is equal to Courage.
+
+<div class="yourAttentionPleaseWhite" style="margin-top: 20px; margin-bottom: 10px;">
+
+<b>Important</b>
+
+The maximum rating for any player character is 8. Characters submitted with ratings higher than 8 will be asked to lower it before approval.
+
+</div>
 
 <div class="secondHeader" style="margin-top: 5px;" id="starting-bp">
 Starting Blood Pool

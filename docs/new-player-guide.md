@@ -89,7 +89,7 @@ This is what you'll need to make your first character. To use the character shee
 
 <b>Important</b>
 
-You should see a colored key at the top of the character sheet. The base dots (marked with an x) you distribute should be kept black, but anything else should be marked accordingly.
+For information on how to use the character, please see: <a href="#using-the-sheet">Using the Sheet</a>
 
 </div>
 
@@ -742,7 +742,7 @@ With 4 Courage, our Boxer is going to start with 4 Willpower.
 Blood Pool
 </div>
 
-Vampires need blood to sustain themselves, that’s a focal point of the curse that’s befallen them. All vampire characters will start with 5 in their pool to keep anyone from being too hungry.
+Vampires need blood to sustain themselves, that’s a focal point of the curse that’s befallen them. All vampire characters will start with 8 in their pool to keep anyone from being too hungry.
 
 To see how blood can be spent, please read “Using Blood Pool” on page 268 of the core.
 

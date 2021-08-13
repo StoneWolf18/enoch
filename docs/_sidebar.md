@@ -10,7 +10,7 @@
 * Resources
 
 <details class="sideBar">
-<summary class="sideBar">
+<summary class="sideBar" style="margin-left: 20px;">
 Traits
 </summary>
 

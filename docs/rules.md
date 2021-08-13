@@ -122,7 +122,7 @@
       <div class="thirdHeader">
       Age
       </div>
-      For each year spent as a vampire, a point of experience is awarded up until 100 years. A character is able to be a maximum of 500 years old with 100 bonus experience, although this extreme is not recommended. New players have restrictions found in the <a href='new-player-guide.md'>New Player Walkthrough</a>.
+      For each year spent as a vampire, a point of experience is awarded up until 100 years. A character is able to be a maximum of 500 years old with 100 bonus experience, although this extreme is not recommended. New players have restrictions found in the <a href='#new-player-guide'>New Player Walkthrough</a>.
     </div>
     <div class="gridChild">
       <div class="thirdHeader">
@@ -132,15 +132,66 @@
     </div>
     <div class="gridChild">
       <div class="thirdHeader">
+      Five-dot Traits
+    </div>
+    The fifth dot of any trait must be purchased with experience. The only exception to this rule is Appearance, as it is not entirely learned and/or trained.
+    </div>
+    <div class="gridChild">
+      <div class="thirdHeader">
       Path of Enlightenment
       </div>
       In order to take a Path of Enlightenment, you must spend 3 freebies and write a paragraph justification as to how they were able to withstand converting and why they did so. This justification can be apart of your character's history.
     </div>
     <div class="gridChild">
       <div class="thirdHeader">
+      Sect Alignment
+    </div>
+      The only available sects are Camarilla, Anarch, and Independent. Sabbat-Aligned Lasombra and Tzimisce are banned, as well as any other loyal Antitribu or Sabbat-loyal bloodlines. Characters still aligning with the Sabbat regardless of this rule will be removed from play.
+
+  Tremere are assumed to be aligned with House Carna unless it is specified that they are loyal to House Tremere.
+    </div>
+    <div class="gridChild">
+      <div class="thirdHeader">
+      Willpower Restriction
+    </div>
+      The maximum willpower allowed for a player character is 8. Any characters submitted with a value over 8 will be asked to lower it before approval.
+    </div>
+  </div>
+
+  <div class="secondHeader">
+  Mechanical
+  </div>
+
+  <div class="gridContainer">
+    <div class="gridChild">
+      <div class="thirdHeader">
+      Alternative Botch Rules
+      </div>
+      Any negative result on a roll is considered a botch. If you spend willpower, it'll always be 1 success, negative or not.
+    </div>
+    <div class="gridChild">
+      <div class="thirdHeader">
+      Arms of the Abyss
+      </div>
+      Tentacles now have their own statistics, rather than relying on the user's obtenebration rating, and deal bashing + 1 instead of lethal when constricting. Specifics can be read about <a href="#disciplines/obtenebration#•••">here</a>.
+    </div>
+    <div class="gridChild">
+      <div class="thirdHeader">
+      Flaw Removal
+      </div>
+      Characters who work through flaws can eventually buy them off with experience for twice the freebie point bonus.
+    </div>
+    <div class="gridChild">
+      <div class="thirdHeader">
+      Frenzy Bonus
+      </div>
+      All vampires in frenzy add their generation dots to all physical (strength, dexterity, and stamina) rolls.
+    </div>
+    <div class="gridChild">
+      <div class="thirdHeader">
       Ghoul Embraces
     </div>
-    Any disciplines had are kept, though only the disciplines their clan has will be considered in-clan. Missing attribute and ability points are not applied.
+    If embraced during play, any disciplines had are kept, though only the disciplines their clan has will be considered in-clan. Missing attribute and ability points are not applied.
     </div>
     <div class="gridChild">
       <div class="thirdHeader">
@@ -150,19 +201,12 @@
     </div>
     <div class="gridChild">
       <div class="thirdHeader">
-      Sect Alignment
-    </div>
-      The only available sects are Camarilla, Anarch, and Independent. Sabbat-Aligned Lasombra and Tzimisce are banned, as well as any other loyal Antitirbu or Sabbat-loyal bloodlines. Characters still aligning with the Sabbat regardless of this rule will be removed from play.
-
-  Tremere are assumed to be aligned with House Carna unless it is specified that they are loyal to House Tremere.
-    </div>
-    <div class="gridChild">
-      <div class="thirdHeader">
       Torpor Length
-    </div>
-    As long as the torpor is not voluntary, a Vampire can be woken up by being fed a point of blood, even if the torpor was induced by damage.
+      </div>
+      As long as the torpor is not voluntary, a Vampire can be woken up by being fed a point of blood, even if the torpor was induced by damage.
     </div>
   </div>
+
 </div>
 
 <div class= blueWrapper>
