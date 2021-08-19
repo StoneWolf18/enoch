@@ -20,7 +20,8 @@
     <ul class="toc">
      <li><a class="toc" href="#hunting#process">Process</a></li>
      <li><a class="toc" href="#hunting#backgrounds">Backgrounds</a></li>
-     <li><a class="toc" href="#hunting#backgrounds">Backgrounds</a></li>
+     <li><a class="toc" href="#hunting#disciplines">Disciplines</a></li>
+     <li><a class="toc" href="#hunting#feeding-restrictions">Feeding Restrictions</a></li>
     </ul>
     <li><a class="toc" href="#hunting#risks">Risks</a></li>
     <li><a class="toc" href="#hunting#locations">Locations</a></li>
@@ -92,6 +93,14 @@ When using disciplines:
 
 * You must spend the required blood or willpower before making the hunting roll. These resources will not be refunded if the hunt fails.
 * Serpentis will <b>always</b> result in a masquerade breach. Please contact the Storyteller or an Assistant before making your roll.
+
+<div class="secondHeader" id="feeding-restrictions">
+Feeding Restrictions
+</div>
+
+* Ventrue automatically suffer a +1 difficulty to any hunting rolls
+* Flaws that restrict hunting preferences (Prey Exclusion, Selective Taste, etc) but don't give a specific value in their description (such as Uncommon Vitae Preference) increase the difficulty by half of their value, rounded up. Meaning: someone with Prey Exclusion would increase all hunting difficulties by 1 (1/2 = 0.5), whereas someone with Selective Taste would increase all difficulties by 2 (4/2 = 2).
+
 </div>
 
 <div class= blueWrapper>

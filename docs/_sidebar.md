@@ -10,7 +10,7 @@
 * Resources
 
 <details class="sideBar">
-<summary class="sideBar" style="margin-left: 20px;">
+<summary class="sideBar" style="margin-left: 15px;">
 Traits
 </summary>
 
@@ -29,7 +29,7 @@ Traits
 <ul>
 
 * [System Reference](system-reference.md "LAiA - System Reference")
-* <span style="margin-top: -15px; margin-bottom: -10px; border: none; text-indent: 5px; color: white!important;">[Merits & Flaws](https://tinyurl.com/meritsandflaws)</span>
+* <span style="margin-top: -15px; margin-bottom: -10px; border: none; text-indent: 0px; color: white!important;">[Merits & Flaws](https://tinyurl.com/meritsandflaws)</span>
 
 
 </ul>
