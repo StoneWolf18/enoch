@@ -29,7 +29,7 @@ Traits
 <ul>
 
 * [System Reference](system-reference.md "LAiA - System Reference")
-* <span style="margin-top: -15px; margin-bottom: -10px; border: none; text-indent: 0px; color: white!important;">[Merits & Flaws](https://tinyurl.com/meritsandflaws)</span>
+* <span style="margin-top: -12px; margin-bottom: -10px; border: none; text-indent: 0px; color: white!important;">[Merits & Flaws](https://tinyurl.com/meritsandflaws)</span>
 
 
 </ul>
