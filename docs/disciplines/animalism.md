@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/animalism#•">• Feral Whispers</a></li>
-   <li><a class="toc" href="#disciplines/animalism#••>•• Beckoning</a></li>
-   <li><a class="toc" href="#disciplines/animalism#•••">••• Quell the Beast</a></li>
-   <li><a class="toc" href="#disciplines/animalism#••••">•••• Subsume the Spirit</a></li>
-   <li><a class="toc" href="#disciplines/animalism#•••••">••••• Drawing Out the Beast</a></li>
+   <li><a class="toc" href="?id=•">• Feral Whispers</a></li>
+   <li><a class="toc" href="?id=••>•• Beckoning</a></li>
+   <li><a class="toc" href="?id=•••">••• Quell the Beast</a></li>
+   <li><a class="toc" href="?id=••••">•••• Subsume the Spirit</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Drawing Out the Beast</a></li>
    </ul>
    </section>
  </div>

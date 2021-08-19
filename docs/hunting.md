@@ -16,21 +16,21 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#hunting#rolling-to-hunt">Rolling to Hunt</a></li>
+   <li><a class="toc" href="?id=rolling-to-hunt">Rolling to Hunt</a></li>
     <ul class="toc">
-     <li><a class="toc" href="#hunting#process">Process</a></li>
-     <li><a class="toc" href="#hunting#backgrounds">Backgrounds</a></li>
-     <li><a class="toc" href="#hunting#disciplines">Disciplines</a></li>
-     <li><a class="toc" href="#hunting#feeding-restrictions">Feeding Restrictions</a></li>
+     <li><a class="toc" href="?id=process">Process</a></li>
+     <li><a class="toc" href="?id=backgrounds">Backgrounds</a></li>
+     <li><a class="toc" href="?id=disciplines">Disciplines</a></li>
+     <li><a class="toc" href="?id=feeding-restrictions">Feeding Restrictions</a></li>
     </ul>
-    <li><a class="toc" href="#hunting#risks">Risks</a></li>
-    <li><a class="toc" href="#hunting#locations">Locations</a></li>
+    <li><a class="toc" href="?id=risks">Risks</a></li>
+    <li><a class="toc" href="?id=locations">Locations</a></li>
     <ul class="toc">
-     <li><a class="toc" href="#hunting#vitae-dealer">Vitae Dealer</a></li>
-     <li><a class="toc" href="#hunting#downtown">Downtown</a></li>
-     <li><a class="toc" href="#hunting#inner-city">Inner City</a></li>
-     <li><a class="toc" href="#hunting#hollywood">Hollywood</a></li>
-     <li><a class="toc" href="#hunting#outskirts">Outskirts</a></li>
+     <li><a class="toc" href="?id=vitae-dealer">Vitae Dealer</a></li>
+     <li><a class="toc" href="?id=downtown">Downtown</a></li>
+     <li><a class="toc" href="?id=inner-city">Inner City</a></li>
+     <li><a class="toc" href="?id=hollywood">Hollywood</a></li>
+     <li><a class="toc" href="?id=outskirts">Outskirts</a></li>
     </ul>
    </ul>
    </section>

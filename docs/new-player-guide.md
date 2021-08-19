@@ -13,48 +13,48 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#new-player-guide#welcome-to-vampire">Welcome to Vampire</a></li>
+   <li><a class="toc" href="?id=welcome-to-vampire">Welcome to Vampire</a></li>
    <ul class="toc">
-    <li><a class="toc" href="#new-player-guide#materials">Materials</a></li>
-    <li><a class="toc" href="#new-player-guide#content-warning">Mature Content Warning</a></li>
+    <li><a class="toc" href="?id=materials">Materials</a></li>
+    <li><a class="toc" href="?id=content-warning">Mature Content Warning</a></li>
    </ul>
-   <li><a class="toc" href="#new-player-guide#which-to-play">Which to Play: Human or Vampire?</a></li>
-   <li><a class="toc" href="#new-player-guide#getting-started">Getting Started</a></li>
+   <li><a class="toc" href="?id=which-to-play">Which to Play: Human or Vampire?</a></li>
+   <li><a class="toc" href="?id=getting-started">Getting Started</a></li>
    <ul class="toc">
-    <li><a class="toc" href="#new-player-guide#human-concept">Human Concept</a></li>
-    <li><a class="toc" href="#new-player-guide#archetype">Archetype</a></li>
+    <li><a class="toc" href="?id=human-concept">Human Concept</a></li>
+    <li><a class="toc" href="?id=archetype">Archetype</a></li>
    </ul>
-   <li><a class="toc" href="#new-player-guide#traits">Traits</a></li>
+   <li><a class="toc" href="?id=traits">Traits</a></li>
    <ul class="toc">
-    <li><a class="toc" href="#new-player-guide#attributes">Attributes</a></li>
-    <li><a class="toc" href="#new-player-guide#abilities">Abilities</a></li>
+    <li><a class="toc" href="?id=attributes">Attributes</a></li>
+    <li><a class="toc" href="?id=abilities">Abilities</a></li>
    </ul>
-   <li><a class="toc" href="#new-player-guide#clan">Clan</a></li>
+   <li><a class="toc" href="?id=clan">Clan</a></li>
    <ul class="toc">
-    <li><a class="toc" href="#new-player-guide#brujah">Brujah</a></li>
-    <li><a class="toc" href="#new-player-guide#toreador">Toreador</a></li>
-    <li><a class="toc" href="#new-player-guide#gangrel">Gangrel</a></li>
-    <li><a class="toc" href="#new-player-guide#nosferatu">Nosferatu</a></li>
-    <li><a class="toc" href="#new-player-guide#ventrue">Ventrue</a></li>
+    <li><a class="toc" href="?id=brujah">Brujah</a></li>
+    <li><a class="toc" href="?id=toreador">Toreador</a></li>
+    <li><a class="toc" href="?id=gangrel">Gangrel</a></li>
+    <li><a class="toc" href="?id=nosferatu">Nosferatu</a></li>
+    <li><a class="toc" href="?id=ventrue">Ventrue</a></li>
    </ul>
-   <li><a class="toc" href="#new-player-guide#sire">Sire</a></li>
-   <li><a class="toc" href="#new-player-guide#disciplines">Disciplines</a></li>
-   <li><a class="toc" href="#new-player-guide#backgrounds">Backgrounds</a></li>
-   <li><a class="toc" href="#new-player-guide#humanity">Humanity</a></li>
-   <li><a class="toc" href="#new-player-guide#blood-pool">Blood Pool</a></li>
-   <li><a class="toc" href="#new-player-guide#freebies">Freebies</a></li>
+   <li><a class="toc" href="?id=sire">Sire</a></li>
+   <li><a class="toc" href="?id=disciplines">Disciplines</a></li>
+   <li><a class="toc" href="?id=backgrounds">Backgrounds</a></li>
+   <li><a class="toc" href="?id=humanity">Humanity</a></li>
+   <li><a class="toc" href="?id=blood-pool">Blood Pool</a></li>
+   <li><a class="toc" href="?id=freebies">Freebies</a></li>
    <ul class="toc">
-    <li><a class="toc" href="#new-player-guide#what-can-i-buy">What can I buy with freebies?</a></li>
+    <li><a class="toc" href="?id=what-can-i-buy">What can I buy with freebies?</a></li>
     <ul class="toc">
-     <li><a class="toc" href="#new-player-guide#recommendations">Recommendations</a></li>
+     <li><a class="toc" href="?id=recommendations">Recommendations</a></li>
     </ul>
-    <li><a class="toc" href="#new-player-guide#merits-flaws">Merits and Flaws</a></li>
-    <li><a class="toc" href="#new-player-guide#freebies-human">What if I'm playing a human?</a></li>
+    <li><a class="toc" href="?id=merits-flaws">Merits and Flaws</a></li>
+    <li><a class="toc" href="?id=freebies-human">What if I'm playing a human?</a></li>
    </ul>
-   <li><a class="toc" href="#new-player-guide#experience">Experience</a></li>
-   <li><a class="toc" href="#new-player-guide#other-requirements">Other Requirements</a></li>
-    <li><a class="toc" href="#new-player-guide#submission">Submission</a></li>
-    <li><a class="toc" href="#new-player-guide#questions">Questions?</a></li>
+   <li><a class="toc" href="?id=experience">Experience</a></li>
+   <li><a class="toc" href="?id=other-requirements">Other Requirements</a></li>
+    <li><a class="toc" href="?id=submission">Submission</a></li>
+    <li><a class="toc" href="?id=questions">Questions?</a></li>
    </ul>
    </section>
  </div>
@@ -89,7 +89,7 @@ This is what you'll need to make your first character. To use the character shee
 
 <b>Important</b>
 
-For information on how to use the character, please see: <a href="#using-the-sheet">Using the Sheet</a>
+For information on how to use the character, please see: <a href="/using-the-sheet">Using the Sheet</a>
 
 </div>
 
@@ -172,7 +172,7 @@ Each character has two archetypes, their Nature and their Demeanor. This is wher
 If you have absolutely no idea where to begin, try to take this <a href="http://www.humanmetrics.com/cgi-win/jtypes2.asp">personality test</a> from their perspective. Don’t just make a perfect representation of the result, however. Instead use it as a base to modify and build from!
 
 
-You can find a full list of the archetypes you’re able to pick from <a href="#archetypes">here</a>.
+You can find a full list of the archetypes you’re able to pick from <a href="/archetypes">here</a>.
 
 </div>
 <div class="whiteBlueBreak" style="transform: rotate(180deg);"> </div>

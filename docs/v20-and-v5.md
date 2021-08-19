@@ -10,24 +10,24 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#v20-and-v5#mechanical">Mechanical Differences</a></li>
+   <li><a class="toc" href="?id=mechanical">Mechanical Differences</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#v20-and-v5#dice">Dice Systems</a></li>
+     <li><a class="toc" href="?id=dice">Dice Systems</a></li>
        <ul class="toc">
-       <li><a class="toc" href="#v20-and-v5#willpower">Willpower</a></li>
+       <li><a class="toc" href="?id=willpower">Willpower</a></li>
        </ul>
-     <li><a class="toc" href="#v20-and-v5#blood">The Blood</a></li>
+     <li><a class="toc" href="?id=blood">The Blood</a></li>
        <ul class="toc">
-       <li><a class="toc" href="#v20-and-v5#blood-pool">Blood Pool vs Hunger</a></li>
-       <li><a class="toc" href="#v20-and-v5#potency">Blood Potency</a></li>
-       <li><a class="toc" href="#v20-and-v5#resonance">Blood Resonance</a></li>
-       <li><a class="toc" href="#v20-and-v5#predator-types">Predator Types</a></li>
+       <li><a class="toc" href="?id=blood-pool">Blood Pool vs Hunger</a></li>
+       <li><a class="toc" href="?id=potency">Blood Potency</a></li>
+       <li><a class="toc" href="?id=resonance">Blood Resonance</a></li>
+       <li><a class="toc" href="?id=predator-types">Predator Types</a></li>
        </ul>
-     <li><a class="toc" href="#v20-and-v5#disciplines">Disciplines</a></li>
-     <li><a class="toc" href="#v20-and-v5#morality">Morality</a></li>
-     <li><a class="toc" href="#v20-and-v5#merits-flaws">Merits and Flaws</a></li>
+     <li><a class="toc" href="?id=disciplines">Disciplines</a></li>
+     <li><a class="toc" href="?id=morality">Morality</a></li>
+     <li><a class="toc" href="?id=merits-flaws">Merits and Flaws</a></li>
      </ul>
-   <li><a class="toc" href="#v20-and-v5#metaplot">Metaplot Differences</a></li>
+   <li><a class="toc" href="?id=metaplot">Metaplot Differences</a></li>
    </ul>
    </section>
  </div>
@@ -92,7 +92,7 @@ V5 condensed and nerfed a lot of the disciplines from V20. Some of the bigger di
 * Thin-blood Alchemy is a V5 exclusive mechanic and doesn't exist in V20
 
 <div class="secondHeader" id="morality">Morality</div>
-V20 uses a much more rigid morality system than V5. Instead of setting tenants for your chronicle, all characters are on Humanity by default. Degeneration happens when <a href="#system-reference#hierarchy-of-sins">a sin of equal or lesser value</a> to a character's current rating is committed. This normally takes the form of a roll (Conscience difficulty 8), though particularly horrific actions can warrant a dot being taken outright.
+V20 uses a much more rigid morality system than V5. Instead of setting tenants for your chronicle, all characters are on Humanity by default. Degeneration happens when <a href="/system-reference?id=hierarchy-of-sins">a sin of equal or lesser value</a> to a character's current rating is committed. This normally takes the form of a roll (Conscience difficulty 8), though particularly horrific actions can warrant a dot being taken outright.
 
 <div class="secondHeader" id="damage">Damage Types</div>
 There are three types of damage in V20: bashing, lethal, and aggravated.
@@ -112,7 +112,7 @@ Social encounters are roleplayed accordingly, with social rolls made should they
 Merits and Flaws have a point scale rather than one made of dots because they impact freebie points: points given at character creation to round out a sheet mechanically. Merits are bought with freebie points, and flaws can be taken to have more points, up to a maximum of 7 additional freebie points in flaws. Note that merits and flaws are entirely optional, but highly recommended.
 
 <div class="leftHeader" id="metaplot">Metaplot Differences</div>
-Because this is subjective to the chronicle being played, the information below is V5 in comparison to our (LAiA's) <a href="#setting">specific setting</a>.
+Because this is subjective to the chronicle being played, the information below is V5 in comparison to our (LAiA's) <a href="/setting">specific setting</a>.
 
 The goal was to advance our setting in a similar direction to V5, but in a different way. The important notes are as follows:
 

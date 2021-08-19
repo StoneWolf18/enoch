@@ -16,19 +16,19 @@
    <div id="expand">
      <section class ="toc">
      <ul class="toc" style="color: white;">
-     <li><a class="toc" href="#setting#foreward">Foreward</a></li>
-     <li><a class="toc" href="#setting#pre-chronicle">Pre-chronicle Events</a></li>
-     <li><a class="toc" href="#setting#chronicle-events">Chronicle Events</a></li>
+     <li><a class="toc" href="?id=foreward">Foreward</a></li>
+     <li><a class="toc" href="?id=pre-chronicle">Pre-chronicle Events</a></li>
+     <li><a class="toc" href="?id=chronicle-events">Chronicle Events</a></li>
        <section class ="toc">
        <ul class="toc" style="color: white;">
-       <li><a class="toc" href="#setting#vampire-murders">Vampire Murders</a></li>
-       <li><a class="toc" href="#setting#waa">Wildlife Assurance Agency</a></li>
-       <li><a class="toc" href="#setting#a-new-prince">A New Prince Reigns</a></li>
-       <li><a class="toc" href="#setting#epidemic">Epidemic</a></li>
-       <li><a class="toc" href="#setting#the-reversion">The Reversion</a></li>
+       <li><a class="toc" href="?id=vampire-murders">Vampire Murders</a></li>
+       <li><a class="toc" href="?id=waa">Wildlife Assurance Agency</a></li>
+       <li><a class="toc" href="?id=a-new-prince">A New Prince Reigns</a></li>
+       <li><a class="toc" href="?id=epidemic">Epidemic</a></li>
+       <li><a class="toc" href="?id=the-reversion">The Reversion</a></li>
        </ul>
-      <li><a class="toc" href="#setting#the-third-revolt">The Third Anarch Revolt</a></li>
-      <li><a class="toc" href="#setting#current-situation">Current Situation</a></li>
+      <li><a class="toc" href="?id=the-third-revolt">The Third Anarch Revolt</a></li>
+      <li><a class="toc" href="?id=current-situation">Current Situation</a></li>
      </ul>
      </section>
    </div>
@@ -114,7 +114,7 @@
   <div class="secondHeader" id="the-reversion">
   The Reversion
   </div>
-  All Kindred woke at 6 AM on October 23rd, 2019 as human beings. This lasted until November 1st, everyone finding it impossible to fall asleep that morning until daysleep took them. Details on how this impacted Kindred more specifically can be found on the event's page: <a href="#road-of-mercy.md">Road of Mercy</a>.
+  All Kindred woke at 6 AM on October 23rd, 2019 as human beings. This lasted until November 1st, everyone finding it impossible to fall asleep that morning until daysleep took them. Details on how this impacted Kindred more specifically can be found on the event's page: <a href="/road-of-mercy">Road of Mercy</a>.
 
   The sects responded differently to this, with the Sabbat viewing it as The Regression (regressing from their vampiric state to the lesser one of humanity), with the Anarchs and Camarilla viewing it as The Reversion (reverting to being human.) Many both left and joined their sects because of this, whether they saw it as proof of God's existence and wished to repent, or a sign of the end times.
 

@@ -15,66 +15,66 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#combat#initiative">Initiative</a></li>
-   <li><a class="toc" href="#combat#flow">Flow of Combat</a></li>
-   <li><a class="toc" href="#combat#turns">Anatomy of a Turn</a></li>
-   <li><a class="toc" href="#combat#actions">Types of Actions</a></li>
+   <li><a class="toc" href="?id=initiative">Initiative</a></li>
+   <li><a class="toc" href="?id=flow">Flow of Combat</a></li>
+   <li><a class="toc" href="?id=turns">Anatomy of a Turn</a></li>
+   <li><a class="toc" href="?id=actions">Types of Actions</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#combat#free-actions">Free Actions</a></li>
+     <li><a class="toc" href="?id=free-actions">Free Actions</a></li>
        <ul class="toc">
-       <li><a class="toc" href="#combat#blood-points">Spending Blood Points</a></li>
-       <li><a class="toc" href="#combat#standing-up">Standing Up</a></li>
-       <li><a class="toc" href="#combat#moving>Moving</a></li>
-       <li><a class="toc" href="#combat#readying-a-weapon>Readying a Weapon</a></li>
+       <li><a class="toc" href="?id=blood-points">Spending Blood Points</a></li>
+       <li><a class="toc" href="?id=standing-up">Standing Up</a></li>
+       <li><a class="toc" href="?id=moving>Moving</a></li>
+       <li><a class="toc" href="?id=readying-a-weapon>Readying a Weapon</a></li>
        </ul>
-     <li><a class="toc" href="#combat#discipline">Using a Discipline</a></li>
-     <li><a class="toc" href="#combat#action-combat">Combat Maneuvers</a></li>
+     <li><a class="toc" href="?id=discipline">Using a Discipline</a></li>
+     <li><a class="toc" href="?id=action-combat">Combat Maneuvers</a></li>
      </ul>
-   <li><a class="toc" href="#combat#damage-types">Damage</a></li>
+   <li><a class="toc" href="?id=damage-types">Damage</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#combat#bashing">Bashing</a></li>
-     <li><a class="toc" href="#combat#lethal">Lethal</a></li>
-     <li><a class="toc" href="#combat#aggravated">Aggravated</a></li>
+     <li><a class="toc" href="?id=bashing">Bashing</a></li>
+     <li><a class="toc" href="?id=lethal">Lethal</a></li>
+     <li><a class="toc" href="?id=aggravated">Aggravated</a></li>
      </ul>
-   <li><a class="toc" href="#combat#equipment">Equipment</a></li>
+   <li><a class="toc" href="?id=equipment">Equipment</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#combat#armor">Armor</a></li>
-     <li><a class="toc" href="#combat#weapons">Weapons</a></li>
+     <li><a class="toc" href="?id=armor">Armor</a></li>
+     <li><a class="toc" href="?id=weapons">Weapons</a></li>
        <ul class="toc">
-       <li><a class="toc" href="#combat#melee-weapons">Melee Weapon Chart</a></li>
-       <li><a class="toc" href="#combat#ranged-weapons">Ranged Weapons Chart</a></li>
-       </ul>
-     </ul>
-   <li><a class="toc" href="#combat#combat-maneuvers">Combat Maneuvers</a></li>
-     <ul class="toc">
-     <li><a class="toc" href="#combat#targeting">Targeting</a></li>
-     <li><a class="toc" href="#combat#maneuver-complications">Maneuver Complications</a></li>
-     <li><a class="toc" href="#combat#close-combat">Close Combat Maneuvers</a></li>
-       <ul class="toc">
-       <li><a class="toc" href="#combat#close-combat-table">Close Combat Maneuvers Table</a></li>
-       <li><a class="toc" href="#combat#bite">Bite</a></li>
-       <li><a class="toc" href="#combat#claw">Claw</a></li>
-       <li><a class="toc" href="#combat#clinch">Clinch</a></li>
-       <li><a class="toc" href="#combat#disarm">Disarm</a></li>
-       <li><a class="toc" href="#combat#hold">Hold</a></li>
-       <li><a class="toc" href="#combat#kick">Kick</a></li>
-       <li><a class="toc" href="#combat#staking">Stake</a></li>
-       <li><a class="toc" href="#combat#strike">Strike</a></li>
-       <li><a class="toc" href="#combat#Sweep">Sweep</a></li>
-       <li><a class="toc" href="#combat#Tackle">Tackle</a></li>
+       <li><a class="toc" href="?id=melee-weapons">Melee Weapon Chart</a></li>
+       <li><a class="toc" href="?id=ranged-weapons">Ranged Weapons Chart</a></li>
        </ul>
      </ul>
-     <li><a class="toc" href="#combat#ranged-combat">Ranged Combat Maneuvers</a></li>
+   <li><a class="toc" href="?id=?id=-maneuvers">Combat Maneuvers</a></li>
+     <ul class="toc">
+     <li><a class="toc" href="?id=targeting">Targeting</a></li>
+     <li><a class="toc" href="?id=maneuver-complications">Maneuver Complications</a></li>
+     <li><a class="toc" href="?id=close-combat">Close Combat Maneuvers</a></li>
        <ul class="toc">
-       <li><a class="toc" href="#combat#close-combat-table">Ranged Combat Maneuvers Table</a></li>
-       <li><a class="toc" href="#combat#aiming">Aiming</a></li>
-       <li><a class="toc" href="#combat#automatic-fire">Automatic Fire</a></li>
-       <li><a class="toc" href="#combat#cover">Cover</a></li>
-       <li><a class="toc" href="#combat#multiple-shots">Multiple Shots</a></li>
-       <li><a class="toc" href="#combat#reloading">Reloading</a></li>
-       <li><a class="toc" href="#combat#strafing">Strafing</a></li>
-       <li><a class="toc" href="#combat#three-round-burst">Three-Round Burst</a></li>
-       <li><a class="toc" href="#combat#two-weapons">Two Weapons</a></li>
+       <li><a class="toc" href="?id=close-combat-table">Close Combat Maneuvers Table</a></li>
+       <li><a class="toc" href="?id=bite">Bite</a></li>
+       <li><a class="toc" href="?id=claw">Claw</a></li>
+       <li><a class="toc" href="?id=clinch">Clinch</a></li>
+       <li><a class="toc" href="?id=disarm">Disarm</a></li>
+       <li><a class="toc" href="?id=hold">Hold</a></li>
+       <li><a class="toc" href="?id=kick">Kick</a></li>
+       <li><a class="toc" href="?id=staking">Stake</a></li>
+       <li><a class="toc" href="?id=strike">Strike</a></li>
+       <li><a class="toc" href="?id=Sweep">Sweep</a></li>
+       <li><a class="toc" href="?id=Tackle">Tackle</a></li>
+       </ul>
+     </ul>
+     <li><a class="toc" href="?id=ranged-combat">Ranged Combat Maneuvers</a></li>
+       <ul class="toc">
+       <li><a class="toc" href="?id=close-combat-table">Ranged Combat Maneuvers Table</a></li>
+       <li><a class="toc" href="?id=aiming">Aiming</a></li>
+       <li><a class="toc" href="?id=automatic-fire">Automatic Fire</a></li>
+       <li><a class="toc" href="?id=cover">Cover</a></li>
+       <li><a class="toc" href="?id=multiple-shots">Multiple Shots</a></li>
+       <li><a class="toc" href="?id=reloading">Reloading</a></li>
+       <li><a class="toc" href="?id=strafing">Strafing</a></li>
+       <li><a class="toc" href="?id=three-round-burst">Three-Round Burst</a></li>
+       <li><a class="toc" href="?id=two-weapons">Two Weapons</a></li>
        </ul>
      </ul>
    </ul>
@@ -102,7 +102,7 @@ As such, a <b>turn</b> is what rounds are divided into. When it's your time to a
 
 An <b>action</b> is anything that requires a dice roll, such as an attack and many disciplines. The <b>resolution</b> is resolving the effects of your action, if there were any.
 
-You are able to split your dice pool to accomplish multiple actions during a round. See the <a href="#system-reference#multiple-actions">system reference page</a> for more information on how that works.
+You are able to split your dice pool to accomplish multiple actions during a round. See the <a href="/system-reference?id=multiple-actions">system reference page</a> for more information on how that works.
 
 <div class="yourAttentionPlease">
 
@@ -124,7 +124,7 @@ Generally, turns will go as follows:
   * Dexterity + Firearms for guns and ballistic weapons
 * Resolve the action
   * If an attack hit, the attacker rolls damage equal to strength + potence + weapon damage + any additional successes past the first on the attack roll. A minimum of one damage is always dealt, even if the roll is failed.
-  * The target rolls to Stamina + Fortitude to soak the damage. Mortals can only soak bashing damage, Vampires can soak bashing (after halving the initial value) and lethal. Aggravated can only be soaked with dots of <a href="#disciplines/fortitude">Fortitude</a>.
+  * The target rolls to Stamina + Fortitude to soak the damage. Mortals can only soak bashing damage, Vampires can soak bashing (after halving the initial value) and lethal. Aggravated can only be soaked with dots of <a href="/disciplines/fortitude">Fortitude</a>.
 
 <div class="leftHeader" id="actions">Types of Actions</div>
 
@@ -140,11 +140,11 @@ This includes healing, buffing attributes, and some disciplines.
 
 Healing while taking another action requires a successful Stamina + Survival roll versus difficulty 8. Failure means any blood spent is lost without effect, while botching will result in both that blood loss and receiving an additional health level of damage.
 
-If an ability requires spending more blood to active than you can per turn (limited by your <a href="#backgrounds#generation">generation</a>), you would still need to wait until the required amount has been spent. This might require waiting 2-3 rounds, depending on the ability in question.
+If an ability requires spending more blood to active than you can per turn (limited by your <a href="/backgrounds?id=generation">generation</a>), you would still need to wait until the required amount has been spent. This might require waiting 2-3 rounds, depending on the ability in question.
 
 <div class="thirdHeader" id="standing-up">Standing Up</div>
 
-Anyone knocked prone can devote their turn to standing without a roll. Those wanting to stand while doing something else will have to <a href="#system-reference#multiple-actions">take multiple actions</a>.
+Anyone knocked prone can devote their turn to standing without a roll. Those wanting to stand while doing something else will have to <a href="/system-reference?id=multiple-actions">take multiple actions</a>.
 
 <div class="thirdHeader" id="moving">Moving</div>
 
@@ -160,7 +160,7 @@ Any discipline that requires a dice roll is considered an action, as are any tha
 
 <div class="secondHeader" id="action-combat">Combat Maneuvers</div>
 
-Combat maneuvers are what make up the bulk of combat in Vampire. These include both melee and ranged attacks, and defensive actions such as blocking or dodging. See <a href="#combat#combat-maneuvers">the list of combat maneuvers</a> listed below for specifics.
+Combat maneuvers are what make up the bulk of combat in Vampire. These include both melee and ranged attacks, and defensive actions such as blocking or dodging. See <a href="?id=?id=-maneuvers">the list of combat maneuvers</a> listed below for specifics.
 
 <div class="leftHeader" id="damage-types">Damage</div>
 
@@ -170,7 +170,7 @@ A higher level of damage are always applied at the top of the track, shifting th
 
 Sustaining damage that overflows the health track causes the lowest form of damage currently taken to upgrade in severity. So, someone with 7 bashing [/][/][/][/][/][/][/] who sustains another level of bashing (/) would record it as: [X][/][/][/][/][/][/].
 
-Wounded characters will have a dice penalty to their rolls depending on the amount of damage sustained. See the <a href="#system-reference#health-chart">system reference page</a> for the table.
+Wounded characters will have a dice penalty to their rolls depending on the amount of damage sustained. See the <a href="/system-reference?id=health-chart">system reference page</a> for the table.
 
 For easier tracking, all character profiles managed by Caine will automatically update their health track accordingly through `v.damage heal` and `v.damage take`.
 
@@ -204,7 +204,7 @@ Aggravated damage originates from supernatural sources. A vampire's fangs, a lup
 
 Only supernatural creatures can sustain aggravated damage. Mortals suffering from such things will always apply the damage as lethal.
 
-Vampires can only soak aggravated damage with the use of <a href="#disciplines/fortitude">Fortitude</a>.
+Vampires can only soak aggravated damage with the use of <a href="/disciplines/fortitude">Fortitude</a>.
 
 A full health track of aggravated will cause Final Death, the vampire's corpse quickly crumbling to ash.
 
@@ -494,7 +494,7 @@ Combat doesn't come without some hindrances. Below are some of the most common:
 * <b>Dazed:</b> If (after soak) the total number of successes in a damage roll is greater than a mortal's stamina, or a vampire's stamina + 2, the target is dazed and must spend their next turn shaking off the effects.
 * <b>Immobilization:</b> all attacks against a struggling but immobilized target are made with +2 dice.
 * <b>Knockdown:</b> When knocked down, the target can roll Dexterity + Athletics. On a success, they manage to get right back up, though failure will require their next turn being spent getting back to their feet. Botches will incur additional situational penalties.
-* <b>Stake Through Heart:</b> <a href="#combat#staking">Staking</a> a vampire is difficult, though if managed will render them completely paralyzed. Mental disciplines can still be used, though they are unable to move or spend blood. The 'stake' used must be made of wood, otherwise you'll just piss them off.
+* <b>Stake Through Heart:</b> <a href="?id=staking">Staking</a> a vampire is difficult, though if managed will render them completely paralyzed. Mental disciplines can still be used, though they are unable to move or spend blood. The 'stake' used must be made of wood, otherwise you'll just piss them off.
 
 <div class="secondHeader" id="close-combat">Close Combat Maneuvers</div>
 
@@ -684,7 +684,7 @@ The attacker lashes out with a fist. The base attack is a standard action and in
 * <b>Damage:</b> Strength
 
 <div class="thirdHeader" id="sweep">Sweep</div>
-The attacker uses her own legs to knock the legs out from under her opponent. The target takes Strength damage and must roll Dexterity + Athletics (difficulty 8) or suffer a <a href="#combat#maneuver-complications">knockdown</a>. The attacker can also use a staff, chain, or similar implement to perform a sweep. The effect is the same, although the target takes damage per the weapon type.
+The attacker uses her own legs to knock the legs out from under her opponent. The target takes Strength damage and must roll Dexterity + Athletics (difficulty 8) or suffer a <a href="?id=maneuver-complications">knockdown</a>. The attacker can also use a staff, chain, or similar implement to perform a sweep. The effect is the same, although the target takes damage per the weapon type.
 
 * <b>Traits:</b> Dexterity + Brawl/Melee
 * <b>Difficulty:</b> +1
@@ -692,7 +692,7 @@ The attacker uses her own legs to knock the legs out from under her opponent. Th
 * <b>Damage:</b> Strength; knockdown
 
 <div class="thirdHeader" id="tackle">Tackle</div>
-The attacker rushes her opponent, tackling him to the ground. The attack roll is at +1 difficulty, and the maneuver inflicts Strength +1 damage. Additionally, both combatants must roll Dexterity + Athletics (difficulty 7) or suffer a <a href="#combat#maneuver-complications">knockdown</a>. Even if the target’s Athletics roll succeeds, he is unbalanced, suffering +1 difficulty to his actions for the next turn.
+The attacker rushes her opponent, tackling him to the ground. The attack roll is at +1 difficulty, and the maneuver inflicts Strength +1 damage. Additionally, both combatants must roll Dexterity + Athletics (difficulty 7) or suffer a <a href="?id=maneuver-complications">knockdown</a>. Even if the target’s Athletics roll succeeds, he is unbalanced, suffering +1 difficulty to his actions for the next turn.
 
 * <b>Traits:</b> Strength + Brawl
 * <b>Difficulty:</b> +1
@@ -817,7 +817,7 @@ Dodge rolls against strafing are at +1 difficulty.
 * <b>Damage:</b> Special
 
 <div class="thirdHeader" id="three-round-burst">Three-Round Burst</div>
-The attacker gains two additional dice on a single attack roll, and expends three shots from the weapon’s clip. Only certain weapons may perform this maneuver; see the <a href="#combat#ranged-weapons-chart">Ranged Weapons Chart</a> for particulars. Attacks are made at +1 difficulty due to recoil. As with automatic fire, the damage dice pool is based on one bullet from the weapon in question.
+The attacker gains two additional dice on a single attack roll, and expends three shots from the weapon’s clip. Only certain weapons may perform this maneuver; see the <a href="?id=ranged-weapons-chart">Ranged Weapons Chart</a> for particulars. Attacks are made at +1 difficulty due to recoil. As with automatic fire, the damage dice pool is based on one bullet from the weapon in question.
 
 Dodge rolls against strafing are at +1 difficulty.
 

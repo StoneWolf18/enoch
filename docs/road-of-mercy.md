@@ -1,4 +1,4 @@
-<head>
+?id=<head>
   <title>LAiA - Road of Mercy</title>
   <meta name="description" content="LA in Anarchy's Server, Roleplay, and House Rules.">
 </head>
@@ -14,10 +14,10 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#road-of-mercy#duration-details">Duration Details</a></li>
-   <li><a class="toc" href="#road-of-mercy#immediate-effects">Immediate Effects</a></li>
-   <li><a class="toc" href="#road-of-mercy#main-consequence">Main Consequence</a></li>
-   <li><a class="toc" href="#road-of-mercy#what-now">What now?</a></li>
+   <li><a class="toc" href="?id=duration-details">Duration Details</a></li>
+   <li><a class="toc" href="?id=immediate-effects">Immediate Effects</a></li>
+   <li><a class="toc" href="?id=main-consequence">Main Consequence</a></li>
+   <li><a class="toc" href="?id=what-now">What now?</a></li>
    </ul>
    </section>
  </div>

@@ -15,45 +15,45 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#abilities#specialties">Specialties</a></li>
-   <li><a class="toc" href="#abilities#talents">Talents</a></li>
+   <li><a class="toc" href="?id=specialties">Specialties</a></li>
+   <li><a class="toc" href="?id=talents">Talents</a></li>
    <ul class="toc">
-     <li><a class="toc" href="#abilities#alertness">Alertness</a></li>
-     <li><a class="toc" href="#abilities#athletics">Athletics</a></li>
-     <li><a class="toc" href="#abilities#awareness">Awareness</a></li>
-     <li><a class="toc" href="#abilities#brawl">Brawl</a></li>
-     <li><a class="toc" href="#abilities#empathy">Empathy</a></li>
-     <li><a class="toc" href="#abilities#expression">Expression</a></li>
-     <li><a class="toc" href="#abilities#intimidation">Intimidation</a></li>
-     <li><a class="toc" href="#abilities#leadership">Leadership</a></li>
-     <li><a class="toc" href="#abilities#streetwise">Streetwise</a></li>
-     <li><a class="toc" href="#abilities#subterfuge">Subterfuge</a></li>
+     <li><a class="toc" href="?id=alertness">Alertness</a></li>
+     <li><a class="toc" href="?id=athletics">Athletics</a></li>
+     <li><a class="toc" href="?id=awareness">Awareness</a></li>
+     <li><a class="toc" href="?id=brawl">Brawl</a></li>
+     <li><a class="toc" href="?id=empathy">Empathy</a></li>
+     <li><a class="toc" href="?id=expression">Expression</a></li>
+     <li><a class="toc" href="?id=intimidation">Intimidation</a></li>
+     <li><a class="toc" href="?id=leadership">Leadership</a></li>
+     <li><a class="toc" href="?id=streetwise">Streetwise</a></li>
+     <li><a class="toc" href="?id=subterfuge">Subterfuge</a></li>
     </ul>
-   <li><a class="toc" href="#abilities#skills">Skills</a></li>
+   <li><a class="toc" href="?id=skills">Skills</a></li>
     <ul class="toc">
-     <li><a class="toc" href="#abilities#animal-ken">Animal Ken</a></li>
-     <li><a class="toc" href="#abilities#crafts">Crafts</a></li>
-     <li><a class="toc" href="#abilities#drive">Drive</a></li>
-     <li><a class="toc" href="#abilities#etiquette">Etiquette</a></li>
-     <li><a class="toc" href="#abilities#firearms">Firearms</a></li>
-     <li><a class="toc" href="#abilities#larceny">Larceny</a></li>
-     <li><a class="toc" href="#abilities#melee">Melee</a></li>
-     <li><a class="toc" href="#abilities#performance">Performance</a></li>
-     <li><a class="toc" href="#abilities#stealth">Stealth</a></li>
-     <li><a class="toc" href="#abilities#survival">Survival</a></li>
+     <li><a class="toc" href="?id=animal-ken">Animal Ken</a></li>
+     <li><a class="toc" href="?id=crafts">Crafts</a></li>
+     <li><a class="toc" href="?id=drive">Drive</a></li>
+     <li><a class="toc" href="?id=etiquette">Etiquette</a></li>
+     <li><a class="toc" href="?id=firearms">Firearms</a></li>
+     <li><a class="toc" href="?id=larceny">Larceny</a></li>
+     <li><a class="toc" href="?id=melee">Melee</a></li>
+     <li><a class="toc" href="?id=performance">Performance</a></li>
+     <li><a class="toc" href="?id=stealth">Stealth</a></li>
+     <li><a class="toc" href="?id=survival">Survival</a></li>
    </ul>
-   <li><a class="toc" href="#abilities#knowledges">Knowledges</a></li>
+   <li><a class="toc" href="?id=knowledges">Knowledges</a></li>
    <ul class="toc">
-     <li><a class="toc" href="#abilities#academics">Academics</a></li>
-     <li><a class="toc" href="#abilities#computer">Computer</a></li>
-     <li><a class="toc" href="#abilities#finance">Finance</a></li>
-     <li><a class="toc" href="#abilities#investigation">Investigation</a></li>
-     <li><a class="toc" href="#abilities#law">Law</a></li>
-     <li><a class="toc" href="#abilities#medicine">Medicine</a></li>
-     <li><a class="toc" href="#abilities#occult">Occult</a></li>
-     <li><a class="toc" href="#abilities#politics">Politics</a></li>
-     <li><a class="toc" href="#abilities#science">Science</a></li>
-     <li><a class="toc" href="#abilities#technology">Technology</a></li>
+     <li><a class="toc" href="?id=academics">Academics</a></li>
+     <li><a class="toc" href="?id=computer">Computer</a></li>
+     <li><a class="toc" href="?id=finance">Finance</a></li>
+     <li><a class="toc" href="?id=investigation">Investigation</a></li>
+     <li><a class="toc" href="?id=law">Law</a></li>
+     <li><a class="toc" href="?id=medicine">Medicine</a></li>
+     <li><a class="toc" href="?id=occult">Occult</a></li>
+     <li><a class="toc" href="?id=politics">Politics</a></li>
+     <li><a class="toc" href="?id=science">Science</a></li>
+     <li><a class="toc" href="?id=technology">Technology</a></li>
    </ul>
    </ul>
    </section>

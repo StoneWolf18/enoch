@@ -14,9 +14,9 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#rules#server-rules">Server Rules</a></li>
-   <li><a class="toc" href="#rules#roleplay-rules">Roleplay Rules</a></li>
-   <li><a class="toc" href="#rules#house-rules">House Rules</a></li>
+   <li><a class="toc" href="?id=server-rules">Server Rules</a></li>
+   <li><a class="toc" href="?id=roleplay-rules">Roleplay Rules</a></li>
+   <li><a class="toc" href="?id=house-rules">House Rules</a></li>
    </ul>
    </section>
  </div>
@@ -122,7 +122,7 @@
       <div class="thirdHeader">
       Age
       </div>
-      For each year spent as a vampire, a point of experience is awarded up until 100 years. A character is able to be a maximum of 500 years old with 100 bonus experience, although this extreme is not recommended. New players have restrictions found in the <a href='#new-player-guide'>New Player Walkthrough</a>.
+      For each year spent as a vampire, a point of experience is awarded up until 100 years. A character is able to be a maximum of 500 years old with 100 bonus experience, although this extreme is not recommended. New players have restrictions found in the <a href='/new-player-guide'>New Player Walkthrough</a>.
     </div>
     <div class="gridChild">
       <div class="thirdHeader">
@@ -173,7 +173,7 @@
       <div class="thirdHeader">
       Arms of the Abyss
       </div>
-      Tentacles now have their own statistics, rather than relying on the user's obtenebration rating, and deal bashing + 1 instead of lethal when constricting. Specifics can be read about <a href="#disciplines/obtenebration#•••">here</a>.
+      Tentacles now have their own statistics, rather than relying on the user's obtenebration rating, and deal bashing + 1 instead of lethal when constricting. Specifics can be read about <a href="/disciplines/obtenebration?id=•••">here</a>.
     </div>
     <div class="gridChild">
       <div class="thirdHeader">

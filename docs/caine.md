@@ -11,73 +11,73 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#caine#notes">Important Notes</a></li>
-   <li><a class="toc" href="#caine#utility">Utility</a></li>
+   <li><a class="toc" href="?id=notes">Important Notes</a></li>
+   <li><a class="toc" href="?id=utility">Utility</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#embrace">Embrace</a></li>
+     <li><a class="toc" href="?id=embrace">Embrace</a></li>
      </ul>
-   <li><a class="toc" href="#caine#profiles">Profiles</a></li>
+   <li><a class="toc" href="?id=profiles">Profiles</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#profile-create">Create</a></li>
-     <li><a class="toc" href="#caine#profile-show">Show</a></li>
-     <li><a class="toc" href="#caine#profile-delete">Delete</a></li>
-     <li><a class="toc" href="#caine#profile-edit">Edit</a></li>
+     <li><a class="toc" href="?id=profile-create">Create</a></li>
+     <li><a class="toc" href="?id=profile-show">Show</a></li>
+     <li><a class="toc" href="?id=profile-delete">Delete</a></li>
+     <li><a class="toc" href="?id=profile-edit">Edit</a></li>
      </ul>
-   <li><a class="toc" href="#caine#profile-type">Profile Type Change</a></li>
+   <li><a class="toc" href="?id=profile-type">Profile Type Change</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#profile-ghoul">Ghoul</a></li>
-     <li><a class="toc" href="#caine#profile-embrace">Embrace</a></li>
+     <li><a class="toc" href="?id=profile-ghoul">Ghoul</a></li>
+     <li><a class="toc" href="?id=profile-embrace">Embrace</a></li>
      </ul>
-   <li><a class="toc" href="#caine#resource-gain">Resource Gain</a></li>
+   <li><a class="toc" href="?id=resource-gain">Resource Gain</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#hunt">Hunt</a></li>
-     <li><a class="toc" href="#caine#earn">Earn</a></li>
-     <li><a class="toc" href="#caine#rest">Rest</a></li>
+     <li><a class="toc" href="?id=hunt">Hunt</a></li>
+     <li><a class="toc" href="?id=earn">Earn</a></li>
+     <li><a class="toc" href="?id=rest">Rest</a></li>
      </ul>
-   <li><a class="toc" href="#caine#resource-spend">Resource Spend</a></li>
+   <li><a class="toc" href="?id=resource-spend">Resource Spend</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#bp">Blood Points</a></li>
-     <li><a class="toc" href="#caine#wp">Willpower</a></li>
-     <li><a class="toc" href="#caine#xp">Experience</a></li>
+     <li><a class="toc" href="?id=bp">Blood Points</a></li>
+     <li><a class="toc" href="?id=wp">Willpower</a></li>
+     <li><a class="toc" href="?id=xp">Experience</a></li>
      </ul>
-   <li><a class="toc" href="#caine#damage-tracking">Damage Tracking</a></li>
+   <li><a class="toc" href="?id=damage-tracking">Damage Tracking</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#damage-take">Take</a></li>
-     <li><a class="toc" href="#caine#damage-heal">Heal</a></li>
+     <li><a class="toc" href="?id=damage-take">Take</a></li>
+     <li><a class="toc" href="?id=damage-heal">Heal</a></li>
      </ul>
-   <li><a class="toc" href="#caine#dice">Dice</a></li>
+   <li><a class="toc" href="?id=dice">Dice</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#roll">Roll</a></li>
+     <li><a class="toc" href="?id=roll">Roll</a></li>
        <ul class="toc">
-       <li><a class="toc" href="#caine#dice-conditions">Conditions</a></li>
+       <li><a class="toc" href="?id=dice-conditions">Conditions</a></li>
        </ul>
-     <li><a class="toc" href="#caine#init">Init</a></li>
-     <li><a class="toc" href="#caine#custom">Custom Roll</a></li>
+     <li><a class="toc" href="?id=init">Init</a></li>
+     <li><a class="toc" href="?id=custom">Custom Roll</a></li>
        <ul class="toc">
-       <li><a class="toc" href="#caine#group-init">Group Initiative</a></li>
+       <li><a class="toc" href="?id=group-init">Group Initiative</a></li>
        </ul>
-     <li><a class="toc" href="#caine#repeat">Repeat</a></li>
+     <li><a class="toc" href="?id=repeat">Repeat</a></li>
      </ul>
-   <li><a class="toc" href="#caine#scene-management">Scene Management</a></li>
+   <li><a class="toc" href="?id=scene-management">Scene Management</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#scene-start">Start</a></li>
-     <li><a class="toc" href="#caine#scene-end">End</a></li>
+     <li><a class="toc" href="?id=scene-start">Start</a></li>
+     <li><a class="toc" href="?id=scene-end">End</a></li>
      </ul>
-   <li><a class="toc" href="#caine#mod-mail">Mod Mail</a></li>
+   <li><a class="toc" href="?id=mod-mail">Mod Mail</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#mail-update">Update</a></li>
-     <li><a class="toc" href="#caine#mail-request">Scene Request</a></li>
+     <li><a class="toc" href="?id=mail-update">Update</a></li>
+     <li><a class="toc" href="?id=mail-request">Scene Request</a></li>
      </ul>
-   <li><a class="toc" href="#caine#search">Search</a></li>
+   <li><a class="toc" href="?id=search">Search</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#merits-flaws">Merits/Flaws</a></li>
+     <li><a class="toc" href="?id=merits-flaws">Merits/Flaws</a></li>
      </ul>
    </ul>
-   <li><a class="toc" href="#caine#misc">Miscellaneous</a></li>
+   <li><a class="toc" href="?id=misc">Miscellaneous</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#caine#sheet-submission">Sheet Submission</a></li>
-     <li><a class="toc" href="#caine#weekly-xp">Weekly Experience</a></li>
-     <li><a class="toc" href="#caine#reactions">Emoji Reactions</a></li>
+     <li><a class="toc" href="?id=sheet-submission">Sheet Submission</a></li>
+     <li><a class="toc" href="?id=weekly-xp">Weekly Experience</a></li>
+     <li><a class="toc" href="?id=reactions">Emoji Reactions</a></li>
      </ul>
    </ul>
    </section>
@@ -204,7 +204,7 @@ Ghoul (`v.p ghoul`) makes a human profile a ghoul, tracking a small blood pool b
 * <b>Alternate Name:</b> `v.p ghoul`
 * <b>Parameters</b> Name
 
-The <em>subcommand</em> Embrace (not the <a href="#caine#embrace">utility command</a>) (`v.p embrace`) makes a human or ghoul profile a vampire, tracking a full blood pool based on their generation.
+The <em>subcommand</em> Embrace (not the <a href="?id=#embrace">utility command</a>) (`v.p embrace`) makes a human or ghoul profile a vampire, tracking a full blood pool based on their generation.
 
 <b>Name</b> is the name of the character you're wanting to embrace.
 
@@ -303,7 +303,7 @@ XP (`v.spend wp`) spends the Amount of the named profile's experience, recording
 
 <b>Important</b>
 
-All experience purchases must be approved before hand before they're to be taken. See <a href="#caine#update-request">the request command</a> for more.
+All experience purchases must be approved before hand before they're to be taken. See <a href="?id=#update-request">the request command</a> for more.
 
 </div>
 
@@ -498,7 +498,7 @@ Additionally, <b>both</b> of the commands listed below are subcommands of mail. 
 * <b>Alternate Name:</b> None
 * <b>Parameters</b> Request
 
-Update (`v.mail update`) sends the given experience expenditure Request to the Storytellers for approval. If approved, you'll then be able to spend experience as seen under <a href="#caine#xp">`v.spend xp`</a>.
+Update (`v.mail update`) sends the given experience expenditure Request to the Storytellers for approval. If approved, you'll then be able to spend experience as seen under <a href="?id=#xp">`v.spend xp`</a>.
 
 <div class="secondHeader" id="mail-request">Scene Request</div>
 

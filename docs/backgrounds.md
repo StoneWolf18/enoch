@@ -15,20 +15,20 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#backgrounds#allies">Allies</a></li>
-   <li><a class="toc" href="#backgrounds#alternate-identity">Alternate Identity</a></li>
-   <li><a class="toc" href="#backgrounds#contacts">Contacts</a></li>
-   <li><a class="toc" href="#backgrounds#domain">Domain</a></li>
-   <li><a class="toc" href="#backgrounds#fame">Fame</a></li>
-   <li><a class="toc" href="#backgrounds#generation">Generation</a></li>
-   <li><a class="toc" href="#backgrounds#Herd">Herd</a></li>
-   <li><a class="toc" href="#backgrounds#influence">Influence</a></li>
-   <li><a class="toc" href="#backgrounds#mentor">Mentor</a></li>
-   <li><a class="toc" href="#backgrounds#resources">Resources</a></li>
-   <li><a class="toc" href="#backgrounds#retainers">Retainers</a></li>
-   <li><a class="toc" href="#backgrounds#status">Status</a></li>
-   <li><a class="toc" href="#backgrounds#status-anarch">Anarch Status</a></li>
-   <li><a class="toc" href="#backgrounds#territory">Territory</a></li>
+   <li><a class="toc" href="?id=allies">Allies</a></li>
+   <li><a class="toc" href="?id=alternate-identity">Alternate Identity</a></li>
+   <li><a class="toc" href="?id=contacts">Contacts</a></li>
+   <li><a class="toc" href="?id=domain">Domain</a></li>
+   <li><a class="toc" href="?id=fame">Fame</a></li>
+   <li><a class="toc" href="?id=generation">Generation</a></li>
+   <li><a class="toc" href="?id=Herd">Herd</a></li>
+   <li><a class="toc" href="?id=influence">Influence</a></li>
+   <li><a class="toc" href="?id=mentor">Mentor</a></li>
+   <li><a class="toc" href="?id=resources">Resources</a></li>
+   <li><a class="toc" href="?id=retainers">Retainers</a></li>
+   <li><a class="toc" href="?id=status">Status</a></li>
+   <li><a class="toc" href="?id=status-anarch">Anarch Status</a></li>
+   <li><a class="toc" href="?id=territory">Territory</a></li>
    </ul>
    </section>
  </div>
@@ -186,7 +186,7 @@ You must maintain some control over your retainers, whether through a salary, th
 
 Retainers may be useful, but they should never be flawless. A physically powerful ghoul might be rebellious, inconveniently dull-witted, or lacking in practical skills. A loyal manservant might be physically weak or possess no real personal initiative or creativity. This Background isn’t an excuse to craft an unstoppable bodyguard or pet assassin — it’s a method to bring more fully-developed characters into the chronicle, as well as to reflect the followers for which the Kindred are notorious. Generally, retainers are more like Renfield than Anita Blake. (If the player and Storyteller agree, a player may create a more competent single Retainer by combining more points in this Background, putting more eggs in one basket, as the saying goes.)
 
-<em>Further details on personal NPCs can be found <a href="#npc-guidelines">here</a>.</em>
+<em>Further details on personal NPCs can be found <a href="/npc-guidelines">here</a>.</em>
 
 <i class="fas fa-circle fa-sm"></i> One retainer <br>
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Two retainers <br>
@@ -202,7 +202,7 @@ High status within the Camarilla does not transfer to Sabbat society (and will m
 Note that Caitiff characters may not purchase Status during character creation. Caitiff are the lowest of the low, and any respect they achieve must be earned during
 the course of the chronicle.
 
-<em>Further details on personal NPCs can be found <a href="#npc-guidelines">here</a>.</em>
+<em>Further details on personal NPCs can be found <a href="/npc-guidelines">here</a>.</em>
 
 <i class="fas fa-circle fa-sm"></i> Known: a neonate/Pack Priest <br>
 <i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Respected: an ancilla/respected Ductus <br>

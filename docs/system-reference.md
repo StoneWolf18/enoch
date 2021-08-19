@@ -15,32 +15,32 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#system-reference#auras">Auras</a></li>
+   <li><a class="toc" href="?id=auras">Auras</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#system-reference#auras-successes">Success Degrees</a></li>
-     <li><a class="toc" href="#system-reference#auras-type">Creature Type</a></li>
-     <li><a class="toc" href="#system-reference#auras-color">Emotion Colors</a></li>
+     <li><a class="toc" href="?id=auras-successes">Success Degrees</a></li>
+     <li><a class="toc" href="?id=auras-type">Creature Type</a></li>
+     <li><a class="toc" href="?id=auras-color">Emotion Colors</a></li>
      </ul>
-   <li><a class="toc" href="#system-reference#blood-bonds">Blood Bonds</a></li>
+   <li><a class="toc" href="?id=blood-bonds">Blood Bonds</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#system-reference#bond-levels">Bond Levels</a></li>
+     <li><a class="toc" href="?id=bond-levels">Bond Levels</a></li>
      </ul>
-   <li><a class="toc" href="#system-reference#frenzy-resist">Frenzy Resist</a></li>
+   <li><a class="toc" href="?id=frenzy-resist">Frenzy Resist</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#system-reference#frenzy-vampires">Vampires</a></li>
+     <li><a class="toc" href="?id=frenzy-vampires">Vampires</a></li>
        <ul class="toc">
-       <li><a class="toc" href="#system-reference#frenzy-fear">Rötschreck</a></li>
+       <li><a class="toc" href="?id=frenzy-fear">Rötschreck</a></li>
        </ul>
-     <li><a class="toc" href="#system-reference#frenzy-ghouls">Ghouls</a></li>
+     <li><a class="toc" href="?id=frenzy-ghouls">Ghouls</a></li>
      </ul>
-   <li><a class="toc" href="#system-reference#health-chart">Heath Chart</a></li>
-   <li><a class="toc" href="#system-reference#hierarchy-of-sins">Hierarchy of Sins</a></li>
-   <li><a class="toc" href="#system-reference#multiple-actions">Multiple Actions</a></li>
-   <li><a class="toc" href="#system-reference#vitae-withdrawl">Vitae Withdrawl</a></li>
-   <li><a class="toc" href="#system-reference#xp-tables">XP Tables</a></li>
+   <li><a class="toc" href="?id=health-chart">Heath Chart</a></li>
+   <li><a class="toc" href="?id=hierarchy-of-sins">Hierarchy of Sins</a></li>
+   <li><a class="toc" href="?id=multiple-actions">Multiple Actions</a></li>
+   <li><a class="toc" href="?id=vitae-withdrawl">Vitae Withdrawl</a></li>
+   <li><a class="toc" href="?id=xp-tables">XP Tables</a></li>
      <ul class="toc">
-     <li><a class="toc" href="#system-reference#xp-vampires">Vampires</a></li>
-     <li><a class="toc" href="#system-reference#xp-mortals">Mortals</a></li>
+     <li><a class="toc" href="?id=xp-vampires">Vampires</a></li>
+     <li><a class="toc" href="?id=xp-mortals">Mortals</a></li>
      </ul>
    </ul>
    </section>

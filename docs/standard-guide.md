@@ -15,71 +15,72 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc" style="color: white;">
-   <li><a class="toc" href="#welcome-to-la">Welcome to LA in Anarchy</a></li>
+   <li><a class="toc" href="?id=welcome-to-la">Welcome to LA in Anarchy</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="/standard-guide#materials">Materials</a></li>
-    <li><a class="toc" href="#rules-and-restrictions">House Rules and Restrictions</a></li>
+    <li><a class="toc" href="?id=materials">Materials</a></li>
+    <li><a class="toc" href="?id=rules-and-restrictions">House Rules and Restrictions</a></li>
    </ul>
-   <li><a class="toc" href="#getting-started">Getting Started</a></li>
+   <li><a class="toc" href="?id=getting-started">Getting Started</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#human-concept">Human Concept</a></li>
-    <li><a class="toc" href="#archetype">Archetype</a></li>
+    <li><a class="toc" href="?id=human-concept">Human Concept</a></li>
+    <li><a class="toc" href="?id=archetype">Archetype</a></li>
    </ul>
-   <li><a class="toc" href="#clan">Clan</a></li>
+   <li><a class="toc" href="?id=clan">Clan</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#clan-vampires">Vampires</a></li>
-    <li><a class="toc" href="#clan-ghouls">Ghouls</a></li>
+    <li><a class="toc" href="?id=clan-vampires">Vampires</a></li>
+    <li><a class="toc" href="?id=clan-ghouls">Ghouls</a></li>
    </ul>
-   <li><a class="toc" href="#traits">Traits</a></li>
+   <li><a class="toc" href="?id=traits">Traits</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#attributes">Attributes</a></li>
-    <li><a class="toc" href="#abilities">Abilities</a></li>
+    <li><a class="toc" href="?id=attributes">Attributes</a></li>
+    <li><a class="toc" href="?id=abilities">Abilities</a></li>
    </ul>
-   <li><a class="toc" href="#advantages">Advantages</a></li>
+   <li><a class="toc" href="?id=advantages">Advantages</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#disciplines">Disciplines</a></li>
+    <li><a class="toc" href="?id=disciplines">Disciplines</a></li>
     <ul class="toc" style="color: white;">
-      <li><a class="toc" href="#disciplines-vampires">Vampires</a></li>
-      <li><a class="toc" href="#disciplines-ghouls">Ghouls</a></li>
+      <li><a class="toc" href="?id=disciplines-vampires">Vampires</a></li>
+      <li><a class="toc" href="?id=disciplines-ghouls">Ghouls</a></li>
     </ul>
-    <li><a class="toc" href="#disciplines">Backgrounds</a></li>
+    <li><a class="toc" href="?id=disciplines">Backgrounds</a></li>
     <ul class="toc" style="color: white;">
-      <li><a class="toc" href="#backgrounds-humans">Humans</a></li>
+      <li><a class="toc" href="?id=backgrounds-humans">Humans</a></li>
     </ul>
-    <li><a class="toc" href="#virtues">Virtues</a></li>
+    <li><a class="toc" href="?id=virtues">Virtues</a></li>
    </ul>
-   <li><a class="toc" href="#finishing-touches">Finishing Touches</a></li>
+   <li><a class="toc" href="?id=finishing-touches">Finishing Touches</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#humanity">Humanity</a></li>
+    <li><a class="toc" href="?id=humanity">Humanity</a></li>
     <ul class="toc" style="color: white;">
-      <li><a class="toc" href="#paths-of-enlightenment">Paths of Enlightenment</a></li>
+      <li><a class="toc" href="?id=paths-of-enlightenment">Paths of Enlightenment</a></li>
       </ul>
-      <li><a class="toc" href="#willpower">Willpower</a></li>
-      <li><a class="toc" href="#starting-bp">Starting Blood Pool</a></li>
+      <li><a class="toc" href="?id=willpower">Willpower</a></li>
+      <li><a class="toc" href="?id=starting-bp">Starting Blood Pool</a></li>
       <ul class="toc" style="color: white;">
-        <li><a class="toc" href="#disciplines-vampires">Vampires</a></li>
-        <li><a class="toc" href="#disciplines-ghouls">Ghouls</a></li>
+        <li><a class="toc" href="?id=disciplines-vampires">Vampires</a></li>
+        <li><a class="toc" href="?id=disciplines-ghouls">Ghouls</a></li>
       </ul>
-      <li><a class="toc" href="#freebies">Freebies</a></li>
+      <li><a class="toc" href="?id=freebies">Freebies</a></li>
       <ul class="toc" style="color: white;">
-       <li><a class="toc" href="#freebies-vampires">Vampires</a></li>
-       <li><a class="toc" href="#freebies-mortals">Ghouls & Humans</a></li>
+       <li><a class="toc" href="?id=freebies-vampires">Vampires</a></li>
+       <li><a class="toc" href="?id=freebies-mortals">Ghouls & Humans</a></li>
     </ul>
-    <li><a class="toc" href="#experience">Experience</a></li>
+    <li><a class="toc" href="?id=experience">Experience</a></li>
     <ul class="toc" style="color: white;">
-     <li><a class="toc" href="#xp-vampires">Vampires</a></li>
-     <li><a class="toc" href="#xp-ghouls">Ghouls</a></li>
-     <li><a class="toc" href="#xp-huamans">Humans</a></li>
+     <li><a class="toc" href="?id=xp-vampires">Vampires</a></li>
+     <li><a class="toc" href="?id=xp-ghouls">Ghouls</a></li>
+     <li><a class="toc" href="?id=xp-huamans">Humans</a></li>
     </ul>
-    <li><a class="toc" href="#other-requirements">Other Requirements</a></li>
-    <li><a class="toc" href="#finished">Finished?</a></li>
+    <li><a class="toc" href="?id=other-requirements">Other Requirements</a></li>
+    <li><a class="toc" href="?id=finished">Finished?</a></li>
    </ul>
    </section>
+   <router-view></router-view>
  </div>
 <div class="leftHeader" style="color: white;" id="welcome-to-la">
 Welcome to LA in Anarchy
 </div>
-The information below clarifies how to create a vampire, ghoul, and mortal character for the specific LA in Anarchy setting. If you are completely brand new to V20 or Vampire in general, please refer to our <a href="new-player-guide.md">New Player Guide</a> instead, as the rules are slightly different to assist with easing new players into the game.
+The information below clarifies how to create a vampire, ghoul, and mortal character for the specific LA in Anarchy setting. If you are completely brand new to V20 or Vampire in general, please refer to our <a href="/new-player-guide">New Player Guide</a> instead, as the rules are slightly different to assist with easing new players into the game.
 
 <div class="swatchHeader" style="color: #100c0d; margin-top: 10px;" id="materials">
 Materials
@@ -116,7 +117,7 @@ There's a colored key above the title on each of the sheets. This should be used
 
 <em><b>Please</b></em> follow this key. We won't review a sheet until it's been marked properly.
 
-For information on how to use the character, please see: <a href="#using-the-sheet">Using the Sheet</a>
+For information on how to use the character, please see: <a href="/using-the-sheet">Using the Sheet</a>
 
 </div>
 
@@ -166,7 +167,7 @@ The other side to this is how the character acts behind closed doors, with those
 
 Your nature and your demeanor cannot be the same.
 
-A full list of available archetypes and what they mean can be found <a href="#archetypes">here</a>. Keep in mind that unless the character is older, they're still human in mindset while picking these out, so options like Monster as a Nature wouldn’t make sense unless they were an utterly awful human being.
+A full list of available archetypes and what they mean can be found <a href="/archetypes">here</a>. Keep in mind that unless the character is older, they're still human in mindset while picking these out, so options like Monster as a Nature wouldn’t make sense unless they were an utterly awful human being.
 </div>
 </div>
 <div class="wideImageOther" style="background-image: url('assets/guideSinner.png'); min-width: 1500px;"> </div>
@@ -182,7 +183,7 @@ Vampires
 
 * <b>Generation:</b> 8th-15th generations
 * <b>Age:</b> Freshly embraced to 500 years old with torpor included
-* <b>Bloodlines:</b> If you are interested in playing a bloodline please see the <a href="#bloodlines">specific page</a> for more information.
+* <b>Bloodlines:</b> If you are interested in playing a bloodline please see the <a href="/bloodlines">specific page</a> for more information.
 
 </div>
 
@@ -443,7 +444,7 @@ For the already scattered remnants of the clan, not much as changed for the Ravn
 
   <b>What about Lasombra?</b>
 
-  Because of how strong Obtenebration is, Lasombra Antitribu are playable as a bloodline only. You can read about how to play a bloodline <a href="#bloodlines">here</a>.
+  Because of how strong Obtenebration is, Lasombra Antitribu are playable as a bloodline only. You can read about how to play a bloodline <a href="/bloodlines">here</a>.
 
   </div>
 
@@ -466,12 +467,12 @@ For the already scattered remnants of the clan, not much as changed for the Ravn
   * All attributes start with a single dot which <b>aren't</b> counted. The only exception to this are Nosferatu, as their appearance would be 0.
   * Anything at 4 dots or higher should be justified within the character's biography and personality, considering they would have to be using it frequently to be at that level.
   * For any attributes that are at 4 dots or more, make sure to apply a specialty.
-  * Specific information on what all of the attributes mean in Vampire can be found <a href="#attributes.md">here</a>.
+  * Specific information on what all of the attributes mean in Vampire can be found <a href="/attributes">here</a>.
 
 
   </div>
 
-  For ease of reference, this is roughly what each of the dot levels mean for attributes. For specific levels at each stage, please see the <a href="#attributes">attributes</a> page.
+  For ease of reference, this is roughly what each of the dot levels mean for attributes. For specific levels at each stage, please see the <a href="/attributes">attributes</a> page.
 
 <i class="fas fa-circle fa-sm"></i> <b>Poor:</b> Unexercised, unpracticed, or inept. <br>
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Average:</b> The result of occasional effort or application. <br>
@@ -496,7 +497,7 @@ At this stage in character creation, nothing can be over three dots. Any abiliti
 
 </div>
 
-For ease of reference, this is roughly what each of the dot levels mean for abilities. For specific levels at each stage, please see the <a href="#abilities">abilities</a> page.
+For ease of reference, this is roughly what each of the dot levels mean for abilities. For specific levels at each stage, please see the <a href="/abilities">abilities</a> page.
 
 <i class="fas fa-circle fa-sm"></i> <b>Novice:</b> Basic knowledge and/or techniques. <br>
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Practitioner:</b> Solid working knowledge and/or techniques. <br>
@@ -531,7 +532,7 @@ There are abilities that require you to select specialties early:
     </div>
   You get 3 dots to spread across the three Disciplines your character's clan starts with. You could put one in each, all three in one, or any other combination that suits them as a character. Keep in mind that if any are left at 0 dots, it will cost 10 XP to get the first dot, in-Clan or not.
 
-  * <b>Blood Magic:</b> If you are taking a blood sorcery, you can take any combination of rituals with levels equal to those dots. (ie: If you have 5 dots in Thaumaturgy, you can either start with one level 5 Ritual, 5 level 1 Rituals, or any combination thereof.) You may learn more Rituals later on by following the process outlined in our <a href="rules#house-rules">House Rules</a>.
+  * <b>Blood Magic:</b> If you are taking a blood sorcery, you can take any combination of rituals with levels equal to those dots. (ie: If you have 5 dots in Thaumaturgy, you can either start with one level 5 Ritual, 5 level 1 Rituals, or any combination thereof.) You may learn more Rituals later on by following the process outlined in our <a href="/rules?id=house-rules">House Rules</a>.
   * <b>Caitiff:</b> It needs to be specified what clan spawned them (what clan their sire was) and then take 1-2 disciplines from that clan and then the rest in common disciplines (Animalism, Auspex, Celerity, Dominate, Presence, Potence, Fortitude, and Obfuscate.) Caitiff cannot take any type of blood sorcery, and any caitiff spawned by a caitiff can only have common disciplines.
 
   <div class="thirdHeader" id-"disciplines-ghouls">
@@ -562,7 +563,7 @@ Havens are counted under resources, domain is different.
 
 You get 5 Background dots to spend. All backgrounds should be explained on the given page of the character sheet and justified within the character's backstory.
 
-Read on the available backgrounds <a href="#backgrounds">here</a>.
+Read on the available backgrounds <a href="/backgrounds">here</a>.
 
 <div class="thirdHeader" id="backgrounds-humans">
 Humans
