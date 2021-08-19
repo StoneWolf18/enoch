@@ -15,64 +15,64 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc" style="color: white;">
-   <li><a class="toc" href="#standard-guide#welcome-to-la">Welcome to LA in Anarchy</a></li>
+   <li><a class="toc" href="#welcome-to-la">Welcome to LA in Anarchy</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#standard-guide#materials">Materials</a></li>
-    <li><a class="toc" href="#standard-guide#rules-and-restrictions">House Rules and Restrictions</a></li>
+    <li><a class="toc" href="#materials">Materials</a></li>
+    <li><a class="toc" href="#rules-and-restrictions">House Rules and Restrictions</a></li>
    </ul>
-   <li><a class="toc" href="#standard-guide#getting-started">Getting Started</a></li>
+   <li><a class="toc" href="#getting-started">Getting Started</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#standard-guide#human-concept">Human Concept</a></li>
-    <li><a class="toc" href="#standard-guide#archetype">Archetype</a></li>
+    <li><a class="toc" href="#human-concept">Human Concept</a></li>
+    <li><a class="toc" href="#archetype">Archetype</a></li>
    </ul>
-   <li><a class="toc" href="#standard-guide#clan">Clan</a></li>
+   <li><a class="toc" href="#clan">Clan</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#standard-guide#clan-vampires">Vampires</a></li>
-    <li><a class="toc" href="#standard-guide#clan-ghouls">Ghouls</a></li>
+    <li><a class="toc" href="#clan-vampires">Vampires</a></li>
+    <li><a class="toc" href="#clan-ghouls">Ghouls</a></li>
    </ul>
-   <li><a class="toc" href="#standard-guide#traits">Traits</a></li>
+   <li><a class="toc" href="#traits">Traits</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#standard-guide#attributes">Attributes</a></li>
-    <li><a class="toc" href="#standard-guide#abilities">Abilities</a></li>
+    <li><a class="toc" href="#attributes">Attributes</a></li>
+    <li><a class="toc" href="#abilities">Abilities</a></li>
    </ul>
-   <li><a class="toc" href="#standard-guide#advantages">Advantages</a></li>
+   <li><a class="toc" href="#advantages">Advantages</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#standard-guide#disciplines">Disciplines</a></li>
+    <li><a class="toc" href="#disciplines">Disciplines</a></li>
     <ul class="toc" style="color: white;">
-      <li><a class="toc" href="#standard-guide#disciplines-vampires">Vampires</a></li>
-      <li><a class="toc" href="#standard-guide#disciplines-ghouls">Ghouls</a></li>
+      <li><a class="toc" href="#disciplines-vampires">Vampires</a></li>
+      <li><a class="toc" href="#disciplines-ghouls">Ghouls</a></li>
     </ul>
-    <li><a class="toc" href="#standard-guide#disciplines">Backgrounds</a></li>
+    <li><a class="toc" href="#disciplines">Backgrounds</a></li>
     <ul class="toc" style="color: white;">
-      <li><a class="toc" href="#standard-guide#backgrounds-humans">Humans</a></li>
+      <li><a class="toc" href="#backgrounds-humans">Humans</a></li>
     </ul>
-    <li><a class="toc" href="#standard-guide#virtues">Virtues</a></li>
+    <li><a class="toc" href="#virtues">Virtues</a></li>
    </ul>
-   <li><a class="toc" href="#standard-guide#finishing-touches">Finishing Touches</a></li>
+   <li><a class="toc" href="#finishing-touches">Finishing Touches</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#standard-guide#humanity">Humanity</a></li>
+    <li><a class="toc" href="#humanity">Humanity</a></li>
     <ul class="toc" style="color: white;">
-      <li><a class="toc" href="#standard-guide#paths-of-enlightenment">Paths of Enlightenment</a></li>
+      <li><a class="toc" href="#paths-of-enlightenment">Paths of Enlightenment</a></li>
       </ul>
-      <li><a class="toc" href="#standard-guide#willpower">Willpower</a></li>
-      <li><a class="toc" href="#standard-guide#starting-bp">Starting Blood Pool</a></li>
+      <li><a class="toc" href="#willpower">Willpower</a></li>
+      <li><a class="toc" href="#starting-bp">Starting Blood Pool</a></li>
       <ul class="toc" style="color: white;">
-        <li><a class="toc" href="#standard-guide#disciplines-vampires">Vampires</a></li>
-        <li><a class="toc" href="#standard-guide#disciplines-ghouls">Ghouls</a></li>
+        <li><a class="toc" href="#disciplines-vampires">Vampires</a></li>
+        <li><a class="toc" href="#disciplines-ghouls">Ghouls</a></li>
       </ul>
-      <li><a class="toc" href="#standard-guide#freebies">Freebies</a></li>
+      <li><a class="toc" href="#freebies">Freebies</a></li>
       <ul class="toc" style="color: white;">
-       <li><a class="toc" href="#standard-guide#freebies-vampires">Vampires</a></li>
-       <li><a class="toc" href="#standard-guide#freebies-mortals">Ghouls & Humans</a></li>
+       <li><a class="toc" href="#freebies-vampires">Vampires</a></li>
+       <li><a class="toc" href="#freebies-mortals">Ghouls & Humans</a></li>
     </ul>
-    <li><a class="toc" href="#standard-guide#experience">Experience</a></li>
+    <li><a class="toc" href="#experience">Experience</a></li>
     <ul class="toc" style="color: white;">
-     <li><a class="toc" href="#standard-guide#xp-vampires">Vampires</a></li>
-     <li><a class="toc" href="#standard-guide#xp-ghouls">Ghouls</a></li>
-     <li><a class="toc" href="#standard-guide#xp-huamans">Humans</a></li>
+     <li><a class="toc" href="#xp-vampires">Vampires</a></li>
+     <li><a class="toc" href="#xp-ghouls">Ghouls</a></li>
+     <li><a class="toc" href="#xp-huamans">Humans</a></li>
     </ul>
-    <li><a class="toc" href="#standard-guide#other-requirements">Other Requirements</a></li>
-    <li><a class="toc" href="#standard-guide#finished">Finished?</a></li>
+    <li><a class="toc" href="#other-requirements">Other Requirements</a></li>
+    <li><a class="toc" href="#finished">Finished?</a></li>
    </ul>
    </section>
  </div>
