@@ -17,7 +17,7 @@
    <ul class="toc" style="color: white;">
    <li><a class="toc" href="#welcome-to-la">Welcome to LA in Anarchy</a></li>
    <ul class="toc" style="color: white;">
-    <li><a class="toc" href="#materials">Materials</a></li>
+    <li><a class="toc" href="/standard-guide#materials">Materials</a></li>
     <li><a class="toc" href="#rules-and-restrictions">House Rules and Restrictions</a></li>
    </ul>
    <li><a class="toc" href="#getting-started">Getting Started</a></li>
@@ -531,7 +531,7 @@ There are abilities that require you to select specialties early:
     </div>
   You get 3 dots to spread across the three Disciplines your character's clan starts with. You could put one in each, all three in one, or any other combination that suits them as a character. Keep in mind that if any are left at 0 dots, it will cost 10 XP to get the first dot, in-Clan or not.
 
-  * <b>Blood Magic:</b> If you are taking a blood sorcery, you can take any combination of rituals with levels equal to those dots. (ie: If you have 5 dots in Thaumaturgy, you can either start with one level 5 Ritual, 5 level 1 Rituals, or any combination thereof.) You may learn more Rituals later on by following the process outlined in our <a href="rules.md#house-rules">House Rules</a>.
+  * <b>Blood Magic:</b> If you are taking a blood sorcery, you can take any combination of rituals with levels equal to those dots. (ie: If you have 5 dots in Thaumaturgy, you can either start with one level 5 Ritual, 5 level 1 Rituals, or any combination thereof.) You may learn more Rituals later on by following the process outlined in our <a href="rules#house-rules">House Rules</a>.
   * <b>Caitiff:</b> It needs to be specified what clan spawned them (what clan their sire was) and then take 1-2 disciplines from that clan and then the rest in common disciplines (Animalism, Auspex, Celerity, Dominate, Presence, Potence, Fortitude, and Obfuscate.) Caitiff cannot take any type of blood sorcery, and any caitiff spawned by a caitiff can only have common disciplines.
 
   <div class="thirdHeader" id-"disciplines-ghouls">
