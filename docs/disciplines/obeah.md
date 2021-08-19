@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/obeah#•">• Sense Vitality</a></li>
-   <li><a class="toc" href="#disciplines/obeah#••">•• Anesthetic Touch</a></li>
-   <li><a class="toc" href="#disciplines/obeah#•••">••• Corpore Sano</a></li>
-   <li><a class="toc" href="#disciplines/obeah#••••">•••• Shepherd’s Watch</a></li>
-   <li><a class="toc" href="#disciplines/obeah#•••••">••••• Mens Sana</a></li>
+   <li><a class="toc" href="?id=•">• Sense Vitality</a></li>
+   <li><a class="toc" href="?id=••">•• Anesthetic Touch</a></li>
+   <li><a class="toc" href="?id=•••">••• Corpore Sano</a></li>
+   <li><a class="toc" href="?id=••••">•••• Shepherd’s Watch</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Mens Sana</a></li>
    </ul>
    </section>
  </div>

@@ -35,37 +35,37 @@ While these disciplines have been printed in various books over many editions, t
 
 </div>
 
-* <a href="disciplines/animalism">Animalism</a> — Supernatural affinity with and control of animals. (V20 Core - 128)
-* <a href="disciplines/auspex">Auspex</a> — Extrasensory perception, awareness and premonitions. (V20 Core - 134)
-* <a href="disciplines/celerity">Celerity</a> — Supernatural quickness and reflexes. (V20 Core - 142)
-* <a href="disciplines/chimerstry">Chimerstry</a> — The ability to create illusions and hallucinations. (V20 Core - 144)
-* <a href="disciplines/dementation">Dementation</a> — The ability to inflict madness upon a victim. (V20 Core - 147)
-* <a href="disciplines/dominate">Dominate</a> — Mind control practiced through the piercing gaze. (V20 Core - 151)
-* <a href="disciplines/fortitude">Fortitude</a> — Unearthly toughness, even to the point of resisting fire and sunlight. (V20 Core - 158)
-* <a href="disciplines/necromancy">Necromancy</a> — The supernatural power to summon and control the dead. (V20 Core - 159)
-* <a href="disciplines/obfuscate">Obfuscate</a> — The ability to remain obscure and unseen, even in crowds. (V20 Core - 184)
-* <a href="disciplines/obtenebration">Obtenebration</a> — Unearthly control over shadows. (V20 Core - 188)
-* <a href="disciplines/potence">Potence</a> — The Discipline of physical vigor and strength. (V20 Core - 192)
-* <a href="disciplines/presence">Presence</a> — The ability to attract, sway and control crowds. (V20 Core - 193)
-* <a href="disciplines/protean">Protean</a> — Shapechanging, from growing claws to melding with the earth. (V20 Core - 199)
-* <a href="disciplines/quietus">Quietus</a> — The art of assassination. (V20 Core - 203)
-* <a href="disciplines/serpentis">Serpentis</a> — The Discipline of reptilian powers. (V20 Core - 209)
-* <a href="disciplines/thaumaturgy">Thaumaturgy</a> — The study and practice of blood sorcery. (V20 Core - 212)
-* <a href="disciplines/vicissitude">Vicissitude</a> — The art of flesh-shaping. (V20 Core - 241)
+* <a href="./disciplines/animalism">Animalism</a> — Supernatural affinity with and control of animals. (V20 Core - 128)
+* <a href="./disciplines/auspex">Auspex</a> — Extrasensory perception, awareness and premonitions. (V20 Core - 134)
+* <a href="./disciplines/celerity">Celerity</a> — Supernatural quickness and reflexes. (V20 Core - 142)
+* <a href="./disciplines/chimerstry">Chimerstry</a> — The ability to create illusions and hallucinations. (V20 Core - 144)
+* <a href="./disciplines/dementation">Dementation</a> — The ability to inflict madness upon a victim. (V20 Core - 147)
+* <a href="./disciplines/dominate">Dominate</a> — Mind control practiced through the piercing gaze. (V20 Core - 151)
+* <a href="./disciplines/fortitude">Fortitude</a> — Unearthly toughness, even to the point of resisting fire and sunlight. (V20 Core - 158)
+* <a href="./disciplines/necromancy">Necromancy</a> — The supernatural power to summon and control the dead. (V20 Core - 159)
+* <a href="./disciplines/obfuscate">Obfuscate</a> — The ability to remain obscure and unseen, even in crowds. (V20 Core - 184)
+* <a href="./disciplines/obtenebration">Obtenebration</a> — Unearthly control over shadows. (V20 Core - 188)
+* <a href="./disciplines/potence">Potence</a> — The Discipline of physical vigor and strength. (V20 Core - 192)
+* <a href="./disciplines/presence">Presence</a> — The ability to attract, sway and control crowds. (V20 Core - 193)
+* <a href="./disciplines/protean">Protean</a> — Shapechanging, from growing claws to melding with the earth. (V20 Core - 199)
+* <a href="./disciplines/quietus">Quietus</a> — The art of assassination. (V20 Core - 203)
+* <a href="./disciplines/serpentis">Serpentis</a> — The Discipline of reptilian powers. (V20 Core - 209)
+* <a href="./disciplines/thaumaturgy">Thaumaturgy</a> — The study and practice of blood sorcery. (V20 Core - 212)
+* <a href="./disciplines/vicissitude">Vicissitude</a> — The art of flesh-shaping. (V20 Core - 241)
 
 
 <div class="leftHeader">Bloodline Disciplines</div>
 These are the disciplines that the bloodlines we allow have access to.
 
-* <a href="disciplines/bardo">Bardo</a> — A discipline honed by strict self-discipline and meditation, gifted by Osiris himself. (V20 Core - 442)
-* <a href="disciplines/dur-an-ki">Dur-An-Ki</a> — Call upon ancient covenants with spirits, commanding them to fulfill a sorcerer's desires. (V20 Core - 440)
-* <a href="disciplines/flight">Flight</a> — The supernatural discipline by which heavy Gargoyles fly. (V20 Core - 447)
-* <a href="disciplines/melpominee">Melpominee</a> - Named for Melpomene, the Greek Muse of tragedy, the unique Discipline is one of speech and song. (V20 Core - 453)
-* <a href="disciplines/mytherceria">Mytherceria</a> - A collection of powers which is believed to mimic the abilities of faeries (V20 - 455)
-* <a href="disciplines/obeah">Obeah</a> — The ability to heal and cleanse at the expense of a third, enlightened, eye. (V20 Core - 457)
-* <a href="disciplines/thanatosis">Thanatosis</a> — The necromantic ability to control the effects of death and decomposition. (V20 Core - 440)
-* <a href="disciplines/valeren">Valeren</a> — The power of heaven allows foes to be struck down. (V20 Core - 474)
-* <a href="disciplines/visceratika">Visceratika</a> — Defense through the power of earth and stone. (V20 Core - 475)
+* <a href="./disciplines/bardo">Bardo</a> — A discipline honed by strict self-discipline and meditation, gifted by Osiris himself. (V20 Core - 442)
+* <a href="./disciplines/dur-an-ki">Dur-An-Ki</a> — Call upon ancient covenants with spirits, commanding them to fulfill a sorcerer's desires. (V20 Core - 440)
+* <a href="./disciplines/flight">Flight</a> — The supernatural discipline by which heavy Gargoyles fly. (V20 Core - 447)
+* <a href="./disciplines/melpominee">Melpominee</a> - Named for Melpomene, the Greek Muse of tragedy, the unique Discipline is one of speech and song. (V20 Core - 453)
+* <a href="./disciplines/mytherceria">Mytherceria</a> - A collection of powers which is believed to mimic the abilities of faeries (V20 - 455)
+* <a href="./disciplines/obeah">Obeah</a> — The ability to heal and cleanse at the expense of a third, enlightened, eye. (V20 Core - 457)
+* <a href="./disciplines/thanatosis">Thanatosis</a> — The necromantic ability to control the effects of death and decomposition. (V20 Core - 440)
+* <a href="./disciplines/valeren">Valeren</a> — The power of heaven allows foes to be struck down. (V20 Core - 474)
+* <a href="./disciplines/visceratika">Visceratika</a> — Defense through the power of earth and stone. (V20 Core - 475)
 
 </div>
 

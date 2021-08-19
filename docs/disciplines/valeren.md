@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/valeren#•">• Sense Vitality</a></li>
-   <li><a class="toc" href="#disciplines/valeren#••">•• Anesthetic Touch</a></li>
-   <li><a class="toc" href="#disciplines/valeren#•••">••• Burning Touch</a></li>
-   <li><a class="toc" href="#disciplines/valeren#••••">•••• Armor of Caine’s Fury</a></li>
-   <li><a class="toc" href="#disciplines/valeren#•••••">••••• Vengeance of Samiel</a></li>
+   <li><a class="toc" href="?id=•">• Sense Vitality</a></li>
+   <li><a class="toc" href="?id=••">•• Anesthetic Touch</a></li>
+   <li><a class="toc" href="?id=•••">••• Burning Touch</a></li>
+   <li><a class="toc" href="?id=••••">•••• Armor of Caine’s Fury</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Vengeance of Samiel</a></li>
    </ul>
    </section>
  </div>

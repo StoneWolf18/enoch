@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/presence#•">• Awe</a></li>
-   <li><a class="toc" href="#disciplines/presence#••">•• Dread Gaze</a></li>
-   <li><a class="toc" href="#disciplines/presence#•••">••• Entrancement</a></li>
-   <li><a class="toc" href="#disciplines/presence#••••">•••• Summon</a></li>
-   <li><a class="toc" href="#disciplines/presence#•••••">••••• Majesty</a></li>
+   <li><a class="toc" href="?id=•">• Awe</a></li>
+   <li><a class="toc" href="?id=••">•• Dread Gaze</a></li>
+   <li><a class="toc" href="?id=•••">••• Entrancement</a></li>
+   <li><a class="toc" href="?id=••••">•••• Summon</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Majesty</a></li>
    </ul>
    </section>
  </div>

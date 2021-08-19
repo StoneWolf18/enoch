@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/chimerstry#•">• Ignis Fatuus</a></li>
-   <li><a class="toc" href="#disciplines/chimerstry#••">•• Fata Morgana</a></li>
-   <li><a class="toc" href="#disciplines/chimerstry#•••">••• Apparition</a></li>
-   <li><a class="toc" href="#disciplines/chimerstry#••••">•••• Permanency</a></li>
-   <li><a class="toc" href="#disciplines/chimerstry#•••••">••••• Horrid Reality</a></li>
+   <li><a class="toc" href="?id=•">• Ignis Fatuus</a></li>
+   <li><a class="toc" href="?id=••">•• Fata Morgana</a></li>
+   <li><a class="toc" href="?id=•••">••• Apparition</a></li>
+   <li><a class="toc" href="?id=••••">•••• Permanency</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Horrid Reality</a></li>
    </ul>
    </section>
  </div>

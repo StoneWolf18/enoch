@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/auspex#•">• Heightened Senses</a></li>
-   <li><a class="toc" href="#disciplines/auspex#••">•• Aura Perception</a></li>
-   <li><a class="toc" href="#disciplines/auspex#•••">••• The Spirit’s Touch</a></li>
-   <li><a class="toc" href="#disciplines/auspex#••••">•••• Telepathy</a></li>
-   <li><a class="toc" href="#disciplines/auspex#•••••">••••• Psychic Projection</a></li>
+   <li><a class="toc" href="?id=•">• Heightened Senses</a></li>
+   <li><a class="toc" href="?id=••">•• Aura Perception</a></li>
+   <li><a class="toc" href="?id=•••">••• The Spirit’s Touch</a></li>
+   <li><a class="toc" href="?id=••••">•••• Telepathy</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Psychic Projection</a></li>
    </ul>
    </section>
  </div>

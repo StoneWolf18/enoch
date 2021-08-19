@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/quietus#•">• Silence of Death</a></li>
-   <li><a class="toc" href="#disciplines/quietus#••">•• Scorpion’s Touch</a></li>
-   <li><a class="toc" href="#disciplines/quietus#•••">••• Dagon’s Call</a></li>
-   <li><a class="toc" href="#disciplines/quietus#••••">•••• Baal’s Caress</a></li>
-   <li><a class="toc" href="#disciplines/quietus#•••••">••••• Taste of Death</a></li>
+   <li><a class="toc" href="?id=•">• Silence of Death</a></li>
+   <li><a class="toc" href="?id=••">•• Scorpion’s Touch</a></li>
+   <li><a class="toc" href="?id=•••">••• Dagon’s Call</a></li>
+   <li><a class="toc" href="?id=••••">•••• Baal’s Caress</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Taste of Death</a></li>
    </ul>
    </section>
  </div>

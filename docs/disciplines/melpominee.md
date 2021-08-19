@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/melpominee#•">• The Missing Voice</a></li>
-   <li><a class="toc" href="#disciplines/melpominee#••">•• Phantom Speaker</a></li>
-   <li><a class="toc" href="#disciplines/melpominee#•••">••• Madrigal</a></li>
-   <li><a class="toc" href="#disciplines/melpominee#••••">•••• Siren’s Beckoning</a></li>
-   <li><a class="toc" href="#disciplines/melpominee#•••••">••••• Virtuosa</a></li>
+   <li><a class="toc" href="?id=•">• The Missing Voice</a></li>
+   <li><a class="toc" href="?id=••">•• Phantom Speaker</a></li>
+   <li><a class="toc" href="?id=•••">••• Madrigal</a></li>
+   <li><a class="toc" href="?id=••••">•••• Siren’s Beckoning</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Virtuosa</a></li>
    </ul>
    </section>
  </div>

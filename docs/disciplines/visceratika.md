@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/visceratika#•">• Skin of the Chameleon</a></li>
-   <li><a class="toc" href="#disciplines/visceratika#••">•• Scry the Hearthstone</a></li>
-   <li><a class="toc" href="#disciplines/visceratika#•••">••• Bond with the Mountain</a></li>
-   <li><a class="toc" href="#disciplines/visceratika#••••">•••• Armor of Terra</a></li>
-   <li><a class="toc" href="#disciplines/visceratika#•••••">••••• Flow Within the Mountain</a></li>
+   <li><a class="toc" href="?id=•">• Skin of the Chameleon</a></li>
+   <li><a class="toc" href="?id=••">•• Scry the Hearthstone</a></li>
+   <li><a class="toc" href="?id=•••">••• Bond with the Mountain</a></li>
+   <li><a class="toc" href="?id=••••">•••• Armor of Terra</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Flow Within the Mountain</a></li>
    </ul>
    </section>
  </div>

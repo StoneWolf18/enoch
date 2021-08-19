@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/protean#•">• Eyes of the Beast</a></li>
-   <li><a class="toc" href="#disciplines/protean#••">•• Feral Claws</a></li>
-   <li><a class="toc" href="#disciplines/protean#•••">••• Earth Meld</a></li>
-   <li><a class="toc" href="#disciplines/protean#••••">•••• Shape of the Beast</a></li>
-   <li><a class="toc" href="#disciplines/protean#•••••">••••• Mist Form</a></li>
+   <li><a class="toc" href="?id=•">• Eyes of the Beast</a></li>
+   <li><a class="toc" href="?id=••">•• Feral Claws</a></li>
+   <li><a class="toc" href="?id=•••">••• Earth Meld</a></li>
+   <li><a class="toc" href="?id=••••">•••• Shape of the Beast</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Mist Form</a></li>
    </ul>
    </section>
  </div>

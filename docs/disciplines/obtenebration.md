@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/obtenebration#•">• Shadow Play</a></li>
-   <li><a class="toc" href="#disciplines/obtenebration#••">•• Shroud of Night</a></li>
-   <li><a class="toc" href="#disciplines/obtenebration#•••">••• Arms of the Abyss</a></li>
-   <li><a class="toc" href="#disciplines/obtenebration#••••">•••• Black Metamorphosis</a></li>
-   <li><a class="toc" href="#disciplines/obtenebration#•••••">••••• Tenebrous Form</a></li>
+   <li><a class="toc" href="?id=•">• Shadow Play</a></li>
+   <li><a class="toc" href="?id=••">•• Shroud of Night</a></li>
+   <li><a class="toc" href="?id=•••">••• Arms of the Abyss</a></li>
+   <li><a class="toc" href="?id=••••">•••• Black Metamorphosis</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Tenebrous Form</a></li>
    </ul>
    </section>
  </div>

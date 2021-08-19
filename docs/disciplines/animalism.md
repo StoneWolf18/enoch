@@ -4,7 +4,7 @@
 
 <div class="pageHero" style="background-image: url('assets/subpageCover.png')";>
   <div class="pageHeroHeader">
-      Name
+      Animalism
   </div>
 </div>
 

@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/dementation#•">• Passion</a></li>
-   <li><a class="toc" href="#disciplines/dementation#••">•• The Haunting</a></li>
-   <li><a class="toc" href="#disciplines/dementation#•••">••• Eyes of Chaos</a></li>
-   <li><a class="toc" href="#disciplines/dementation#••••">•••• Voice of Madness</a></li>
-   <li><a class="toc" href="#disciplines/dementation#•••••">••••• Total Insanity</a></li>
+   <li><a class="toc" href="?id=•">• Passion</a></li>
+   <li><a class="toc" href="?id=••">•• The Haunting</a></li>
+   <li><a class="toc" href="?id=•••">••• Eyes of Chaos</a></li>
+   <li><a class="toc" href="?id=••••">•••• Voice of Madness</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Total Insanity</a></li>
    </ul>
    </section>
  </div>
@@ -81,7 +81,7 @@ The Kindred must gain her target’s undivided attention for at least one full t
 2 successes — One night <br>
 3 successes — One week <br>
 4 successes — One month <br>
-5+ successes — One year 
+5+ successes — One year
 
 On a botch… well, the Storyteller can decide what a vampire inflicts upon herself by attempting to incite the primal hells lurking within the darkest recesses of a victim’s mind.
 

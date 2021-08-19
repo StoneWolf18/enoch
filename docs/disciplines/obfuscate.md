@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/obfuscate#•">• Cloak of Shadows</a></li>
-   <li><a class="toc" href="#disciplines/obfuscate#••">•• Unseen Presence</a></li>
-   <li><a class="toc" href="#disciplines/obfuscate#•••">••• Mask of a Thousand Faces</a></li>
-   <li><a class="toc" href="#disciplines/obfuscate#••••">•••• Vanish from the Mind’s Eye</a></li>
-   <li><a class="toc" href="#disciplines/obfuscate#•••••">••••• Cloak the Gathering</a></li>
+   <li><a class="toc" href="?id=•">• Cloak of Shadows</a></li>
+   <li><a class="toc" href="?id=••">•• Unseen Presence</a></li>
+   <li><a class="toc" href="?id=•••">••• Mask of a Thousand Faces</a></li>
+   <li><a class="toc" href="?id=••••">•••• Vanish from the Mind’s Eye</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Cloak the Gathering</a></li>
    </ul>
    </section>
  </div>

@@ -15,12 +15,12 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/dominate#resist">Resisting Dominate</a></li>
-   <li><a class="toc" href="#disciplines/dominate#•">• Command</a></li>
-   <li><a class="toc" href="#disciplines/dominate#••">•• Mesmerize</a></li>
-   <li><a class="toc" href="#disciplines/dominate#•••">••• The Forgetful Mind</a></li>
-   <li><a class="toc" href="#disciplines/dominate#••••">•••• Conditioning</a></li>
-   <li><a class="toc" href="#disciplines/dominate#•••••">••••• Possession</a></li>
+   <li><a class="toc" href="?id=resist">Resisting Dominate</a></li>
+   <li><a class="toc" href="?id=•">• Command</a></li>
+   <li><a class="toc" href="?id=••">•• Mesmerize</a></li>
+   <li><a class="toc" href="?id=•••">••• The Forgetful Mind</a></li>
+   <li><a class="toc" href="?id=••••">•••• Conditioning</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Possession</a></li>
    </ul>
    </section>
  </div>

@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/mytherceria#•">• Folderol</a></li>
-   <li><a class="toc" href="#disciplines/mytherceria#••">•• Fae Sight</a></li>
-   <li><a class="toc" href="#disciplines/mytherceria#•••">••• Aura Absorption</a></li>
-   <li><a class="toc" href="#disciplines/mytherceria#••••">•••• Chanjelin Ward</a></li>
-   <li><a class="toc" href="#disciplines/mytherceria#•••••">••••• The Riddle Phantastique</a></li>
+   <li><a class="toc" href="?id=•">• Folderol</a></li>
+   <li><a class="toc" href="?id=••">•• Fae Sight</a></li>
+   <li><a class="toc" href="?id=•••">••• Aura Absorption</a></li>
+   <li><a class="toc" href="?id=••••">•••• Chanjelin Ward</a></li>
+   <li><a class="toc" href="?id=•••••">••••• The Riddle Phantastique</a></li>
    </ul>
    </section>
  </div>

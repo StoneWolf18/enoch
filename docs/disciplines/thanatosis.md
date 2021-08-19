@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/thanatosis#•">• Hag’s Wrinkles</a></li>
-   <li><a class="toc" href="#disciplines/thanatosis#••">•• Putrefaction</a></li>
-   <li><a class="toc" href="#disciplines/thanatosis#•••">••• Ashes to Ashes</a></li>
-   <li><a class="toc" href="#disciplines/thanatosis#••••">•••• Withering</a></li>
-   <li><a class="toc" href="#disciplines/thanatosis#•••••">••••• Necrosis</a></li>
+   <li><a class="toc" href="?id=•">• Hag’s Wrinkles</a></li>
+   <li><a class="toc" href="?id=••">•• Putrefaction</a></li>
+   <li><a class="toc" href="?id=•••">••• Ashes to Ashes</a></li>
+   <li><a class="toc" href="?id=••••">•••• Withering</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Necrosis</a></li>
    </ul>
    </section>
  </div>

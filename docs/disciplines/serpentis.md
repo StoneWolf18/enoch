@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/serpentis#•">• The Eyes of the Serpent</a></li>
-   <li><a class="toc" href="#disciplines/serpentis#••">•• The Tongue of the Asp</a></li>
-   <li><a class="toc" href="#disciplines/serpentis#•••">••• The Skin of the Adder</a></li>
-   <li><a class="toc" href="#disciplines/serpentis#••••">•••• The Form of the Cobra</a></li>
-   <li><a class="toc" href="#disciplines/serpentis#•••••">••••• The Heart of Darkness</a></li>
+   <li><a class="toc" href="?id=•">• The Eyes of the Serpent</a></li>
+   <li><a class="toc" href="?id=••">•• The Tongue of the Asp</a></li>
+   <li><a class="toc" href="?id=•••">••• The Skin of the Adder</a></li>
+   <li><a class="toc" href="?id=••••">•••• The Form of the Cobra</a></li>
+   <li><a class="toc" href="?id=•••••">••••• The Heart of Darkness</a></li>
    </ul>
    </section>
  </div>

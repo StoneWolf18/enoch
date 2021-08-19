@@ -15,11 +15,11 @@
  <div id="expand">
    <section class ="toc">
    <ul class="toc">
-   <li><a class="toc" href="#disciplines/vicissitude#•">• Malleable Visage</a></li>
-   <li><a class="toc" href="#disciplines/vicissitude#••">•• Fleshcraft</a></li>
-   <li><a class="toc" href="#disciplines/vicissitude#•••">••• Bonecraft</a></li>
-   <li><a class="toc" href="#disciplines/vicissitude#••••">•••• Horrid Form</a></li>
-   <li><a class="toc" href="#disciplines/vicissitude#•••••">••••• Bloodform</a></li>
+   <li><a class="toc" href="?id=•">• Malleable Visage</a></li>
+   <li><a class="toc" href="?id=••">•• Fleshcraft</a></li>
+   <li><a class="toc" href="?id=•••">••• Bonecraft</a></li>
+   <li><a class="toc" href="?id=••••">•••• Horrid Form</a></li>
+   <li><a class="toc" href="?id=•••••">••••• Bloodform</a></li>
    </ul>
    </section>
  </div>
