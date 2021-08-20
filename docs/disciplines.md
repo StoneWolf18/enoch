@@ -35,7 +35,7 @@ While these disciplines have been printed in various books over many editions, t
 
 </div>
 
-* <a href="./disciplines/animalism">Animalism</a> — Supernatural affinity with and control of animals. (V20 Core - 128)
+* <a href="disciplines/animalism">Animalism</a> — Supernatural affinity with and control of animals. (V20 Core - 128)
 * <a href="./disciplines/auspex">Auspex</a> — Extrasensory perception, awareness and premonitions. (V20 Core - 134)
 * <a href="./disciplines/celerity">Celerity</a> — Supernatural quickness and reflexes. (V20 Core - 142)
 * <a href="./disciplines/chimerstry">Chimerstry</a> — The ability to create illusions and hallucinations. (V20 Core - 144)

@@ -2,7 +2,7 @@
   <title>LAiA - Name</title>
 </head>
 
-<div class="pageHero" style="background-image: url('../../assets/subpageCover.png')";>
+<div class="pageHero" style="background-image: url('../assets/subpageCover.png')";>
   <div class="pageHeroHeader">
       Animalism
   </div>
