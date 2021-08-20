@@ -1,5 +1,5 @@
 <head>
-  <title>LAiA - Name</title>
+  <link rel="stylesheet" href="../theme-custom.css">
 </head>
 
 <div class="pageHero" style="background-image: url('../assets/subpageCover.png')";>
