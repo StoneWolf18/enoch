@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" href="../theme-custom.css">
-</head>
-
 <div class="pageHero" style="background-image: url('../assets/subpageCover.png')";>
   <div class="pageHeroHeader">
       Animalism
