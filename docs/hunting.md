@@ -57,7 +57,7 @@ Process
 * Pick an <b>Attribute</b> and <b>Ability</b> to roll. They must logically work together to convey how your character is hunting.
 * Decide if a discipline is being added. Recognize that there can be consequences depending on the power used.
 * Calculate the difficulty
-* Roll your pool of dice against the difficulty
+* Roll your pool of dice against the difficulty. <b>Specialties do not apply to any hunting rolls.</b>
 
 You can take as many blood points from a hunt as you get successes, which can be from different vessels.
 
