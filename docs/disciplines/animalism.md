@@ -121,6 +121,6 @@ If the character leaves the target’s presence before the frenzy expends itself
   <div class=whiteBlueBreak> </div>
   <div class="footer" style="color: white; background-color: #384b7e;">
     La in Anarchy (LAiA) is not official World of Darkness material from White Wolf. Portions of this material are copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information, please visit: <a href="https://worldofdarkness.com/">https://worldofdarkness.com/</a>
-    <span style="margin-top: 10px;"> <img src='assets/darkPack.png' width="130px"> </span>
+    <span style="margin-top: 10px;"> <img src='../assets/darkPack.png' width="130px"> </span>
     </div>
 </div>
